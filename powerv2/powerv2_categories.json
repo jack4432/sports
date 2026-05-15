@@ -1,43 +1,27 @@
 {
   "Football": [
     {
-      "id": "9203",
-      "name": "Real Sociedad at Girona (Spanish)",
-      "url": "https://mainstreams.pro/hls/griogoehvn2.m3u8?st=wSGSmJ2Gbzq7Yi58sWNwr3dLx5VMbQVYUa4Zdcd6NeU&e=1778806529",
-      "start": "2026-05-14T19:00:00",
+      "id": "9227",
+      "name": "Saint-Étienne vs Rodez (English)",
+      "url": "https://mainstreams.pro/hls/dza5z8f69.m3u8?st=3Za6Lif_ExTq20p8cJ--qMdcyfpQFUT_U3R2b89FEWM&e=1778844715",
+      "start": "2026-05-15T19:30:00",
       "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png"
+      "logo": "https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"
     },
     {
-      "id": "9204",
-      "name": "Real Oviedo at Real Madrid (Spanish)",
-      "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=ztwucZvgTx7jebNAH0YsvxtdNTZdfw85-RiWvLlSzbY&e=1778806529",
-      "start": "2026-05-14T20:30:00",
+      "id": "9226",
+      "name": "Liverpool at Aston Villa (English)",
+      "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=bl9MuURrZiv6V1LIZ2M9qse6SmcWngvnv-2aatiouM8&e=1778844715",
+      "start": "2026-05-15T20:00:00",
       "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
     }
   ],
   "Basketball": [
     {
-      "id": "9224",
-      "name": "Minnesota Lynx at Dallas Wings (English)",
-      "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=BvcRC-qvY57CT5enw9Mk0W6KH6E0ByXAzq0MMZSTNSg&e=1778806528",
-      "start": "2026-05-15T01:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"
-    },
-    {
-      "id": "9225",
-      "name": "New York Liberty at Portland Fire (English)",
-      "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=skoFYPHA7XISVZreceHU2HoIwrrE-BAiDN0WByJDlOg&e=1778806528",
-      "start": "2026-05-15T03:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"
-    },
-    {
       "id": "9205",
       "name": "Detroit Pistons at Cleveland Cavaliers (English)",
-      "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=jgdT9DeUHyHU9sgBHTzUgB6n7tQrtmmG79aBE2VMkwU&e=1778806527",
+      "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=csYBe__VYL8gqSWxfvMP_Eqybt_XBKJ7BgUFRfeqXa0&e=1778844714",
       "start": "2026-05-16T00:00:00",
       "categoryId": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
@@ -45,15 +29,23 @@
     {
       "id": "9205",
       "name": "Detroit Pistons at Cleveland Cavaliers (English)",
-      "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=AzFeG8UXO4X-SjqnsM30HTuLKXDiLPv1-GN35487DgM&e=1778806527",
+      "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=FsmFnOWqx--TgMLdBbby00G0raUIdNgn5qF6_-zEiFs&e=1778844714",
       "start": "2026-05-16T00:00:00",
       "categoryId": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
     },
     {
+      "id": "9228",
+      "name": "Las Vegas Aces at Connecticut Sun (English)",
+      "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=mtZII6c2NhJ9UnIcq4ncXmmKvjZi2cYSWExZiyohp_k&e=1778844713",
+      "start": "2026-05-16T00:30:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png"
+    },
+    {
       "id": "9206",
       "name": "San Antonio Spurs at Minnesota Timberwolves (English)",
-      "url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=YIcJeh_9PePi4r4VG0EZqpRnZhKLLNqwNcT8Wlu2Z30&e=1778806527",
+      "url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=PbFoulwxSjLG5HWaTPRXu0ZxHZlLUCdh3bp8crs9kZU&e=1778844712",
       "start": "2026-05-16T02:30:00",
       "categoryId": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
@@ -61,78 +53,142 @@
     {
       "id": "9206",
       "name": "San Antonio Spurs at Minnesota Timberwolves (English)",
-      "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=_U9kS4mjc8s-bwmUGmUZp0Tlgn4FBCZwsVmNcQ7PeKI&e=1778806527",
+      "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=hKdiFHpG0FfhKqz8S4OPHBo99q1o63CGhWx3wUmZx8A&e=1778844712",
       "start": "2026-05-16T02:30:00",
       "categoryId": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+    },
+    {
+      "id": "9230",
+      "name": "Toronto Tempo at Los Angeles Sparks (English)",
+      "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=Z6ISwQbG2S3dRdH8aPJIIS7LYrCfNCUa_xnueQOHY9o&e=1778844712",
+      "start": "2026-05-16T03:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
+    },
+    {
+      "id": "9231",
+      "name": "Chicago Sky at Phoenix Mercury (English)",
+      "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=Ctt72fJsjmwoPO2zE22K8mXVatMv5L1bGhVJbMvxYWA&e=1778844712",
+      "start": "2026-05-16T03:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"
     }
   ],
   "Baseball": [
     {
-      "id": "9214",
-      "name": "Seattle Mariners at Houston Astros (English)",
-      "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=803A5looFe9XopoVPbwk7zuOEJaR3NCADv355KjoejI&e=1778806529",
-      "start": "2026-05-14T19:10:00",
+      "id": "9232",
+      "name": "Philadelphia Phillies at Pittsburgh Pirates (English)",
+      "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=q8cFlem6iOPsJ0O8rpV7vkTyETl6DJQDYGLzUjx0CR4&e=1778844714",
+      "start": "2026-05-15T23:40:00",
       "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
     },
     {
-      "id": "9215",
-      "name": "St. Louis Cardinals at Athletics Athletics (English)",
-      "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=SxD9iE9kHAHR3oDZmLCRlvuHFp_sAg8TZzzISipJQH4&e=1778806529",
-      "start": "2026-05-14T20:05:00",
+      "id": "9233",
+      "name": "Toronto Blue Jays at Detroit Tigers (English)",
+      "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=MZbNHDGSu6SItc9Yns7rp3HqLJVLt5vUHMx4W1vbV3g&e=1778844714",
+      "start": "2026-05-15T23:40:00",
       "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
     },
     {
-      "id": "9220",
-      "name": "Philadelphia Phillies at Boston Red Sox (English)",
-      "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=G-1UsK9L7yLyECVKNeT5IOa9T1FE0t2TmbtzEYSQ-to&e=1778806528",
-      "start": "2026-05-14T23:45:00",
+      "id": "9234",
+      "name": "Baltimore Orioles at Washington Nationals (English)",
+      "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=Nk80w6cIcvsM3MWkgHWULt6P2NNxMu2zS-lteqx_wKE&e=1778844714",
+      "start": "2026-05-15T23:45:00",
       "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
     },
     {
-      "id": "9221",
-      "name": "Chicago Cubs at Atlanta Braves (English)",
-      "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=ggNA95CaMq68xTtYaF5TPtyyf6uGKNqQcdWda36wu38&e=1778806528",
-      "start": "2026-05-15T00:15:00",
+      "id": "9236",
+      "name": "Miami Marlins at Tampa Bay Rays (English)",
+      "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=Cq7_pJo2Ttz7zZ6GwZSk2jgNyiERqC1fjhKkNmAGUNE&e=1778844713",
+      "start": "2026-05-16T00:10:00",
       "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
     },
     {
-      "id": "9222",
-      "name": "Kansas City Royals at Chicago White Sox (English)",
-      "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=thn1CosFUMftudVq0k6nGSC3WnBWMhJA6ve7tDPkeG8&e=1778806528",
-      "start": "2026-05-15T00:40:00",
+      "id": "9237",
+      "name": "New York Yankees at New York Mets (English)",
+      "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=y9ND6OfxYopw3dJmE4D_uF5UMUyF0wtvoT7QZXZEo_E&e=1778844714",
+      "start": "2026-05-16T00:10:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+    },
+    {
+      "id": "9238",
+      "name": "Milwaukee Brewers at Minnesota Twins (English)",
+      "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=4u1Nl_0N63MBCx2PzrWE3ihG5wR4EQLQDFjDGyU118w&e=1778844714",
+      "start": "2026-05-16T00:10:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+    },
+    {
+      "id": "9240",
+      "name": "Chicago Cubs at Chicago White Sox (English)",
+      "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=BnFaPaCSZ8OSmftUng_HhV092f6iwFiVaU-KrNB8SQY&e=1778844713",
+      "start": "2026-05-16T00:40:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
     },
     {
-      "id": "9223",
-      "name": "San Francisco Giants at Los Angeles Dodgers (English)",
-      "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=qDWrCOfj8tVbp18Af4qvRpQ0_o3VOqIXB2Kp-rIozKw&e=1778806528",
-      "start": "2026-05-15T03:10:00",
+      "id": "9241",
+      "name": "Texas Rangers at Houston Astros (English)",
+      "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=yc-1EYG4qfSchGOn3D7Nppnk1L6Zb-fly8sJdPx1kVg&e=1778844713",
+      "start": "2026-05-16T01:10:00",
       "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
-    }
-  ],
-  "Hockey": [
-    {
-      "id": "9207",
-      "name": "Montreal Canadiens at Buffalo Sabres (English)",
-      "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=PyamBSR9L94jHSXX_-Gl8u1NQ9yuX4Nt7r86FEkL9_g&e=1778806528",
-      "start": "2026-05-15T00:00:00",
-      "categoryId": 16,
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
     },
     {
-      "id": "9208",
-      "name": "Vegas Golden Knights at Anaheim Ducks (English)",
-      "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=epZ0RsqnuqrA1kwoY2TYNv1t_PlxP4ZqVnOXTaV4Z7Q&e=1778806528",
-      "start": "2026-05-15T02:30:00",
-      "categoryId": 16,
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png"
+      "id": "9242",
+      "name": "Kansas City Royals at St. Louis Cardinals (English)",
+      "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=4jvsE96e77aY5VxvSLEkEqcN93TBJAQhKc1KkbUopIM&e=1778844713",
+      "start": "2026-05-16T01:15:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    {
+      "id": "9243",
+      "name": "Arizona Diamondbacks at Colorado Rockies (English)",
+      "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=xPkMVqJvS2nRI44bYM9KPVP1Rm3NE4m59Etqxhyi-u8&e=1778844712",
+      "start": "2026-05-16T01:40:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
+    },
+    {
+      "id": "9244",
+      "name": "Los Angeles Dodgers at Los Angeles Angels (English)",
+      "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=0NaK1W80S9y5JhCxwSJBkiKLPEFL0Iekmrw1y4gfMng&e=1778844712",
+      "start": "2026-05-16T02:38:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    {
+      "id": "9245",
+      "name": "San Diego Padres at Seattle Mariners (English)",
+      "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=Ge_-rJqwjVUBctlMcePMK_p0GaO2TeWRya6mJVsZ_MI&e=1778844712",
+      "start": "2026-05-16T02:40:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+    },
+    {
+      "id": "9246",
+      "name": "San Francisco Giants at Athletics Athletics (English)",
+      "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=Km6q5xHQ73rhuSpcMH2gsv_e8TvftWH_WAbtWXjhTQM&e=1778844712",
+      "start": "2026-05-16T02:40:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+    }
+  ],
+  "… Other": [
+    {
+      "id": "9247",
+      "name": "MotoGP Grand Prix of Catalunya (English)",
+      "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=34b8xVYbFUkFbmgJhdjOcrUpxi1nB-V1ftMX-fO58nA&e=1778844715",
+      "start": "2026-05-15T08:00:00",
+      "categoryId": 15,
+      "logo": "https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"
     }
   ]
 }
