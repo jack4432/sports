@@ -1,38 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="united-rugby-championship-rugby-munster-lions-2026-05-16-21-45" group-title="United Rugby Championship",Munster vs Lions (Premier Sports 1)
-https://sansat.link/channel?id=1
-#EXTINF:-1 tvg-id="france-top-14-rugby-racing-92-toulon-2026-05-16-22-00" group-title="France TOP 14",Racing 92 vs Toulon (Premier Sports 2)
-https://sansat.link/channel?id=3
-#EXTINF:-1 tvg-id="france-top-14-rugby-racing-92-toulon-2026-05-16-22-00" group-title="France TOP 14",Racing 92 vs Toulon (Canal+)
-https://sansat.link/channel?id=50
-#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-cf-montreal-chicago-fire-2026-05-16-23-30" group-title="USA/Canada Major League Soccer",CF Montreal vs Chicago Fire (MLS Season Pass)
-https://sansat.link/channel?id=6
-#EXTINF:-1 tvg-id="bbl-basketball-wurzburg-telekom-baskets-bonn-2026-05-16-21-30" group-title="BBL",Wurzburg vs Telekom Baskets Bonn (Next Level Sports)
-https://sansat.link/channel?id=9
-#EXTINF:-1 tvg-id="ufl-american-football-houston-roughnecks-st-louis-battlehawks-2026-05-16-22-00" group-title="UFL",Houston Roughnecks vs St. Louis Battlehawks (ABC)
-https://sansat.link/channel?id=10
-#EXTINF:-1 tvg-id="portugal-primeira-liga-football-estoril-benfica-2026-05-16-22-30" group-title="Portugal Primeira Liga",Estoril vs Benfica (Sport TV3)
-https://sansat.link/channel?id=21
-#EXTINF:-1 tvg-id="portugal-primeira-liga-football-sporting-cp-gil-vicente-2026-05-16-22-30" group-title="Portugal Primeira Liga",Sporting CP vs Gil Vicente (Sport TV2)
-https://sansat.link/channel?id=22
-#EXTINF:-1 tvg-id="indycar-motorsport-indianapolis-500-2026-05-16-23-00" group-title="IndyCar",Indianapolis 500 (TSN2)
-https://sansat.link/channel?id=32
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-latvia-switzerland-2026-05-16-21-20" group-title="IIHF World Championship",Latvia vs Switzerland (TSN3)
-https://sansat.link/channel?id=33
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-latvia-switzerland-2026-05-16-21-20" group-title="IIHF World Championship",Latvia vs Switzerland (RDS 2)
-https://sansat.link/channel?id=34
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-latvia-switzerland-2026-05-16-21-20" group-title="IIHF World Championship",Latvia vs Switzerland (TV10)
-https://sansat.link/channel?id=75
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-slovenia-czech-republic-2026-05-16-21-20" group-title="IIHF World Championship",Slovenia vs Czech Republic (CT Sport)
-https://sansat.link/channel?id=45
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-slovenia-czech-republic-2026-05-16-21-20" group-title="IIHF World Championship",Slovenia vs Czech Republic (Viaplay Sport)
-https://sansat.link/channel?id=80
-#EXTINF:-1 tvg-id="poland-ekstraklasa-football-radomiak-radom-lech-poznan-2026-05-16-21-15" group-title="Poland Ekstraklasa",Radomiak Radom vs Lech Poznan (Canal+ Sport 3)
-https://sansat.link/channel?id=60
-#EXTINF:-1 tvg-id="portugal-primeira-liga-football-famalicao-alverca-2026-05-16-22-30" group-title="Portugal Primeira Liga",Famalicao vs Alverca (Sport TV4)
-https://sansat.link/channel?id=64
-#EXTINF:-1 tvg-id="spain-copa-de-la-reina-football-barcelona-atletico-madrid-2026-05-16-22-00" group-title="Spain Copa de la Reina",Barcelona vs Atletico Madrid (ESPN Deportes)
-https://sansat.link/channel?id=86
 #EXTINF:-1 tvg-id="ufc-mma-ufc-preliminary-2026-05-17-00-00" group-title="UFC",UFC: Preliminary (TNT Sports 1)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="ufc-mma-ufc-preliminary-2026-05-17-00-00" group-title="UFC",UFC: Preliminary (RMC Sport 1)
@@ -55,18 +21,14 @@ https://sansat.link/channel?id=30
 https://sansat.link/channel?id=2
 #EXTINF:-1 tvg-id="nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-00-00" group-title="NHL",Anaheim Ducks vs Vegas Golden Knights (TVA Sports 2)
 https://sansat.link/channel?id=3
-#EXTINF:-1 tvg-id="nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-00-00" group-title="NHL",Anaheim Ducks vs Vegas Golden Knights (ESPN)
-https://sansat.link/channel?id=5
 #EXTINF:-1 tvg-id="england-premier-league-football-brentford-crystal-palace-2026-05-17-17-00" group-title="England Premier League",Brentford vs Crystal Palace (Sky Sports Football)
 https://sansat.link/channel?id=3
 #EXTINF:-1 tvg-id="england-premier-league-football-brentford-crystal-palace-2026-05-17-17-00" group-title="England Premier League",Brentford vs Crystal Palace (Astro Premier League 2)
 https://sansat.link/channel?id=32
 #EXTINF:-1 tvg-id="england-premier-league-football-brentford-crystal-palace-2026-05-17-17-00" group-title="England Premier League",Brentford vs Crystal Palace (Canal+ Foot)
 https://sansat.link/channel?id=50
-#EXTINF:-1 tvg-id="nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-03-00" group-title="NHL",Anaheim Ducks vs Vegas Golden Knights (ABC)
+#EXTINF:-1 tvg-id="nhl-hockey-buffalo-sabres-montreal-canadiens-2026-05-17-03-00" group-title="NHL",Buffalo Sabres vs Montreal Canadiens (ABC)
 https://sansat.link/channel?id=4
-#EXTINF:-1 tvg-id="nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-03-00" group-title="NHL",Anaheim Ducks vs Vegas Golden Knights (ESPN Deportes)
-https://sansat.link/channel?id=86
 #EXTINF:-1 tvg-id="england-premier-league-football-manchester-united-nottingham-forest-2026-05-17-14-30" group-title="England Premier League",Manchester United vs Nottingham Forest (Sky Sports Premier League)
 https://sansat.link/channel?id=4
 #EXTINF:-1 tvg-id="england-premier-league-football-manchester-united-nottingham-forest-2026-05-17-14-30" group-title="England Premier League",Manchester United vs Nottingham Forest (USA Network)
@@ -383,6 +345,8 @@ https://sansat.link/channel?id=84
 https://sansat.link/channel?id=85
 #EXTINF:-1 tvg-id="argentina-primera-division-football-argentinos-juniors-belgrano-2026-05-17-23-00" group-title="Argentina Primera Division",Argentinos Juniors vs Belgrano (Argentina)
 https://sansat.link/channel?id=85
+#EXTINF:-1 tvg-id="nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-03-00" group-title="NHL",Anaheim Ducks vs Vegas Golden Knights (ESPN Deportes)
+https://sansat.link/channel?id=86
 #EXTINF:-1 tvg-id="netherlands-eredivisie-football-pec-zwolle-feyenoord-2026-05-17-15-30" group-title="Netherlands Eredivisie",PEC Zwolle vs Feyenoord (ESPN4)
 https://sansat.link/channel?id=88
 #EXTINF:-1 tvg-id="turkey-super-lig-football-kayserispor-konyaspor-2026-05-17-17-00" group-title="Turkey Super Lig",Kayserispor vs Konyaspor (beIN Sports 1)
