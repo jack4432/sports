@@ -1,70 +1,8 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="spain-la-liga-football-barcelona-real-betis-2026-05-17-22-15" group-title="Spain La Liga",Barcelona vs Real Betis (Now Sports 2)
-https://sansat.link/channel?id=6
-#EXTINF:-1 tvg-id="spain-la-liga-football-barcelona-real-betis-2026-05-17-22-15" group-title="Spain La Liga",Barcelona vs Real Betis (M. LaLiga)
-https://sansat.link/channel?id=29
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-latvia-2026-05-17-21-20" group-title="IIHF World Championship",Germany vs Latvia (Magenta Sport)
-https://sansat.link/channel?id=11
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-latvia-2026-05-17-21-20" group-title="IIHF World Championship",Germany vs Latvia (TSN1)
-https://sansat.link/channel?id=31
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-latvia-2026-05-17-21-20" group-title="IIHF World Championship",Germany vs Latvia (CT Sport)
-https://sansat.link/channel?id=41
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-latvia-2026-05-17-21-20" group-title="IIHF World Championship",Germany vs Latvia (TV10)
-https://sansat.link/channel?id=73
-#EXTINF:-1 tvg-id="brazil-brasileirao-football-bahia-gremio-2026-05-17-22-00" group-title="Brazil Brasileirao",Bahia vs Gremio (Canal 11)
-https://sansat.link/channel?id=22
-#EXTINF:-1 tvg-id="spain-segunda-division-football-real-zaragoza-sporting-gijon-2026-05-17-22-15" group-title="Spain Segunda Division",Real Zaragoza vs Sporting Gijon (LALIGA TV Hypermotion)
-https://sansat.link/channel?id=26
-#EXTINF:-1 tvg-id="brazil-brasileirao-football-botafogo-corinthians-2026-05-17-22-00" group-title="Brazil Brasileirao",Botafogo vs Corinthians (Vamos 2)
-https://sansat.link/channel?id=27
-#EXTINF:-1 tvg-id="italy-serie-a-football-udinese-cremonese-2026-05-17-21-45" group-title="Italy Serie A",Udinese vs Cremonese (beIN SPORTS 3)
-https://sansat.link/channel?id=36
-#EXTINF:-1 tvg-id="italy-serie-a-football-udinese-cremonese-2026-05-17-21-45" group-title="Italy Serie A",Udinese vs Cremonese (DAZN)
-https://sansat.link/channel?id=44
-#EXTINF:-1 tvg-id="france-ligue-1-football-paris-psg-2026-05-17-22-00" group-title="France Ligue 1",Paris vs PSG (beIN SPORTS)
-https://sansat.link/channel?id=39
-#EXTINF:-1 tvg-id="france-ligue-1-football-paris-psg-2026-05-17-22-00" group-title="France Ligue 1",Paris vs PSG (beIN SPORTS en Espanol)
-https://sansat.link/channel?id=40
-#EXTINF:-1 tvg-id="france-ligue-1-football-paris-psg-2026-05-17-22-00" group-title="France Ligue 1",Paris vs PSG (Ligue1+ 3)
-https://sansat.link/channel?id=53
-#EXTINF:-1 tvg-id="italy-serie-a-football-cagliari-torino-2026-05-17-21-45" group-title="Italy Serie A",Cagliari vs Torino (DAZN Zona)
-https://sansat.link/channel?id=46
-#EXTINF:-1 tvg-id="italy-serie-a-football-sassuolo-lecce-2026-05-17-21-45" group-title="Italy Serie A",Sassuolo vs Lecce (Sky Sport Calcio)
-https://sansat.link/channel?id=47
-#EXTINF:-1 tvg-id="france-top-14-rugby-la-rochelle-toulouse-2026-05-17-22-05" group-title="France TOP 14",La Rochelle vs Toulouse (Canal+)
-https://sansat.link/channel?id=48
-#EXTINF:-1 tvg-id="france-ligue-1-football-simulcast-2026-05-17-22-00" group-title="France Ligue 1",Simulcast (Ligue1+)
-https://sansat.link/channel?id=49
-#EXTINF:-1 tvg-id="france-ligue-1-football-olympique-lyonnais-lens-2026-05-17-22-00" group-title="France Ligue 1",Olympique Lyonnais vs Lens (beIN Sports 1)
-https://sansat.link/channel?id=51
-#EXTINF:-1 tvg-id="france-ligue-1-football-olympique-marseille-rennes-2026-05-17-22-00" group-title="France Ligue 1",Olympique Marseille vs Rennes (Ligue1+ 2)
-https://sansat.link/channel?id=52
-#EXTINF:-1 tvg-id="france-ligue-1-football-lille-auxerre-2026-05-17-22-00" group-title="France Ligue 1",Lille vs Auxerre (Ligue1+ 4)
-https://sansat.link/channel?id=54
-#EXTINF:-1 tvg-id="france-ligue-1-football-strasbourg-monaco-2026-05-17-22-00" group-title="France Ligue 1",Strasbourg vs Monaco (Ligue1+ 5)
-https://sansat.link/channel?id=55
-#EXTINF:-1 tvg-id="france-ligue-1-football-nice-metz-2026-05-17-22-00" group-title="France Ligue 1",Nice vs Metz (Ligue1+ 6)
-https://sansat.link/channel?id=56
-#EXTINF:-1 tvg-id="france-ligue-1-football-lorient-le-havre-2026-05-17-22-00" group-title="France Ligue 1",Lorient vs Le Havre (Ligue1+ 7)
-https://sansat.link/channel?id=57
-#EXTINF:-1 tvg-id="france-ligue-1-football-nantes-toulouse-2026-05-17-22-00" group-title="France Ligue 1",Nantes vs Toulouse (Ligue1+ 8)
-https://sansat.link/channel?id=58
-#EXTINF:-1 tvg-id="france-ligue-1-football-brest-angers-sco-2026-05-17-22-00" group-title="France Ligue 1",Brest vs Angers SCO (Ligue1+ 9)
-https://sansat.link/channel?id=59
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-norway-slovenia-2026-05-17-21-20" group-title="IIHF World Championship",Norway vs Slovenia (TV3 Max)
-https://sansat.link/channel?id=69
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-norway-slovenia-2026-05-17-21-20" group-title="IIHF World Championship",Norway vs Slovenia (Viaplay Sport)
-https://sansat.link/channel?id=80
-#EXTINF:-1 tvg-id="argentina-primera-division-football-argentinos-juniors-belgrano-2026-05-17-23-00" group-title="Argentina Primera Division",Argentinos Juniors vs Belgrano (TNT Sports Argentina)
-https://sansat.link/channel?id=85
 #EXTINF:-1 tvg-id="nba-basketball-cleveland-cavaliers-detroit-pistons-2026-05-18-03-00" group-title="NBA",Cleveland Cavaliers vs Detroit Pistons (ABC)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="nba-basketball-cleveland-cavaliers-detroit-pistons-2026-05-18-03-00" group-title="NBA",Cleveland Cavaliers vs Detroit Pistons (Sky Sport Mix)
 https://sansat.link/channel?id=14
-#EXTINF:-1 tvg-id="united-states-nwsl-football-portland-thorns-angel-city-2026-05-18-01-00" group-title="United States NWSL",Portland Thorns vs Angel City (ESPN2)
-https://sansat.link/channel?id=2
-#EXTINF:-1 tvg-id="united-states-nwsl-football-portland-thorns-angel-city-2026-05-18-01-00" group-title="United States NWSL",Portland Thorns vs Angel City (ESPN Deportes)
-https://sansat.link/channel?id=86
 #EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (Sky Sports Premier League)
 https://sansat.link/channel?id=4
 #EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (USA Network)
@@ -129,10 +67,6 @@ https://sansat.link/channel?id=60
 https://sansat.link/channel?id=45
 #EXTINF:-1 tvg-id="bulgaria-parva-liga-football-montana-spartak-varna-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Montana vs Spartak Varna (Diema Sport 3)
 https://sansat.link/channel?id=46
-#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-inter-miami-portland-timbers-2026-05-18-01-00" group-title="USA/Canada Major League Soccer",Inter Miami vs Portland Timbers (MAX Sport 4)
-https://sansat.link/channel?id=48
-#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-inter-miami-portland-timbers-2026-05-18-01-00" group-title="USA/Canada Major League Soccer",Inter Miami vs Portland Timbers (Sport 1)
-https://sansat.link/channel?id=65
 #EXTINF:-1 tvg-id="bulgaria-parva-liga-football-beroe-septemvri-sofia-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Beroe vs Septemvri Sofia (Diema Sport)
 https://sansat.link/channel?id=48
 #EXTINF:-1 tvg-id="bulgaria-parva-liga-football-dobrudzha-1919-botev-vratsa-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Dobrudzha 1919 vs Botev Vratsa (Diema Sport 2)
@@ -149,8 +83,6 @@ https://sansat.link/channel?id=72
 https://sansat.link/channel?id=73
 #EXTINF:-1 tvg-id="indycar-motorsport-indianapolis-500-2026-05-18-20-00" group-title="IndyCar",Indianapolis 500 (Fox Sports 1)
 https://sansat.link/channel?id=81
-#EXTINF:-1 tvg-id="canada-canadian-premier-league-football-pacific-fc-inter-toronto-2026-05-18-00-00" group-title="Canada Canadian Premier League",Pacific FC vs Inter Toronto (Fox Soccer Plus)
-https://sansat.link/channel?id=83
 #EXTINF:-1 tvg-id="canada-canadian-premier-league-football-vancouver-fc-cavalry-2026-05-18-04-00" group-title="Canada Canadian Premier League",Vancouver FC vs Cavalry (Fox Soccer Plus)
 https://sansat.link/channel?id=83
 #EXTINF:-1 tvg-id="nhl-hockey-montreal-canadiens-buffalo-sabres-2026-05-19-02-30" group-title="NHL",Montreal Canadiens vs Buffalo Sabres (ESPN)
