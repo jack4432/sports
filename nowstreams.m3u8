@@ -15,16 +15,6 @@ https://sansat.link/channel?id=47
 https://sansat.link/channel?id=50
 #EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (V Sport Premium)
 https://sansat.link/channel?id=78
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-usa-2026-05-18-17-20" group-title="IIHF World Championship",Finland vs USA (ProSieben MAXX)
-https://sansat.link/channel?id=12
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-usa-2026-05-18-17-20" group-title="IIHF World Championship",Finland vs USA (TSN4)
-https://sansat.link/channel?id=34
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-usa-2026-05-18-17-20" group-title="IIHF World Championship",Finland vs USA (CT Sport)
-https://sansat.link/channel?id=41
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-usa-2026-05-18-17-20" group-title="IIHF World Championship",Finland vs USA (MTV Urheilu 1)
-https://sansat.link/channel?id=70
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-usa-2026-05-18-17-20" group-title="IIHF World Championship",Finland vs USA (Viaplay Sport)
-https://sansat.link/channel?id=80
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-switzerland-2026-05-18-21-20" group-title="IIHF World Championship",Germany vs Switzerland (Magenta Sport)
 https://sansat.link/channel?id=13
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-switzerland-2026-05-18-21-20" group-title="IIHF World Championship",Germany vs Switzerland (TSN4)
@@ -33,14 +23,6 @@ https://sansat.link/channel?id=34
 https://sansat.link/channel?id=76
 #EXTINF:-1 tvg-id="spain-segunda-division-football-leganes-huesca-2026-05-18-21-30" group-title="Spain Segunda Division",Leganes vs Huesca (LALIGA TV Hypermotion)
 https://sansat.link/channel?id=26
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-denmark-2026-05-18-17-20" group-title="IIHF World Championship",Canada vs Denmark (TSN1)
-https://sansat.link/channel?id=31
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-denmark-2026-05-18-17-20" group-title="IIHF World Championship",Canada vs Denmark (V sport 1)
-https://sansat.link/channel?id=67
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-denmark-2026-05-18-17-20" group-title="IIHF World Championship",Canada vs Denmark (TV3 +)
-https://sansat.link/channel?id=69
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-denmark-2026-05-18-17-20" group-title="IIHF World Championship",Canada vs Denmark (TV10)
-https://sansat.link/channel?id=74
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-sweden-czech-republic-2026-05-18-21-20" group-title="IIHF World Championship",Sweden vs Czech Republic (TSN1)
 https://sansat.link/channel?id=31
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-sweden-czech-republic-2026-05-18-21-20" group-title="IIHF World Championship",Sweden vs Czech Republic (CT Sport)
@@ -49,28 +31,6 @@ https://sansat.link/channel?id=41
 https://sansat.link/channel?id=67
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-sweden-czech-republic-2026-05-18-21-20" group-title="IIHF World Championship",Sweden vs Czech Republic (Viaplay Sport)
 https://sansat.link/channel?id=80
-#EXTINF:-1 tvg-id="poland-ekstraklasa-football-arka-gdynia-nieciecza-2026-05-18-20-00" group-title="Poland Ekstraklasa",Arka Gdynia vs Nieciecza (beIN Sports)
-https://sansat.link/channel?id=39
-#EXTINF:-1 tvg-id="poland-ekstraklasa-football-arka-gdynia-nieciecza-2026-05-18-20-00" group-title="Poland Ekstraklasa",Arka Gdynia vs Nieciecza (Canal+ Sport 3)
-https://sansat.link/channel?id=60
-#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-lokomotiv-sofia-1929-slavia-sofia-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Lokomotiv Sofia 1929 vs Slavia Sofia (Nova Sport Bulgaria)
-https://sansat.link/channel?id=45
-#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-montana-spartak-varna-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Montana vs Spartak Varna (Diema Sport 3)
-https://sansat.link/channel?id=46
-#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-beroe-septemvri-sofia-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Beroe vs Septemvri Sofia (Diema Sport)
-https://sansat.link/channel?id=48
-#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-dobrudzha-1919-botev-vratsa-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Dobrudzha 1919 vs Botev Vratsa (Diema Sport 2)
-https://sansat.link/channel?id=49
-#EXTINF:-1 tvg-id="poland-i-liga-football-puszcza-niepolomice-lodzki-ks-2026-05-18-19-00" group-title="Poland I Liga",Puszcza Niepołomice vs Łodzki KS (TVP Sport)
-https://sansat.link/channel?id=61
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-djurgarden-sirius-2026-05-18-20-00" group-title="Sweden Allsvenskan",Djurgarden vs Sirius (TV4 Sport Live 1)
-https://sansat.link/channel?id=71
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-orgryte-ifk-goteborg-2026-05-18-20-00" group-title="Sweden Allsvenskan",Orgryte vs IFK Goteborg (TV4 Fotball)
-https://sansat.link/channel?id=72
-#EXTINF:-1 tvg-id="sweden-superettan-football-oddevold-orebro-2026-05-18-20-05" group-title="Sweden Superettan",Oddevold vs Orebro (TV12)
-https://sansat.link/channel?id=73
-#EXTINF:-1 tvg-id="indycar-motorsport-indianapolis-500-2026-05-18-20-00" group-title="IndyCar",Indianapolis 500 (Fox Sports 1)
-https://sansat.link/channel?id=81
 #EXTINF:-1 tvg-id="nhl-hockey-montreal-canadiens-buffalo-sabres-2026-05-19-02-30" group-title="NHL",Montreal Canadiens vs Buffalo Sabres (ESPN)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="nhl-hockey-montreal-canadiens-buffalo-sabres-2026-05-19-02-30" group-title="NHL",Montreal Canadiens vs Buffalo Sabres (TVA Sports)
