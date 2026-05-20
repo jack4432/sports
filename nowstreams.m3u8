@@ -1,44 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-freiburg-aston-villa-2026-05-20-22-00" group-title="Europe UEFA Europa League",Freiburg vs Aston Villa (TNT Sports 1)
-https://sansat.link/channel?id=1
-#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-freiburg-aston-villa-2026-05-20-22-00" group-title="Europe UEFA Europa League",Freiburg vs Aston Villa (CBS Sports Network)
-https://sansat.link/channel?id=8
-#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-freiburg-aston-villa-2026-05-20-22-00" group-title="Europe UEFA Europa League",Freiburg vs Aston Villa (RTL)
-https://sansat.link/channel?id=11
-#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-freiburg-aston-villa-2026-05-20-22-00" group-title="Europe UEFA Europa League",Freiburg vs Aston Villa (Cosmote Sport 1)
-https://sansat.link/channel?id=23
-#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-freiburg-aston-villa-2026-05-20-22-00" group-title="Europe UEFA Europa League",Freiburg vs Aston Villa (TUDN)
-https://sansat.link/channel?id=30
-#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-freiburg-aston-villa-2026-05-20-22-00" group-title="Europe UEFA Europa League",Freiburg vs Aston Villa (Sky Sport Uno)
-https://sansat.link/channel?id=47
-#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-freiburg-aston-villa-2026-05-20-22-00" group-title="Europe UEFA Europa League",Freiburg vs Aston Villa (Canal+ Foot)
-https://sansat.link/channel?id=50
-#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-freiburg-aston-villa-2026-05-20-22-00" group-title="Europe UEFA Europa League",Freiburg vs Aston Villa (Ziggo Sport)
-https://sansat.link/channel?id=88
-#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-freiburg-aston-villa-2026-05-20-22-00" group-title="Europe UEFA Europa League",Freiburg vs Aston Villa (TRT 1)
-https://sansat.link/channel?id=91
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-usa-germany-2026-05-20-21-20" group-title="IIHF World Championship",USA vs Germany (Magenta Sport)
-https://sansat.link/channel?id=12
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-usa-germany-2026-05-20-21-20" group-title="IIHF World Championship",USA vs Germany (TSN4)
-https://sansat.link/channel?id=34
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-usa-germany-2026-05-20-21-20" group-title="IIHF World Championship",USA vs Germany (CT Sport)
-https://sansat.link/channel?id=42
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-usa-germany-2026-05-20-21-20" group-title="IIHF World Championship",USA vs Germany (TV3 Max)
-https://sansat.link/channel?id=69
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-usa-germany-2026-05-20-21-20" group-title="IIHF World Championship",USA vs Germany (V Sport Vinter)
-https://sansat.link/channel?id=76
-#EXTINF:-1 tvg-id="argentina-copa-argentina-football-talleres-cordoba-atletico-tucuman-2026-05-20-23-00" group-title="Argentina Copa Argentina",Talleres Cordoba vs Atletico Tucuman (Sport TV2)
-https://sansat.link/channel?id=22
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-sweden-slovenia-2026-05-20-21-20" group-title="IIHF World Championship",Sweden vs Slovenia (TSN1)
-https://sansat.link/channel?id=31
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-sweden-slovenia-2026-05-20-21-20" group-title="IIHF World Championship",Sweden vs Slovenia (Viaplay Sport)
-https://sansat.link/channel?id=80
-#EXTINF:-1 tvg-id="norway-eliteserien-football-aalesund-brann-2026-05-20-21-00" group-title="Norway Eliteserien",Aalesund vs Brann (TV2 Sport)
-https://sansat.link/channel?id=67
-#EXTINF:-1 tvg-id="saudi-arabia-pro-league-football-al-khaleej-al-ahli-2026-05-20-21-00" group-title="Saudi Arabia Pro League",Al Khaleej vs Al-Ahli (Fox Sports 2)
-https://sansat.link/channel?id=82
-#EXTINF:-1 tvg-id="saudi-arabia-pro-league-football-al-khaleej-al-ahli-2026-05-20-21-00" group-title="Saudi Arabia Pro League",Al Khaleej vs Al-Ahli (Fox Deportes)
-https://sansat.link/channel?id=87
 #EXTINF:-1 tvg-id="nba-basketball-san-antonio-spurs-oklahoma-city-thunder-2026-05-21-03-30" group-title="NBA",San Antonio Spurs vs Oklahoma City Thunder (NBA League Pass)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="netherlands-eredivisie-football-ajax-groningen-2026-05-21-19-45" group-title="Netherlands Eredivisie",Ajax vs Groningen (Premier Sports 1)
