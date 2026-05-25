@@ -1,42 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="scotland-scottish-premiership-football-st-mirren-partick-thistle-2026-05-25-22-00" group-title="Scotland Scottish Premiership",St. Mirren vs Partick Thistle (CBS Sports Golazo Network)
-https://sansat.link/channel?id=9
-#EXTINF:-1 tvg-id="scotland-scottish-premiership-football-st-mirren-partick-thistle-2026-05-25-22-00" group-title="Scotland Scottish Premiership",St. Mirren vs Partick Thistle (Sportdigital FUSSBALL 2)
-https://sansat.link/channel?id=20
-#EXTINF:-1 tvg-id="germany-bundesliga-football-paderborn-wolfsburg-2026-05-25-21-30" group-title="Germany Bundesliga",Paderborn vs Wolfsburg (Sky Sport Bundesliga 1)
-https://sansat.link/channel?id=11
-#EXTINF:-1 tvg-id="germany-bundesliga-football-paderborn-wolfsburg-2026-05-25-21-30" group-title="Germany Bundesliga",Paderborn vs Wolfsburg (DAZN1)
-https://sansat.link/channel?id=21
-#EXTINF:-1 tvg-id="germany-bundesliga-football-paderborn-wolfsburg-2026-05-25-21-30" group-title="Germany Bundesliga",Paderborn vs Wolfsburg (beIN Sports 1)
-https://sansat.link/channel?id=51
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-great-britain-2026-05-25-21-20" group-title="IIHF World Championship",Germany vs Great Britain (Magenta Sport)
-https://sansat.link/channel?id=13
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-great-britain-2026-05-25-21-20" group-title="IIHF World Championship",Germany vs Great Britain (TSN4)
-https://sansat.link/channel?id=34
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-great-britain-2026-05-25-21-20" group-title="IIHF World Championship",Germany vs Great Britain (TV10)
-https://sansat.link/channel?id=70
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-great-britain-2026-05-25-21-20" group-title="IIHF World Championship",Germany vs Great Britain (Viaplay 1 Urheilu)
-https://sansat.link/channel?id=71
-#EXTINF:-1 tvg-id="europe-uefa-u17-european-championship-football-estonia-u17-spain-u17-2026-05-25-20-00" group-title="Europe UEFA U17 European Championship",Estonia U17 vs Spain U17 (Sportdigital FUSSBALL)
-https://sansat.link/channel?id=19
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-slovenia-italy-2026-05-25-21-20" group-title="IIHF World Championship",Slovenia vs Italy (TSN2)
-https://sansat.link/channel?id=32
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-slovenia-italy-2026-05-25-21-20" group-title="IIHF World Championship",Slovenia vs Italy (CT Sport)
-https://sansat.link/channel?id=41
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-slovenia-italy-2026-05-25-21-20" group-title="IIHF World Championship",Slovenia vs Italy (Viaplay 3 Urheilu)
-https://sansat.link/channel?id=73
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-slovenia-italy-2026-05-25-21-20" group-title="IIHF World Championship",Slovenia vs Italy (Viaplay Sport)
-https://sansat.link/channel?id=80
-#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-ludogorets-cska-sofia-2026-05-25-20-30" group-title="Bulgaria Parva Liga",Ludogorets vs CSKA Sofia (Diema Sport)
-https://sansat.link/channel?id=48
-#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-cska-1948-levski-sofia-2026-05-25-20-30" group-title="Bulgaria Parva Liga",CSKA 1948 vs Levski Sofia (Diema Sport 2)
-https://sansat.link/channel?id=49
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-ifk-goteborg-mjallby-2026-05-25-20-00" group-title="Sweden Allsvenskan",IFK Goteborg vs Mjallby (TV4 Fotball)
-https://sansat.link/channel?id=74
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-elfsborg-hacken-2026-05-25-20-00" group-title="Sweden Allsvenskan",Elfsborg vs Hacken (TV4 Sportkanalen)
-https://sansat.link/channel?id=76
-#EXTINF:-1 tvg-id="sweden-superettan-football-norrkoping-oster-2026-05-25-20-05" group-title="Sweden Superettan",Norrköping vs Öster (TV12)
-https://sansat.link/channel?id=77
 #EXTINF:-1 tvg-id="nba-basketball-new-york-knicks-cleveland-cavaliers-2026-05-26-03-00" group-title="NBA",New York Knicks vs Cleveland Cavaliers (ESPN)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="nba-basketball-new-york-knicks-cleveland-cavaliers-2026-05-26-03-00" group-title="NBA",New York Knicks vs Cleveland Cavaliers (ESPN Deportes)
