@@ -1,413 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "22:00 [NHRA Drag Racing] Motorsport: NHRA Potomac Nationals [Fox Sports Racing US]",
-            "matchstr": "NHRA Potomac Nationals",
-            "time": "22:00",
-            "league": "NHRA Drag Racing",
-            "sport": "Motorsport",
-            "team1": "NHRA Potomac Nationals",
-            "team2": null,
-            "channel": "Fox Sports Racing US",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Fox Sports Racing",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=9"
-                    ],
-                    "number": 9,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=9"
-                    ]
-                }
-            ],
-            "slug": "nhra-drag-racing-motorsport-nhra-potomac-nationals-2026-05-31-22-00",
-            "startTimestamp": 1780254000000,
-            "duration": 120
-        },
-        {
-            "matchText": "22:30 [International Friendly Matches] USA vs Senegal [TNT US]",
-            "matchstr": "USA vs Senegal",
-            "time": "22:30",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "USA",
-            "team2": "Senegal",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=10"
-                    ]
-                },
-                {
-                    "name": "DAZN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=17"
-                    ]
-                },
-                {
-                    "name": "Universo",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=26"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-usa-senegal-2026-05-31-22-30",
-            "startTimestamp": 1780255800000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:45 [International Friendly Matches] Germany vs Finland [ZDF DE]",
-            "matchstr": "Germany vs Finland",
-            "time": "21:45",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Germany",
-            "team2": "Finland",
-            "channel": "ZDF DE",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "ZDF",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=11"
-                    ]
-                },
-                {
-                    "name": "TV2 Sport X",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://sansat.link/channel?id=69"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=78"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-germany-finland-2026-05-31-21-45",
-            "startTimestamp": 1780253100000,
-            "duration": 120
-        },
-        {
-            "matchText": "22:00 [Brazil Brasileirao] Palmeiras vs Chapecoense [Sportdigital FUSSBALL DE]",
-            "matchstr": "Palmeiras vs Chapecoense",
-            "time": "22:00",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Palmeiras",
-            "team2": "Chapecoense",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=19"
-                    ]
-                },
-                {
-                    "name": "M. Liga de Campeones 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=28"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-palmeiras-chapecoense-2026-05-31-22-00",
-            "startTimestamp": 1780254000000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:20 [IIHF World Championship] Hockey: Switzerland vs Finland [TSN4 CA]",
-            "matchstr": "Switzerland vs Finland",
-            "time": "21:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Switzerland",
-            "team2": "Finland",
-            "channel": "TSN4 CA",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TSN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "CT Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=42"
-                    ],
-                    "number": 42,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=42"
-                    ]
-                },
-                {
-                    "name": "MTV Urheilu 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=70"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-switzerland-finland-2026-05-31-21-20",
-            "startTimestamp": 1780251600000,
-            "duration": 180
-        },
-        {
-            "matchText": "23:00 [Canada Canadian Premier League] Forge vs Cavalry [Fox Soccer Plus US]",
-            "matchstr": "Forge vs Cavalry",
-            "time": "23:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Forge",
-            "team2": "Cavalry",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-forge-cavalry-2026-05-31-23-00",
-            "startTimestamp": 1780257600000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:30 [Argentina Copa Argentina] Estudiantes vs Rosario Central [TyC Sports Argentina ES]",
-            "matchstr": "Estudiantes vs Rosario Central",
-            "time": "21:30",
-            "league": "Argentina Copa Argentina",
-            "sport": "Football",
-            "team1": "Estudiantes",
-            "team2": "Rosario Central",
-            "channel": "TyC Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TyC Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-copa-argentina-football-estudiantes-rosario-central-2026-05-31-21-30",
-            "startTimestamp": 1780252200000,
-            "duration": 120
-        },
-        {
-            "matchText": "22:00 [Chile Primera Division] Huachipato vs Universidad Catolica [TNT SPORTS Premium ES]",
-            "matchstr": "Huachipato vs Universidad Catolica",
-            "time": "22:00",
-            "league": "Chile Primera Division",
-            "sport": "Football",
-            "team1": "Huachipato",
-            "team2": "Universidad Catolica",
-            "channel": "TNT SPORTS Premium ES",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TNT SPORTS Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "chile-primera-division-football-huachipato-universidad-catolica-2026-05-31-22-00",
-            "startTimestamp": 1780254000000,
-            "duration": 120
-        },
-        {
-            "matchText": "22:00 [United States NWSL] Gotham FC vs Houston Dash [ESPN Deportes ES]",
-            "matchstr": "Gotham FC vs Houston Dash",
-            "time": "22:00",
-            "league": "United States NWSL",
-            "sport": "Football",
-            "team1": "Gotham FC",
-            "team2": "Houston Dash",
-            "channel": "ESPN Deportes ES",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "united-states-nwsl-football-gotham-fc-houston-dash-2026-05-31-22-00",
-            "startTimestamp": 1780254000000,
-            "duration": 120
-        },
-        {
-            "matchText": "22:00 [Spain Segunda Division] Leganes vs Mirandes [LALIGA TV Hypermotion ES]",
-            "matchstr": "Leganes vs Mirandes",
-            "time": "22:00",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Leganes",
-            "team2": "Mirandes",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=91"
-                    ],
-                    "number": 91,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=91"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-leganes-mirandes-2026-05-31-22-00",
-            "startTimestamp": 1780254000000,
-            "duration": 120
-        },
-        {
-            "matchText": "22:00 [Spain Segunda Division] Cordoba vs Huesca [LALIGA TV Hypermotion 2 ES]",
-            "matchstr": "Cordoba vs Huesca",
-            "time": "22:00",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Cordoba",
-            "team2": "Huesca",
-            "channel": "LALIGA TV Hypermotion 2 ES",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=92"
-                    ],
-                    "number": 92,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=92"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-cordoba-huesca-2026-05-31-22-00",
-            "startTimestamp": 1780254000000,
-            "duration": 120
-        },
-        {
             "matchText": "02:30 [Brazil Brasileirao] Cruzeiro vs Fluminense [Premier Sports 1 GB]",
             "matchstr": "Cruzeiro vs Fluminense",
             "time": "02:30",
@@ -676,34 +269,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:30 [International Friendly Matches] Brazil vs Panama [SporTV BR]",
-            "matchstr": "Brazil vs Panama",
-            "time": "00:30",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Brazil",
-            "team2": "Panama",
-            "channel": "SporTV BR",
-            "important": false,
-            "matchDate": "2026-06-01",
-            "channels": [
-                {
-                    "name": "SporTV",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "BR",
-                    "links": [
-                        "https://sansat.link/channel?id=26"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-brazil-panama-2026-06-01-00-30",
-            "startTimestamp": 1780263000000,
-            "duration": 120
-        },
-        {
             "matchText": "02:00 [Memorial Cup] Hockey: Everett Silvertips vs Kitchener Rangers [TSN1 CA]",
             "matchstr": "Everett Silvertips vs Kitchener Rangers",
             "time": "02:00",
@@ -924,34 +489,6 @@
             ],
             "slug": "international-friendly-matches-football-norway-sweden-2026-06-01-20-00",
             "startTimestamp": 1780333200000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [Chile Primera Division] O'Higgins vs Everton [TNT SPORTS Premium ES]",
-            "matchstr": "O'Higgins vs Everton",
-            "time": "00:30",
-            "league": "Chile Primera Division",
-            "sport": "Football",
-            "team1": "O'Higgins",
-            "team2": "Everton",
-            "channel": "TNT SPORTS Premium ES",
-            "important": false,
-            "matchDate": "2026-06-01",
-            "channels": [
-                {
-                    "name": "TNT SPORTS Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "chile-primera-division-football-o-higgins-everton-2026-06-01-00-30",
-            "startTimestamp": 1780263000000,
             "duration": 120
         },
         {
@@ -1359,6 +896,530 @@
             ],
             "slug": "world-maurice-revello-tournament-football-saudi-arabia-u23-colombia-u20-2026-06-02-19-30",
             "startTimestamp": 1780417800000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [NHL] Hockey: Vegas Golden Knights vs Carolina Hurricanes [ABC US]",
+            "matchstr": "Vegas Golden Knights vs Carolina Hurricanes",
+            "time": "03:00",
+            "league": "NHL",
+            "sport": "Hockey",
+            "team1": "Vegas Golden Knights",
+            "team2": "Carolina Hurricanes",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "TVA Sports",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=3"
+                    ]
+                },
+                {
+                    "name": "Viaplay",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "nhl-hockey-vegas-golden-knights-carolina-hurricanes-2026-06-03-03-00",
+            "startTimestamp": 1780444800000,
+            "duration": 180
+        },
+        {
+            "matchText": "03:00 [International Friendly Matches] Haiti vs New Zealand [Premier Sports 2 GB]",
+            "matchstr": "Haiti vs New Zealand",
+            "time": "03:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Haiti",
+            "team2": "New Zealand",
+            "channel": "Premier Sports 2 GB",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "Premier Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=87"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-haiti-new-zealand-2026-06-03-03-00",
+            "startTimestamp": 1780444800000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:45 [International Friendly Matches] Netherlands vs Algeria [DAZN1 DE]",
+            "matchstr": "Netherlands vs Algeria",
+            "time": "21:45",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Netherlands",
+            "team2": "Algeria",
+            "channel": "DAZN1 DE",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=17"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=71"
+                    ]
+                },
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=83"
+                    ]
+                },
+                {
+                    "name": "NPO 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://sansat.link/channel?id=88"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-netherlands-algeria-2026-06-03-21-45",
+            "startTimestamp": 1780512300000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:45 [International Friendly Matches] Poland vs Nigeria [DAZN2 DE]",
+            "matchstr": "Poland vs Nigeria",
+            "time": "21:45",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Poland",
+            "team2": "Nigeria",
+            "channel": "DAZN2 DE",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "DAZN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=18"
+                    ],
+                    "number": 18,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=18"
+                    ]
+                },
+                {
+                    "name": "Sky Sport 6",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=36"
+                    ],
+                    "number": 36,
+                    "language": "NZ",
+                    "links": [
+                        "https://sansat.link/channel?id=36"
+                    ]
+                },
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://sansat.link/channel?id=60"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-poland-nigeria-2026-06-03-21-45",
+            "startTimestamp": 1780512300000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:50 [World FIFA Beach Soccer World Cup] Japan vs Portugal [Sport TV1 PT]",
+            "matchstr": "Japan vs Portugal",
+            "time": "15:50",
+            "league": "World FIFA Beach Soccer World Cup",
+            "sport": "Football",
+            "team1": "Japan",
+            "team2": "Portugal",
+            "channel": "Sport TV1 PT",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://sansat.link/channel?id=21"
+                    ]
+                }
+            ],
+            "slug": "world-fifa-beach-soccer-world-cup-football-japan-portugal-2026-06-03-15-50",
+            "startTimestamp": 1780491000000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [International Friendly Matches] Denmark vs Congo DR [Sport TV1 PT]",
+            "matchstr": "Denmark vs Congo DR",
+            "time": "21:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Denmark",
+            "team2": "Congo DR",
+            "channel": "Sport TV1 PT",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://sansat.link/channel?id=21"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=72"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-denmark-congo-dr-2026-06-03-21-00",
+            "startTimestamp": 1780509600000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [WNBA] Basketball: Vegas Golden Knights vs Carolina Hurricanes [TSN2 CA]",
+            "matchstr": "Vegas Golden Knights vs Carolina Hurricanes",
+            "time": "02:30",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "Vegas Golden Knights",
+            "team2": "Carolina Hurricanes",
+            "channel": "TSN2 CA",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=32"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-vegas-golden-knights-carolina-hurricanes-2026-06-03-02-30",
+            "startTimestamp": 1780443000000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:45 [International Friendly Matches] Luxembourg vs Italy [Sky Sport 5 NZ]",
+            "matchstr": "Luxembourg vs Italy",
+            "time": "21:45",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Luxembourg",
+            "team2": "Italy",
+            "channel": "Sky Sport 5 NZ",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "Sky Sport 5",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=35"
+                    ],
+                    "number": 35,
+                    "language": "NZ",
+                    "links": [
+                        "https://sansat.link/channel?id=35"
+                    ]
+                },
+                {
+                    "name": "Sport 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=42"
+                    ],
+                    "number": 42,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=42"
+                    ]
+                },
+                {
+                    "name": "RAI 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://sansat.link/channel?id=47"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-luxembourg-italy-2026-06-03-21-45",
+            "startTimestamp": 1780512300000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [International Friendly Matches] Albania vs Israel [SuperSport 2 AL]",
+            "matchstr": "Albania vs Israel",
+            "time": "21:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Albania",
+            "team2": "Israel",
+            "channel": "SuperSport 2 AL",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "SuperSport 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=62"
+                    ],
+                    "number": 62,
+                    "language": "AL",
+                    "links": [
+                        "https://sansat.link/channel?id=62"
+                    ]
+                },
+                {
+                    "name": "5Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=65"
+                    ],
+                    "number": 65,
+                    "language": "IL",
+                    "links": [
+                        "https://sansat.link/channel?id=65"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-albania-israel-2026-06-03-21-00",
+            "startTimestamp": 1780509600000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [International Friendly Matches] Gibraltar vs British Virgin Islands [beIN Sports SA]",
+            "matchstr": "Gibraltar vs British Virgin Islands",
+            "time": "20:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Gibraltar",
+            "team2": "British Virgin Islands",
+            "channel": "beIN Sports SA",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "beIN Sports",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=64"
+                    ],
+                    "number": 64,
+                    "language": "SA",
+                    "links": [
+                        "https://sansat.link/channel?id=64"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-gibraltar-british-virgin-islands-2026-06-03-20-00",
+            "startTimestamp": 1780506000000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:30 [Colombia Primera A] Junior vs Atletico Nacional [Win+ Futbol ES]",
+            "matchstr": "Junior vs Atletico Nacional",
+            "time": "03:30",
+            "league": "Colombia Primera A",
+            "sport": "Football",
+            "team1": "Junior",
+            "team2": "Atletico Nacional",
+            "channel": "Win+ Futbol ES",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "Win+ Futbol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=84"
+                    ]
+                }
+            ],
+            "slug": "colombia-primera-a-football-junior-atletico-nacional-2026-06-03-03-30",
+            "startTimestamp": 1780446600000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:10 [Argentina Copa Argentina] Barracas Central vs Huracan [TyC Sports Argentina ES]",
+            "matchstr": "Barracas Central vs Huracan",
+            "time": "03:10",
+            "league": "Argentina Copa Argentina",
+            "sport": "Football",
+            "team1": "Barracas Central",
+            "team2": "Huracan",
+            "channel": "TyC Sports Argentina ES",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "TyC Sports Argentina",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=85"
+                    ],
+                    "number": 85,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=85"
+                    ]
+                }
+            ],
+            "slug": "argentina-copa-argentina-football-barracas-central-huracan-2026-06-03-03-10",
+            "startTimestamp": 1780445400000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [World Maurice Revello Tournament] Japan U20 vs Portugal U20 [Fox Deportes ES]",
+            "matchstr": "Japan U20 vs Portugal U20",
+            "time": "16:00",
+            "league": "World Maurice Revello Tournament",
+            "sport": "Football",
+            "team1": "Japan U20",
+            "team2": "Portugal U20",
+            "channel": "Fox Deportes ES",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=87"
+                    ]
+                }
+            ],
+            "slug": "world-maurice-revello-tournament-football-japan-u20-portugal-u20-2026-06-03-16-00",
+            "startTimestamp": 1780491600000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [World Maurice Revello Tournament] Cote d'Ivoire U20 vs Venezuela U20 [Fox Deportes ES]",
+            "matchstr": "Cote d'Ivoire U20 vs Venezuela U20",
+            "time": "19:30",
+            "league": "World Maurice Revello Tournament",
+            "sport": "Football",
+            "team1": "Cote d'Ivoire U20",
+            "team2": "Venezuela U20",
+            "channel": "Fox Deportes ES",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=87"
+                    ]
+                }
+            ],
+            "slug": "world-maurice-revello-tournament-football-cote-d-ivoire-u20-venezuela-u20-2026-06-03-19-30",
+            "startTimestamp": 1780504200000,
             "duration": 120
         }
     ]

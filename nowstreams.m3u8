@@ -1,44 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="nhra-drag-racing-motorsport-nhra-potomac-nationals-2026-05-31-22-00" group-title="NHRA Drag Racing",NHRA Potomac Nationals (Fox Sports Racing)
-https://sansat.link/channel?id=9
-#EXTINF:-1 tvg-id="international-friendly-matches-football-usa-senegal-2026-05-31-22-30" group-title="International Friendly Matches",USA vs Senegal (TNT)
-https://sansat.link/channel?id=10
-#EXTINF:-1 tvg-id="international-friendly-matches-football-usa-senegal-2026-05-31-22-30" group-title="International Friendly Matches",USA vs Senegal (DAZN1)
-https://sansat.link/channel?id=17
-#EXTINF:-1 tvg-id="international-friendly-matches-football-usa-senegal-2026-05-31-22-30" group-title="International Friendly Matches",USA vs Senegal (Universo)
-https://sansat.link/channel?id=26
-#EXTINF:-1 tvg-id="international-friendly-matches-football-germany-finland-2026-05-31-21-45" group-title="International Friendly Matches",Germany vs Finland (ZDF)
-https://sansat.link/channel?id=11
-#EXTINF:-1 tvg-id="international-friendly-matches-football-germany-finland-2026-05-31-21-45" group-title="International Friendly Matches",Germany vs Finland (TV2 Sport X)
-https://sansat.link/channel?id=69
-#EXTINF:-1 tvg-id="international-friendly-matches-football-germany-finland-2026-05-31-21-45" group-title="International Friendly Matches",Germany vs Finland (V Sport Premium)
-https://sansat.link/channel?id=78
-#EXTINF:-1 tvg-id="international-friendly-matches-football-germany-finland-2026-05-31-21-45" group-title="International Friendly Matches",Germany vs Finland (Fox Sports 2)
-https://sansat.link/channel?id=82
-#EXTINF:-1 tvg-id="brazil-brasileirao-football-palmeiras-chapecoense-2026-05-31-22-00" group-title="Brazil Brasileirao",Palmeiras vs Chapecoense (Sportdigital FUSSBALL)
-https://sansat.link/channel?id=19
-#EXTINF:-1 tvg-id="brazil-brasileirao-football-palmeiras-chapecoense-2026-05-31-22-00" group-title="Brazil Brasileirao",Palmeiras vs Chapecoense (M. Liga de Campeones 2)
-https://sansat.link/channel?id=28
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-finland-2026-05-31-21-20" group-title="IIHF World Championship",Switzerland vs Finland (TSN4)
-https://sansat.link/channel?id=34
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-finland-2026-05-31-21-20" group-title="IIHF World Championship",Switzerland vs Finland (CT Sport)
-https://sansat.link/channel?id=42
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-finland-2026-05-31-21-20" group-title="IIHF World Championship",Switzerland vs Finland (MTV Urheilu 1)
-https://sansat.link/channel?id=70
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-finland-2026-05-31-21-20" group-title="IIHF World Championship",Switzerland vs Finland (Viaplay Sport)
-https://sansat.link/channel?id=80
-#EXTINF:-1 tvg-id="canada-canadian-premier-league-football-forge-cavalry-2026-05-31-23-00" group-title="Canada Canadian Premier League",Forge vs Cavalry (Fox Soccer Plus)
-https://sansat.link/channel?id=83
-#EXTINF:-1 tvg-id="argentina-copa-argentina-football-estudiantes-rosario-central-2026-05-31-21-30" group-title="Argentina Copa Argentina",Estudiantes vs Rosario Central (TyC Sports Argentina)
-https://sansat.link/channel?id=84
-#EXTINF:-1 tvg-id="chile-primera-division-football-huachipato-universidad-catolica-2026-05-31-22-00" group-title="Chile Primera Division",Huachipato vs Universidad Catolica (TNT SPORTS Premium)
-https://sansat.link/channel?id=85
-#EXTINF:-1 tvg-id="united-states-nwsl-football-gotham-fc-houston-dash-2026-05-31-22-00" group-title="United States NWSL",Gotham FC vs Houston Dash (ESPN Deportes)
-https://sansat.link/channel?id=86
-#EXTINF:-1 tvg-id="spain-segunda-division-football-leganes-mirandes-2026-05-31-22-00" group-title="Spain Segunda Division",Leganes vs Mirandes (LALIGA TV Hypermotion)
-https://sansat.link/channel?id=91
-#EXTINF:-1 tvg-id="spain-segunda-division-football-cordoba-huesca-2026-05-31-22-00" group-title="Spain Segunda Division",Cordoba vs Huesca (LALIGA TV Hypermotion 2)
-https://sansat.link/channel?id=92
 #EXTINF:-1 tvg-id="brazil-brasileirao-football-cruzeiro-fluminense-2026-06-01-02-30" group-title="Brazil Brasileirao",Cruzeiro vs Fluminense (Premier Sports 1)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="bbl-basketball-bamberg-alba-berlin-2026-06-01-19-30" group-title="BBL",Bamberg vs Alba Berlin (Next Level Sports)
@@ -63,8 +23,6 @@ https://sansat.link/channel?id=48
 https://sansat.link/channel?id=19
 #EXTINF:-1 tvg-id="europe-uefa-u17-european-championship-football-denmark-u17-italy-u17-2026-06-01-14-30" group-title="Europe UEFA U17 European Championship",Denmark U17 vs Italy U17 (Sportdigital FUSSBALL 2)
 https://sansat.link/channel?id=20
-#EXTINF:-1 tvg-id="international-friendly-matches-football-brazil-panama-2026-06-01-00-30" group-title="International Friendly Matches",Brazil vs Panama (SporTV)
-https://sansat.link/channel?id=26
 #EXTINF:-1 tvg-id="memorial-cup-hockey-everett-silvertips-kitchener-rangers-2026-06-01-02-00" group-title="Memorial Cup",Everett Silvertips vs Kitchener Rangers (TSN1)
 https://sansat.link/channel?id=31
 #EXTINF:-1 tvg-id="united-states-nwsl-football-angel-city-north-carolina-courage-2026-06-01-02-00" group-title="United States NWSL",Angel City vs North Carolina Courage (OneSoccer)
@@ -87,8 +45,6 @@ https://sansat.link/channel?id=71
 https://sansat.link/channel?id=80
 #EXTINF:-1 tvg-id="international-friendly-matches-football-norway-sweden-2026-06-01-20-00" group-title="International Friendly Matches",Norway vs Sweden (Fox Sports 2)
 https://sansat.link/channel?id=82
-#EXTINF:-1 tvg-id="chile-primera-division-football-o-higgins-everton-2026-06-01-00-30" group-title="Chile Primera Division",O'Higgins vs Everton (TNT SPORTS Premium)
-https://sansat.link/channel?id=85
 #EXTINF:-1 tvg-id="chile-primera-division-football-palestino-audax-italiano-2026-06-01-03-00" group-title="Chile Primera Division",Palestino vs Audax Italiano (TNT SPORTS Premium)
 https://sansat.link/channel?id=85
 #EXTINF:-1 tvg-id="world-maurice-revello-tournament-football-japan-u20-cote-d-ivoire-u20-2026-06-01-16-00" group-title="World Maurice Revello Tournament",Japan U20 vs Cote d'Ivoire U20 (Fox Deportes)
@@ -128,4 +84,56 @@ https://sansat.link/channel?id=82
 #EXTINF:-1 tvg-id="world-maurice-revello-tournament-football-china-pr-u20-congo-dr-u20-2026-06-02-16-00" group-title="World Maurice Revello Tournament",China PR U20 vs Congo DR U20 (Fox Deportes)
 https://sansat.link/channel?id=87
 #EXTINF:-1 tvg-id="world-maurice-revello-tournament-football-saudi-arabia-u23-colombia-u20-2026-06-02-19-30" group-title="World Maurice Revello Tournament",Saudi Arabia U23 vs Colombia U20 (Fox Deportes)
+https://sansat.link/channel?id=87
+#EXTINF:-1 tvg-id="nhl-hockey-vegas-golden-knights-carolina-hurricanes-2026-06-03-03-00" group-title="NHL",Vegas Golden Knights vs Carolina Hurricanes (ABC)
+https://sansat.link/channel?id=1
+#EXTINF:-1 tvg-id="nhl-hockey-vegas-golden-knights-carolina-hurricanes-2026-06-03-03-00" group-title="NHL",Vegas Golden Knights vs Carolina Hurricanes (TVA Sports)
+https://sansat.link/channel?id=3
+#EXTINF:-1 tvg-id="nhl-hockey-vegas-golden-knights-carolina-hurricanes-2026-06-03-03-00" group-title="NHL",Vegas Golden Knights vs Carolina Hurricanes (Viaplay)
+https://sansat.link/channel?id=80
+#EXTINF:-1 tvg-id="international-friendly-matches-football-haiti-new-zealand-2026-06-03-03-00" group-title="International Friendly Matches",Haiti vs New Zealand (Premier Sports 2)
+https://sansat.link/channel?id=2
+#EXTINF:-1 tvg-id="international-friendly-matches-football-haiti-new-zealand-2026-06-03-03-00" group-title="International Friendly Matches",Haiti vs New Zealand (Fox Deportes)
+https://sansat.link/channel?id=87
+#EXTINF:-1 tvg-id="international-friendly-matches-football-netherlands-algeria-2026-06-03-21-45" group-title="International Friendly Matches",Netherlands vs Algeria (DAZN1)
+https://sansat.link/channel?id=17
+#EXTINF:-1 tvg-id="international-friendly-matches-football-netherlands-algeria-2026-06-03-21-45" group-title="International Friendly Matches",Netherlands vs Algeria (MTV Urheilu 1)
+https://sansat.link/channel?id=71
+#EXTINF:-1 tvg-id="international-friendly-matches-football-netherlands-algeria-2026-06-03-21-45" group-title="International Friendly Matches",Netherlands vs Algeria (Fox Soccer Plus)
+https://sansat.link/channel?id=83
+#EXTINF:-1 tvg-id="international-friendly-matches-football-netherlands-algeria-2026-06-03-21-45" group-title="International Friendly Matches",Netherlands vs Algeria (NPO 1)
+https://sansat.link/channel?id=88
+#EXTINF:-1 tvg-id="international-friendly-matches-football-poland-nigeria-2026-06-03-21-45" group-title="International Friendly Matches",Poland vs Nigeria (DAZN2)
+https://sansat.link/channel?id=18
+#EXTINF:-1 tvg-id="international-friendly-matches-football-poland-nigeria-2026-06-03-21-45" group-title="International Friendly Matches",Poland vs Nigeria (Sky Sport 6)
+https://sansat.link/channel?id=36
+#EXTINF:-1 tvg-id="international-friendly-matches-football-poland-nigeria-2026-06-03-21-45" group-title="International Friendly Matches",Poland vs Nigeria (TVP Sport)
+https://sansat.link/channel?id=60
+#EXTINF:-1 tvg-id="world-fifa-beach-soccer-world-cup-football-japan-portugal-2026-06-03-15-50" group-title="World FIFA Beach Soccer World Cup",Japan vs Portugal (Sport TV1)
+https://sansat.link/channel?id=21
+#EXTINF:-1 tvg-id="international-friendly-matches-football-denmark-congo-dr-2026-06-03-21-00" group-title="International Friendly Matches",Denmark vs Congo DR (Sport TV1)
+https://sansat.link/channel?id=21
+#EXTINF:-1 tvg-id="international-friendly-matches-football-denmark-congo-dr-2026-06-03-21-00" group-title="International Friendly Matches",Denmark vs Congo DR (MTV Urheilu 2)
+https://sansat.link/channel?id=72
+#EXTINF:-1 tvg-id="wnba-basketball-vegas-golden-knights-carolina-hurricanes-2026-06-03-02-30" group-title="WNBA",Vegas Golden Knights vs Carolina Hurricanes (TSN2)
+https://sansat.link/channel?id=32
+#EXTINF:-1 tvg-id="international-friendly-matches-football-luxembourg-italy-2026-06-03-21-45" group-title="International Friendly Matches",Luxembourg vs Italy (Sky Sport 5)
+https://sansat.link/channel?id=35
+#EXTINF:-1 tvg-id="international-friendly-matches-football-luxembourg-italy-2026-06-03-21-45" group-title="International Friendly Matches",Luxembourg vs Italy (Sport 2)
+https://sansat.link/channel?id=42
+#EXTINF:-1 tvg-id="international-friendly-matches-football-luxembourg-italy-2026-06-03-21-45" group-title="International Friendly Matches",Luxembourg vs Italy (RAI 1)
+https://sansat.link/channel?id=47
+#EXTINF:-1 tvg-id="international-friendly-matches-football-albania-israel-2026-06-03-21-00" group-title="International Friendly Matches",Albania vs Israel (SuperSport 2)
+https://sansat.link/channel?id=62
+#EXTINF:-1 tvg-id="international-friendly-matches-football-albania-israel-2026-06-03-21-00" group-title="International Friendly Matches",Albania vs Israel (5Sport)
+https://sansat.link/channel?id=65
+#EXTINF:-1 tvg-id="international-friendly-matches-football-gibraltar-british-virgin-islands-2026-06-03-20-00" group-title="International Friendly Matches",Gibraltar vs British Virgin Islands (beIN Sports)
+https://sansat.link/channel?id=64
+#EXTINF:-1 tvg-id="colombia-primera-a-football-junior-atletico-nacional-2026-06-03-03-30" group-title="Colombia Primera A",Junior vs Atletico Nacional (Win+ Futbol)
+https://sansat.link/channel?id=84
+#EXTINF:-1 tvg-id="argentina-copa-argentina-football-barracas-central-huracan-2026-06-03-03-10" group-title="Argentina Copa Argentina",Barracas Central vs Huracan (TyC Sports Argentina)
+https://sansat.link/channel?id=85
+#EXTINF:-1 tvg-id="world-maurice-revello-tournament-football-japan-u20-portugal-u20-2026-06-03-16-00" group-title="World Maurice Revello Tournament",Japan U20 vs Portugal U20 (Fox Deportes)
+https://sansat.link/channel?id=87
+#EXTINF:-1 tvg-id="world-maurice-revello-tournament-football-cote-d-ivoire-u20-venezuela-u20-2026-06-03-19-30" group-title="World Maurice Revello Tournament",Cote d'Ivoire U20 vs Venezuela U20 (Fox Deportes)
 https://sansat.link/channel?id=87
