@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="bbl-basketball-telekom-baskets-bonn-fc-bayern-munchen-2026-06-01-21-30" group-title="BBL",Telekom Baskets Bonn vs FC Bayern Munchen (Next Level Sports)
-https://sansat.link/channel?id=10
-#EXTINF:-1 tvg-id="international-friendly-matches-football-austria-tunisia-2026-06-01-21-45" group-title="International Friendly Matches",Austria vs Tunisia (Servus TV)
-https://sansat.link/channel?id=12
-#EXTINF:-1 tvg-id="international-friendly-matches-football-austria-tunisia-2026-06-01-21-45" group-title="International Friendly Matches",Austria vs Tunisia (Sky Sport 1)
-https://sansat.link/channel?id=31
-#EXTINF:-1 tvg-id="international-friendly-matches-football-austria-tunisia-2026-06-01-21-45" group-title="International Friendly Matches",Austria vs Tunisia (MTV Urheilu 2)
-https://sansat.link/channel?id=72
 #EXTINF:-1 tvg-id="international-friendly-matches-football-colombia-costa-rica-2026-06-02-02-00" group-title="International Friendly Matches",Colombia vs Costa Rica (TLN)
 https://sansat.link/channel?id=9
 #EXTINF:-1 tvg-id="international-friendly-matches-football-colombia-costa-rica-2026-06-02-02-00" group-title="International Friendly Matches",Colombia vs Costa Rica (Sport TV1)
