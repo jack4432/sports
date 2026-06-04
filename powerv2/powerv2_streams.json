@@ -1,28 +1,8 @@
 [
   {
-    "id": "9686",
-    "name": "San Francisco Giants at Milwaukee Brewers (English)",
-    "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=JCm3U6vgVLeax3cmCyCRnRDNqsO3IrV3WwwP5PRYFJ4&e=1780620364",
-    "categoryId": 13,
-    "start": "2026-06-04T19:10:00",
-    "original_name_upper": "SAN FRANCISCO GIANTS AT MILWAUKEE BREWERS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-  },
-  {
-    "id": "9694",
-    "name": "Iraq at Spain (English)",
-    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=0mbLUBraGAdIY7TNDIDaqzBLKo7m2Rm5doLnSa9C8AQ&e=1780620364",
-    "categoryId": 9,
-    "start": "2026-06-04T20:00:00",
-    "original_name_upper": "IRAQ AT SPAIN",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png"
-  },
-  {
     "id": "9692",
     "name": "Ivory Coast at France (English)",
-    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=L1tjA8jq686EiKCUq91sBKQDyOx9QF11qRC71lRTGdU&e=1780620364",
+    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=umj8t34sIU5tdCNntas3_eIKl2c8--DxKjrf06pJg9c&e=1780625117",
     "categoryId": 9,
     "start": "2026-06-04T20:10:00",
     "original_name_upper": "IVORY COAST AT FRANCE",
@@ -32,7 +12,7 @@
   {
     "id": "9696",
     "name": "Atlanta Dream at Indiana Fever (English)",
-    "url": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?st=w5fbG-BxVxsNXhhQU_5dZGVW1gdUXLXpUiysh7xeOiY&e=1780620364",
+    "url": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=3Tbw4-XEdj6YJksLaCK3AyfNAf5zUL2M58-7qDkrLjE&e=1780625117",
     "categoryId": 4,
     "start": "2026-06-05T00:00:00",
     "original_name_upper": "ATLANTA DREAM AT INDIANA FEVER",
@@ -42,7 +22,7 @@
   {
     "id": "9687",
     "name": "Toronto Blue Jays at Atlanta Braves (English)",
-    "url": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=VaDhbpSndmzv5pdJNS9lpMLzUGGQwChQJ7-yQouhqcI&e=1780620363",
+    "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=S553LXRzwQn1e4Juyry4AcSDyURT8FNJt2tPE6zhFVQ&e=1780625117",
     "categoryId": 13,
     "start": "2026-06-05T00:15:00",
     "original_name_upper": "TORONTO BLUE JAYS AT ATLANTA BRAVES",
@@ -52,7 +32,7 @@
   {
     "id": "9688",
     "name": "Kansas City Royals at Minnesota Twins (English)",
-    "url": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?st=eL-W9sWVOAzG92xufTVmLqDYbLEOxLf84q82gIIzviw&e=1780620363",
+    "url": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=uyukelglJJEvzSLhrMYjE63R8VI54nq3fEPwAj9-lxc&e=1780625117",
     "categoryId": 13,
     "start": "2026-06-05T00:40:00",
     "original_name_upper": "KANSAS CITY ROYALS AT MINNESOTA TWINS",
@@ -62,7 +42,7 @@
   {
     "id": "9695",
     "name": "Vegas Golden Knights at Carolina Hurricanes (English)",
-    "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=OAq9fxPQDlOwgwFSLw7RQTE2aPxZNTU-NynbrEE-6T4&e=1780620363",
+    "url": "https://edgestreams.pro/hls/uyopzarf50.m3u8?st=9bJThW6wVgX1YYofpvZfgOYFYznhqHU9jpLlHCgVq7E&e=1780625117",
     "categoryId": 16,
     "start": "2026-06-05T01:00:00",
     "original_name_upper": "VEGAS GOLDEN KNIGHTS AT CAROLINA HURRICANES",
@@ -72,7 +52,7 @@
   {
     "id": "9689",
     "name": "Athletics Athletics at Chicago Cubs (English)",
-    "url": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=0wbisytut1dzNkh-a2X7RqkeCrfxhNj9Vh89MvJfbC8&e=1780620363",
+    "url": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=lFKAcWiMmmHeVeHrFy1msiKsNziFifKRBOUQ6lBV4eM&e=1780625117",
     "categoryId": 13,
     "start": "2026-06-05T01:05:00",
     "original_name_upper": "ATHLETICS ATHLETICS AT CHICAGO CUBS",
@@ -82,7 +62,7 @@
   {
     "id": "9690",
     "name": "Pittsburgh Pirates at Houston Astros (English)",
-    "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=dBWeZAMBqMDVd_KAySlH4pGvIfpBNdO0lCyKnJam85I&e=1780620363",
+    "url": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=BRVx6ndqPGvFwn5TvI40ANfTAsy7j3cD6QmrWKG33wA&e=1780625116",
     "categoryId": 13,
     "start": "2026-06-05T01:10:00",
     "original_name_upper": "PITTSBURGH PIRATES AT HOUSTON ASTROS",
@@ -92,7 +72,7 @@
   {
     "id": "9697",
     "name": "Golden State Valkyries at Minnesota Lynx (English)",
-    "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=oKxigwHUgzLjs7UT5PrJrht4zqCIqs-T8KiUMdBpvSk&e=1780620363",
+    "url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=drElM3BPy-ey6l8B3VeV93mFRk_Rf0QBNQzbgucq0VU&e=1780625116",
     "categoryId": 4,
     "start": "2026-06-05T02:00:00",
     "original_name_upper": "GOLDEN STATE VALKYRIES AT MINNESOTA LYNX",
@@ -102,7 +82,7 @@
   {
     "id": "9691",
     "name": "Los Angeles Dodgers at Arizona Diamondbacks (English)",
-    "url": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=mSnfxD7MrL6LA-mMmDa-riDnYksWD1YAzpPOB0nmpvk&e=1780620363",
+    "url": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=HR2QUoh7_BXzATDsxB7SFOgn8sxMkprLzXssySTUOZU&e=1780625116",
     "categoryId": 13,
     "start": "2026-06-05T02:40:00",
     "original_name_upper": "LOS ANGELES DODGERS AT ARIZONA DIAMONDBACKS",
@@ -112,7 +92,7 @@
   {
     "id": "9698",
     "name": "Monaco Grand Prix (English)",
-    "url": "https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=dLPK7xtLQ1woBFLe0q-UzRu7cp88fvFozdisDU5FWfE&e=1780620363",
+    "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=Sawdgp6b-ztd4au0hvUTW1G1VGI8EDDW2fJVltXCRG4&e=1780625116",
     "categoryId": 15,
     "start": "2026-06-05T12:30:00",
     "original_name_upper": "MONACO GRAND PRIX",
@@ -122,7 +102,7 @@
   {
     "id": "9699",
     "name": "Monaco Grand Prix  Practice 2 (English)",
-    "url": "https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=6VCU6oQ_zQs098s_t8zDlqdLfdGCqLizSc19R1FZU6A&e=1780620362",
+    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=fV80WIUtGqndqG8_nHFaQQRzfOL3MK62YgiHnI6SGQU&e=1780625115",
     "categoryId": 15,
     "start": "2026-06-05T16:00:00",
     "original_name_upper": "MONACO GRAND PRIX  PRACTICE 2",
@@ -132,7 +112,7 @@
   {
     "id": "9700",
     "name": "Monaco Grand Prix  Practice 3 (English)",
-    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=6VCU6oQ_zQs098s_t8zDlqdLfdGCqLizSc19R1FZU6A&e=1780620362",
+    "url": "https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=fV80WIUtGqndqG8_nHFaQQRzfOL3MK62YgiHnI6SGQU&e=1780625115",
     "categoryId": 15,
     "start": "2026-06-06T11:30:00",
     "original_name_upper": "MONACO GRAND PRIX  PRACTICE 3",
@@ -142,7 +122,7 @@
   {
     "id": "9701",
     "name": "Monaco Grand Prix Qualifying (English)",
-    "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=6VCU6oQ_zQs098s_t8zDlqdLfdGCqLizSc19R1FZU6A&e=1780620362",
+    "url": "https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=fV80WIUtGqndqG8_nHFaQQRzfOL3MK62YgiHnI6SGQU&e=1780625115",
     "categoryId": 15,
     "start": "2026-06-06T15:00:00",
     "original_name_upper": "MONACO GRAND PRIX QUALIFYING",
@@ -152,7 +132,7 @@
   {
     "id": "9702",
     "name": "Monaco Grand Prix Race (English)",
-    "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=6VCU6oQ_zQs098s_t8zDlqdLfdGCqLizSc19R1FZU6A&e=1780620362",
+    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=fV80WIUtGqndqG8_nHFaQQRzfOL3MK62YgiHnI6SGQU&e=1780625115",
     "categoryId": 15,
     "start": "2026-06-07T14:00:00",
     "original_name_upper": "MONACO GRAND PRIX RACE",
