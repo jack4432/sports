@@ -40,84 +40,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [Formula 1] Motorsport: Monaco Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Monaco Grand Prix",
-            "time": "18:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Monaco Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-05-18-00",
-            "startTimestamp": 1780671600000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [FIFA Women's World Cup Qualifying] Austria vs Slovenia [ORF eins DE]",
-            "matchstr": "Austria vs Slovenia",
-            "time": "19:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Austria",
-            "team2": "Slovenia",
-            "channel": "ORF eins DE",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "ORF eins",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=11"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-austria-slovenia-2026-06-05-19-00",
-            "startTimestamp": 1780675200000,
-            "duration": 120
-        },
-        {
             "matchText": "20:30 [FIFA Women's World Cup Qualifying] Switzerland vs Malta [SRF zwei DE]",
             "matchstr": "Switzerland vs Malta",
             "time": "20:30",
@@ -241,34 +163,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:30 [One] MMA: One Friday Fights [beIN Sport US]",
-            "matchstr": "One Friday Fights",
-            "time": "16:30",
-            "league": "One",
-            "sport": "MMA",
-            "team1": "One Friday Fights",
-            "team2": null,
-            "channel": "beIN Sport US",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "beIN Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=39"
-                    ]
-                }
-            ],
-            "slug": "one-mma-one-friday-fights-2026-06-05-16-30",
-            "startTimestamp": 1780666200000,
-            "duration": 180
-        },
-        {
             "matchText": "20:00 [International Friendly Matches] Moldova vs Bulgaria [Sport 1 CZ]",
             "matchstr": "Moldova vs Bulgaria",
             "time": "20:00",
@@ -308,34 +202,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:30 [FIFA Women's World Cup Qualifying] Czech Republic vs Albania [\u010cT2 CZ]",
-            "matchstr": "Czech Republic vs Albania",
-            "time": "18:30",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Czech Republic",
-            "team2": "Albania",
-            "channel": "\u010cT2 CZ",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "\u010cT2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=42"
-                    ],
-                    "number": 42,
-                    "language": "CZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=42"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-czech-republic-albania-2026-06-05-18-30",
-            "startTimestamp": 1780673400000,
-            "duration": 120
-        },
-        {
             "matchText": "19:15 [FIFA Women's World Cup Qualifying] Italy vs Serbia [RAI 2 IT]",
             "matchstr": "Italy vs Serbia",
             "time": "19:15",
@@ -364,45 +230,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [FIFA Women's World Cup Qualifying] Poland vs France [W9 FR]",
-            "matchstr": "Poland vs France",
-            "time": "19:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Poland",
-            "team2": "France",
-            "channel": "W9 FR",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "W9",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=50"
-                    ]
-                },
-                {
-                    "name": "TVP Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=61"
-                    ],
-                    "number": 61,
-                    "language": "PL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=61"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-poland-france-2026-06-05-19-00",
-            "startTimestamp": 1780675200000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [International Friendly Matches] Russia vs Burkina Faso [Match Premier RU]",
             "matchstr": "Russia vs Burkina Faso",
             "time": "20:00",
@@ -428,34 +255,6 @@
             ],
             "slug": "international-friendly-matches-football-russia-burkina-faso-2026-06-05-20-00",
             "startTimestamp": 1780678800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [FIFA Women's World Cup Qualifying] Azerbaijan vs Hungary [M4 Sports HU]",
-            "matchstr": "Azerbaijan vs Hungary",
-            "time": "17:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Azerbaijan",
-            "team2": "Hungary",
-            "channel": "M4 Sports HU",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "M4 Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "HU",
-                    "links": [
-                        "https://s2.kora.st/channel?id=66"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-azerbaijan-hungary-2026-06-05-17-00",
-            "startTimestamp": 1780668000000,
             "duration": 120
         },
         {
@@ -506,73 +305,6 @@
             ],
             "slug": "international-friendly-matches-football-hungary-finland-2026-06-05-20-45",
             "startTimestamp": 1780681500000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [International Friendly Matches] Georgia vs Bahrain [1TV GE]",
-            "matchstr": "Georgia vs Bahrain",
-            "time": "19:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Georgia",
-            "team2": "Bahrain",
-            "channel": "1TV GE",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "1TV",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "GE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=67"
-                    ]
-                },
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=96"
-                    ],
-                    "number": 96,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=96"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-georgia-bahrain-2026-06-05-19-00",
-            "startTimestamp": 1780675200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [FIFA Women's World Cup Qualifying] Ukraine vs Iceland [MEGOGO Football 1 UA]",
-            "matchstr": "Ukraine vs Iceland",
-            "time": "19:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Ukraine",
-            "team2": "Iceland",
-            "channel": "MEGOGO Football 1 UA",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "MEGOGO Football 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "UA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=68"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-ukraine-iceland-2026-06-05-19-00",
-            "startTimestamp": 1780675200000,
             "duration": 120
         },
         {
@@ -640,34 +372,6 @@
             ],
             "slug": "fifa-women-s-world-cup-qualifying-football-kosovo-croatia-2026-06-05-20-00",
             "startTimestamp": 1780678800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [FIFA Women's World Cup Qualifying] Slovakia vs Finland [YLE TV2 FI]",
-            "matchstr": "Slovakia vs Finland",
-            "time": "17:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Slovakia",
-            "team2": "Finland",
-            "channel": "YLE TV2 FI",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "YLE TV2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-slovakia-finland-2026-06-05-17-00",
-            "startTimestamp": 1780668000000,
             "duration": 120
         },
         {
@@ -780,34 +484,6 @@
             ],
             "slug": "international-friendly-matches-football-slovakia-montenegro-2026-06-05-19-30",
             "startTimestamp": 1780677000000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [International Friendly Matches] Belarus vs Syria [DAZN DE]",
-            "matchstr": "Belarus vs Syria",
-            "time": "19:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Belarus",
-            "team2": "Syria",
-            "channel": "DAZN DE",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=99"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-belarus-syria-2026-06-05-19-00",
-            "startTimestamp": 1780675200000,
             "duration": 120
         },
         {
