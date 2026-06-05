@@ -1,57 +1,57 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/sports/main/powerv2/epg.xml"
-#EXTINF:-1 tvg-id="9692" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/fra.png" group-title="Football",Ivory Coast at France (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=umj8t34sIU5tdCNntas3_eIKl2c8--DxKjrf06pJg9c&e=1780625117
 #EXTINF:-1 tvg-id="9696" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/ind.png" group-title="Basketball",Atlanta Dream at Indiana Fever (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=3Tbw4-XEdj6YJksLaCK3AyfNAf5zUL2M58-7qDkrLjE&e=1780625117
+https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?st=-ztrJXDBIxBUFjJUYKlCcbxXk7AqcnFhJb0ZtFebw6U&e=1780638858
 #EXTINF:-1 tvg-id="9687" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-title="Baseball",Toronto Blue Jays at Atlanta Braves (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=S553LXRzwQn1e4Juyry4AcSDyURT8FNJt2tPE6zhFVQ&e=1780625117
+https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=zF3FV6eFQVoUlmjBhiiTEDEebjWAhhgXmLphB2fqoWA&e=1780638858
 #EXTINF:-1 tvg-id="9688" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" group-title="Baseball",Kansas City Royals at Minnesota Twins (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=uyukelglJJEvzSLhrMYjE63R8VI54nq3fEPwAj9-lxc&e=1780625117
+https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=uqoYk7D9EGyplv39RAOcWOzLAjEjHrq9f8DlS1NtULY&e=1780638858
 #EXTINF:-1 tvg-id="9695" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png" group-title="Hockey",Vegas Golden Knights at Carolina Hurricanes (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/uyopzarf50.m3u8?st=9bJThW6wVgX1YYofpvZfgOYFYznhqHU9jpLlHCgVq7E&e=1780625117
+https://edge2caster.pro/hls/uyopzarf50.m3u8?st=DRShVU-HixKzWoiHCPK-Qlc_n9NKzg_wZSoXCAAjKTk&e=1780638858
 #EXTINF:-1 tvg-id="9689" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="Baseball",Athletics Athletics at Chicago Cubs (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=lFKAcWiMmmHeVeHrFy1msiKsNziFifKRBOUQ6lBV4eM&e=1780625117
+https://edge2caster.pro/hls/ojzkajnach21.m3u8?st=w7n2ZSZor4LPaKzwr7qfPAPNqXMuZ5loyCYzn02i288&e=1780638858
 #EXTINF:-1 tvg-id="9690" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" group-title="Baseball",Pittsburgh Pirates at Houston Astros (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=BRVx6ndqPGvFwn5TvI40ANfTAsy7j3cD6QmrWKG33wA&e=1780625116
+https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=ofj84MesNLg2lfWh6bpqQIv5qWmxd61hB0KVNoXtrN0&e=1780638858
 #EXTINF:-1 tvg-id="9697" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/min.png" group-title="Basketball",Golden State Valkyries at Minnesota Lynx (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=drElM3BPy-ey6l8B3VeV93mFRk_Rf0QBNQzbgucq0VU&e=1780625116
+https://edge2caster.pro/hls/ztyarueaghj71.m3u8?st=tOjgQdRR1SnCOlt98F9cvsdmvJe8aw5fBM77ZXOsQ5Y&e=1780638857
 #EXTINF:-1 tvg-id="9691" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" group-title="Baseball",Los Angeles Dodgers at Arizona Diamondbacks (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=HR2QUoh7_BXzATDsxB7SFOgn8sxMkprLzXssySTUOZU&e=1780625116
+https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?st=wHqRsSlq_kEPiZ2E2mjn0KNvP2jBJpl50aGod7SL58Y&e=1780638857
+#EXTINF:-1 tvg-id="9703" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="… Other",Motogp HUNGARY (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestreams.pro/hls/oeenzgezcz47.m3u8?st=H-Tnkom3J_67VWbYp3fVQINcxokGlCqXwToSmIVgDjc&e=1780638857
 #EXTINF:-1 tvg-id="9698" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="… Other",Monaco Grand Prix (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=Sawdgp6b-ztd4au0hvUTW1G1VGI8EDDW2fJVltXCRG4&e=1780625116
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=47QU9CySkE4AaXn63U4Ypaq4mqcxpYnEmX76ZaRQ590&e=1780638857
 #EXTINF:-1 tvg-id="9699" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="… Other",Monaco Grand Prix  Practice 2 (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=fV80WIUtGqndqG8_nHFaQQRzfOL3MK62YgiHnI6SGQU&e=1780625115
+https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=KN4BQs8MiOOSyf1-5b0ZicNwceW5TZOR62eA449KM3E&e=1780638856
 #EXTINF:-1 tvg-id="9700" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="… Other",Monaco Grand Prix  Practice 3 (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=fV80WIUtGqndqG8_nHFaQQRzfOL3MK62YgiHnI6SGQU&e=1780625115
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=KN4BQs8MiOOSyf1-5b0ZicNwceW5TZOR62eA449KM3E&e=1780638856
 #EXTINF:-1 tvg-id="9701" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="… Other",Monaco Grand Prix Qualifying (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=fV80WIUtGqndqG8_nHFaQQRzfOL3MK62YgiHnI6SGQU&e=1780625115
+https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=KN4BQs8MiOOSyf1-5b0ZicNwceW5TZOR62eA449KM3E&e=1780638856
 #EXTINF:-1 tvg-id="9702" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="… Other",Monaco Grand Prix Race (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=fV80WIUtGqndqG8_nHFaQQRzfOL3MK62YgiHnI6SGQU&e=1780625115
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=KN4BQs8MiOOSyf1-5b0ZicNwceW5TZOR62eA449KM3E&e=1780638856
