@@ -74,11 +74,6 @@ https://mainstreams.pro/hls/ijfnakfidch22.m3u8
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/fskjanach24.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="Live.Event.us" tvg-name="[Boxing] Boxing : Mosqueda vs Aranda (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Boxing] Boxing : Mosqueda vs Aranda (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.59/hls/DDDD.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="Live.Event.us" tvg-name="[Fighting] PADLEY VS FIAZ (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Fighting] PADLEY VS FIAZ (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
@@ -104,6 +99,11 @@ https://chatgpt.hereisman.net/playlist/51586/load-playlist
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a91690a-c1f1-4220-b7d2-06b73236cc73/master.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="Live.Event.us" tvg-name="[Live Event] Athletics vs Houston Astros 1 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Athletics vs Houston Astros 1 (XYZSTRM)
+#EXTVLCOPT:http-referrer=https://xyzstreams.shop
+#EXTVLCOPT:http-origin=https://xyzstreams.shop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://streamxyz.shop/athletics/index.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="Live.Event.us" tvg-name="[Live Event] Athletics vs Houston Astros 2 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Athletics vs Houston Astros 2 (XYZSTRM)
 #EXTVLCOPT:http-referrer=https://xyzstreams.shop
 #EXTVLCOPT:http-origin=https://xyzstreams.shop
