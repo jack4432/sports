@@ -586,34 +586,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:20 [AFL] Australian Football: Carlton Blues vs Essendon Bombers [Fox Soccer Plus US]",
-            "matchstr": "Carlton Blues vs Essendon Bombers",
-            "time": "12:20",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Carlton Blues",
-            "team2": "Essendon Bombers",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-carlton-blues-essendon-bombers-2026-06-07-12-20",
-            "startTimestamp": 1780824000000,
-            "duration": 180
-        },
-        {
             "matchText": "21:00 [Canada Canadian Premier League] Inter Toronto vs Forge [Fox Soccer Plus US]",
             "matchstr": "Inter Toronto vs Forge",
             "time": "21:00",
