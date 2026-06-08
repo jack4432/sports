@@ -1,22 +1,128 @@
 {
+  "Football": [
+    {
+      "id": "9785",
+      "name": "Uzbekistan at Netherlands (English)",
+      "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=Mc8Gx_ve5aFDavkiNCliamjwHzYuochuFHRFn51Kldo&e=1780907219",
+      "start": "2026-06-08T19:45:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+    },
+    {
+      "id": "9786",
+      "name": "Northern Ireland at France (English)",
+      "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=5u-Mpr02e_Q4648LyRd-nugCWOJSZPALd9Kre2RQJH8&e=1780907219",
+      "start": "2026-06-08T20:10:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+    },
+    {
+      "id": "9787",
+      "name": "Spain at Peru (English)",
+      "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=rZ_tA4OKM5n3K_p_NVG9uXzqbWe1qMYV0Tw5zD3GYBg&e=1780907217",
+      "start": "2026-06-09T03:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/per.png"
+    }
+  ],
   "Basketball": [
     {
-      "id": "9776",
-      "name": "Portland Fire at Los Angeles Sparks (English)",
-      "url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=rF1BjpoKltU-ujEcUArAdfZEqMKBRFM6JM0A4g1gBlo&e=1780888677",
-      "start": "2026-06-08T00:00:00",
+      "id": "9789",
+      "name": "New York Liberty at Connecticut Sun (English)",
+      "url": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=xR3u7vpJdTgHjWH0yygVFgewiM_n6ya7mR-tu-dZdiY&e=1780907218",
+      "start": "2026-06-09T00:00:00",
       "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png"
+    },
+    {
+      "id": "9790",
+      "name": "Indiana Fever at Washington Mystics (English)",
+      "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=DrkfCijMehiUaadCacWT_zJ9djGiaR2MgfNa2ecqzho&e=1780907218",
+      "start": "2026-06-09T00:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png"
+    },
+    {
+      "id": "9788",
+      "name": "San Antonio Spurs at New York Knicks (English)",
+      "url": "https://edgestreams.pro/hls/mlkijfezag65.m3u8?st=YDaU0FM7864BgAxhbMkVLJ3DKP3O_27BGvWekWAsiO8&e=1780907218",
+      "start": "2026-06-09T01:30:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+    },
+    {
+      "id": "9791",
+      "name": "Seattle Storm at Las Vegas Aces (English)",
+      "url": "https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?st=FkZbdmtpCRXstq4Yoe55dt410m04bkwxMV9BHKC283k&e=1780907217",
+      "start": "2026-06-09T03:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"
     }
   ],
   "Baseball": [
     {
-      "id": "9770",
-      "name": "San Francisco Giants at Chicago Cubs (English)",
-      "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=5edC6_7JN0Leov0BdsPtM5UbECc2veFUmdcbUhYNM-E&e=1780888677",
-      "start": "2026-06-08T01:30:00",
+      "id": "9777",
+      "name": "Seattle Mariners at Baltimore Orioles (English)",
+      "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=4SwHVWE9XVRSLCO2Ay1H6MJWmVWS_T0vTbZetJf-AUk&e=1780907219",
+      "start": "2026-06-08T23:35:00",
       "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+    },
+    {
+      "id": "9778",
+      "name": "Boston Red Sox at Tampa Bay Rays (English)",
+      "url": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=REpATHkLxFBHLK9xcX45_yE8jt7PNgn3ZftjpIDzdbY&e=1780907218",
+      "start": "2026-06-08T23:40:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+    },
+    {
+      "id": "9779",
+      "name": "New York Yankees at Cleveland Guardians (English)",
+      "url": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?st=DdupXASyc2MWSpW_cq6xb-RNC9x-oQp_ibHOw-9l2so&e=1780907218",
+      "start": "2026-06-08T23:40:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
+    },
+    {
+      "id": "9780",
+      "name": "Philadelphia Phillies at Toronto Blue Jays (English)",
+      "url": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=12erhzblc43aXd2rdBqfMtONanKvN4L6vIPyN4m0_Io&e=1780907218",
+      "start": "2026-06-09T00:07:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+    },
+    {
+      "id": "9781",
+      "name": "Houston Astros at Los Angeles Angels (English)",
+      "url": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?st=tWgnlbPA2Oek_E4rYRcA9AiFUOOG1CT6FRHk76ahLbg&e=1780907218",
+      "start": "2026-06-09T02:38:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    {
+      "id": "9782",
+      "name": "Cincinnati Reds at San Diego Padres (English)",
+      "url": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=OLIQ7-WAEycMOu2O82-348ufSo_e32kyji6cOoVpPmw&e=1780907218",
+      "start": "2026-06-09T02:40:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+    },
+    {
+      "id": "9783",
+      "name": "Washington Nationals at San Francisco Giants (English)",
+      "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=BAQPrcGiVgm2jnbjtjHxdFWspqUsvJif2_LhOhBwJtM&e=1780907217",
+      "start": "2026-06-09T02:45:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+    },
+    {
+      "id": "9784",
+      "name": "Milwaukee Brewers at Athletics Athletics (English)",
+      "url": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=Zv1HgM3nBMsGeIiTErBvBICrlwIoHG525yYo4kzZVB4&e=1780907217",
+      "start": "2026-06-09T03:05:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
     }
   ]
 }
