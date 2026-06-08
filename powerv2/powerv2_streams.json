@@ -1,78 +1,8 @@
 [
   {
-    "id": "9773",
-    "name": "Italy at Greece (English)",
-    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=elVqZ_Ez8YJbbvprqFZMj_C_mazeeiE93_XpAIFTk4o&e=1780883994",
-    "categoryId": 9,
-    "start": "2026-06-07T20:00:00",
-    "original_name_upper": "ITALY AT GREECE",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
-  },
-  {
-    "id": "9774",
-    "name": "Norway at Morocco (English)",
-    "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=nGlPFsDkDBlCrt5F1pK9DGNlWIcq-1ySlrrGZgJQC8o&e=1780883994",
-    "categoryId": 9,
-    "start": "2026-06-07T20:00:00",
-    "original_name_upper": "NORWAY AT MOROCCO",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
-  },
-  {
-    "id": "9775",
-    "name": "Chicago Sky at Toronto Tempo (English)",
-    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=Vl-YMVVoexLjYndk_ALGppnMIbXKsu-8b_XPRl_C6r0&e=1780883995",
-    "categoryId": 4,
-    "start": "2026-06-07T20:00:00",
-    "original_name_upper": "CHICAGO SKY AT TORONTO TEMPO",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"
-  },
-  {
-    "id": "9766",
-    "name": "Milwaukee Brewers at Colorado Rockies (English)",
-    "url": "https://edgestreams.pro/hls/kjhfzua25.m3u8?st=Db3A4daV6GoM0u0mgA8pMLOS3C88oU-JcLpHNqnbi3g&e=1780883994",
-    "categoryId": 13,
-    "start": "2026-06-07T20:10:00",
-    "original_name_upper": "MILWAUKEE BREWERS AT COLORADO ROCKIES",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
-  },
-  {
-    "id": "9767",
-    "name": "Washington Nationals at Arizona Diamondbacks (English)",
-    "url": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?st=lv3G0zjuX3jp-5zFiAfwjjOK9NPgfq0RMK0jAUapODQ&e=1780883994",
-    "categoryId": 13,
-    "start": "2026-06-07T20:15:00",
-    "original_name_upper": "WASHINGTON NATIONALS AT ARIZONA DIAMONDBACKS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
-  },
-  {
-    "id": "9768",
-    "name": "Los Angeles Angels at Los Angeles Dodgers (English)",
-    "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=FTF_zzr9W6Kde6cMdRtOcteQircwL1vm5FZoDclN1zw&e=1780883993",
-    "categoryId": 13,
-    "start": "2026-06-07T21:10:00",
-    "original_name_upper": "LOS ANGELES ANGELS AT LOS ANGELES DODGERS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
-  },
-  {
-    "id": "9769",
-    "name": "New York Mets at San Diego Padres (English)",
-    "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=w66XnyP0pxFW0f0TURvQKNXGT3QZqKtw-7YbwtsXuTM&e=1780883993",
-    "categoryId": 13,
-    "start": "2026-06-07T21:10:00",
-    "original_name_upper": "NEW YORK METS AT SAN DIEGO PADRES",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
-  },
-  {
     "id": "9776",
     "name": "Portland Fire at Los Angeles Sparks (English)",
-    "url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=kg7GyE4F7Hf_cTEJQDQ6Je_jNUKYFUTPNWk9faOBZ94&e=1780883993",
+    "url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=rF1BjpoKltU-ujEcUArAdfZEqMKBRFM6JM0A4g1gBlo&e=1780888677",
     "categoryId": 4,
     "start": "2026-06-08T00:00:00",
     "original_name_upper": "PORTLAND FIRE AT LOS ANGELES SPARKS",
@@ -82,7 +12,7 @@
   {
     "id": "9770",
     "name": "San Francisco Giants at Chicago Cubs (English)",
-    "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=gN-Lu28zUqRjmKeGfd7yLzViPxN9ZoJceW5RL14c1z0&e=1780883993",
+    "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=5edC6_7JN0Leov0BdsPtM5UbECc2veFUmdcbUhYNM-E&e=1780888677",
     "categoryId": 13,
     "start": "2026-06-08T01:30:00",
     "original_name_upper": "SAN FRANCISCO GIANTS AT CHICAGO CUBS",
