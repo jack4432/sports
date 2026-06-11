@@ -2,36 +2,76 @@
     {
         "id": "9833",
         "name": "Czechia at South Korea (English)",
-        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=QvllTyt8fQvdpAdo0TH4MnKZBHbPQluPQ3D8BsmEsDA&e=1781184323"
+        "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=SznJfZR-1Gsj03R8hcwtDs7wkDbKZaSIXYRz9IkqTAA&e=1781199403"
     },
     {
         "id": "9833",
         "name": "Czechia at South Korea (Spanish)",
-        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=QC2zDf5D1WIcVueVk2tEly6Fyx5O8aLuhhgXtYW-fIQ&e=1781184322"
+        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=fBl4fbTRBFl52hkTNX9Ya_U1WWsoMoczOrbuQqIIyy4&e=1781199404"
     },
     {
         "id": "9833",
         "name": "Czechia at South Korea (English)",
-        "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=-rxKR49c5l28emhZmNOiOTslxs3828IrbcTHItNW7NU&e=1781184322"
+        "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=8a6d8Vz9C7OECjA9ZzGssLtfWtZOdb4wjpZQh8eYGJw&e=1781199403"
     },
     {
         "id": "9834",
         "name": "Vegas Golden Knights at Carolina Hurricanes (English)",
-        "url": "https://edgestreams.pro/hls/uyopzarf50.m3u8?st=mfCXgkkloAl94OKzrJSOOOi-3HlLAEEJgLrEJhLdJtY&e=1781184324"
+        "url": "https://edgestreams.pro/hls/uyopzarf50.m3u8?st=U-ZLJT85XZWEj_MXSdb-vDeQnFx6yK14VAZ7z2h2wKA&e=1781199404"
+    },
+    {
+        "id": "9844",
+        "name": "Atlanta Braves at Chicago White Sox (English)",
+        "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=SrTRoXUaPb9KNogyNfR1wAWKg7oVDQCtVTtfyHg6a5A&e=1781199404"
+    },
+    {
+        "id": "9841",
+        "name": "Seattle Mariners at Baltimore Orioles (English)",
+        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=ZtkZxyhtjpTkt708ExJC_zf1P2FAfGSSZ-FwydgMO7M&e=1781199405"
+    },
+    {
+        "id": "9840",
+        "name": "Los Angeles Dodgers at Pittsburgh Pirates (English)",
+        "url": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=ZrXyXSZ9qRgKSelYjd_RCKYnc_KSfAnHJ4som2P2g8k&e=1781199405"
+    },
+    {
+        "id": "9839",
+        "name": "Chicago Cubs at Colorado Rockies (English)",
+        "url": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?st=wvxq9ri7onrfaeruw37HBtv0yT3rbjOSK-bl2z0z5FM&e=1781199405"
     },
     {
         "id": "9832",
         "name": "South Africa at Mexico (English)",
-        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=ixkp9ucx1TrXVfWYgNlnF-nQg_OL40ZJPAE2vD2dmfA&e=1781184324"
+        "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=OuyJ3H8BGuc_5atFYKq3gdAdoC8Ofi8zT-QhfLmfaAE&e=1781199405"
     },
     {
         "id": "9832",
         "name": "South Africa at Mexico (Spanish)",
-        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=LduhIz1BgU0JPbXYgK5CgLhMu8ng50paCw2dnYeKTgc&e=1781184324"
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=J87h8AnsoVBpB3zx7fRNUauPA4l2ZpwlwsekutOmJIE&e=1781199406"
     },
     {
         "id": "9832",
         "name": "South Africa at Mexico (English)",
-        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=TIT1zegmiKRVFSbqWCLSS36PcYB8ZpNy103A_YrzL4o&e=1781184324"
+        "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=DXe-Puisi6-D0BJFr5nYgz1T4yXflOPl4gthIs9geWs&e=1781199406"
+    },
+    {
+        "id": "9838",
+        "name": "Texas Rangers at Kansas City Royals (English)",
+        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=_dtS1-dAXSbtu8voCvETYK9BV0LFPnrRrQyZNwkEQaU&e=1781199406"
+    },
+    {
+        "id": "9835",
+        "name": "Arizona Diamondbacks at Miami Marlins (English)",
+        "url": "https://edgestreams.pro/hls/dazhfiach15.m3u8?st=T9uemGzw2aC6a1bwZz5Ay_cBkYiWNF--HgRXgc8ioHA&e=1781199406"
+    },
+    {
+        "id": "9836",
+        "name": "Minnesota Twins at Detroit Tigers (English)",
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=HqzFaTGOh7bZqx1otDVgLcUQtwvSSK7Ip_WcE6c4N0c&e=1781199406"
+    },
+    {
+        "id": "9837",
+        "name": "St. Louis Cardinals at New York Mets (English)",
+        "url": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?st=SD5O41eo_JOt1oQ_vzH_ZJFUpLN8RIjZdKGQyRMG2hE&e=1781199407"
     }
 ]
