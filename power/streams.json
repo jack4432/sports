@@ -1,82 +1,187 @@
 [
     {
+        "id": "10073",
+        "name": "Algeria at Jordan (English)",
+        "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=NsPnLY5yttsgLMKvm6ey-4GUEMedAKdJn5YWdtmiGlo&e=1782112640"
+    },
+    {
+        "id": "10073",
+        "name": "Algeria at Jordan (Spanish)",
+        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=r-1roKt7Xd4UU0p-CvG8L_lwQ8l86g8C5Hv6O54dhGw&e=1782112640"
+    },
+    {
+        "id": "10073",
+        "name": "Algeria at Jordan (English)",
+        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=2jcIZGFi581ZWY5CDun9hwwcQBhmp2ls2YkJDjElw94&e=1782112640"
+    },
+    {
+        "id": "10073",
+        "name": "Algeria at Jordan (Arabic)",
+        "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=NrH9-r6IROe6FTDJVaO9VosDHEgOJaA6iadBQJjAriQ&e=1782112641"
+    },
+    {
+        "id": "10086",
+        "name": "Atlanta Braves at San Diego Padres (English)",
+        "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=sUJ4V1sDYNB01tKYozl83n9ppTNyU0GMYQjnakiLwcw&e=1782112641"
+    },
+    {
+        "id": "10090",
+        "name": "Dallas Wings at Seattle Storm (English)",
+        "url": "https://edge2caster.pro/hls/fdgsqdfawa73.m3u8?st=hiBsaYiuy0sROl5y_pl-rXDNWFYrrpujk6zVjq65nzM&e=1782112641"
+    },
+    {
+        "id": "10085",
+        "name": "Baltimore Orioles at Los Angeles Angels (English)",
+        "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=Ul3g9GMgMBDxgdXYVSHxils72iApB8R10tCA5EfTVZI&e=1782112642"
+    },
+    {
+        "id": "10084",
+        "name": "Boston Red Sox at Colorado Rockies (English)",
+        "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=_cwhVrSFTDHgnuxrFxc8nNFJnkcoId-9qMxiXxNCR30&e=1782112642"
+    },
+    {
+        "id": "10072",
+        "name": "Senegal at Norway (English)",
+        "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=NkWRL44etJSBN5syCPVEcnOCLvSPu3XWl8iaa-8-WHY&e=1782112642"
+    },
+    {
+        "id": "10072",
+        "name": "Senegal at Norway (Spanish)",
+        "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=Qe0mE0RgOaTIJJbUo8bZo0y7N9d63zyG8M2ZtK_TSeA&e=1782112643"
+    },
+    {
+        "id": "10072",
+        "name": "Senegal at Norway (English)",
+        "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=IeZ8OiSDcphKX_7UzpFbP6-kRW8QZQq43xHIdkUIXaM&e=1782112643"
+    },
+    {
+        "id": "10072",
+        "name": "Senegal at Norway (Arabic)",
+        "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=z7w0ibzNQlL7RKbmMnTSkj2cVfCGr0jl31oVGxuf_54&e=1782112643"
+    },
+    {
+        "id": "10089",
+        "name": "Phoenix Mercury at Indiana Fever (English)",
+        "url": "https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?st=_zdf0oppqlEnhzbm3qMydHxmI3cxLAewoEsLKk15mVE&e=1782112643"
+    },
+    {
+        "id": "10083",
+        "name": "Arizona Diamondbacks at St. Louis Cardinals (English)",
+        "url": "https://edge2caster.pro/hls/fskjanach24.m3u8?st=Dm15vu5__CUOvuErBzPKBLfbSnAMVMbsFm4FxA4FY5U&e=1782112643"
+    },
+    {
+        "id": "10081",
+        "name": "Cleveland Guardians at Chicago White Sox (English)",
+        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=VFVPfZE11X6PlawGBlW71ViBu4Ieb3B6yHwELSdVNjs&e=1782112643"
+    },
+    {
+        "id": "10082",
+        "name": "Los Angeles Dodgers at Minnesota Twins (English)",
+        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=WzfAQd4q1XfV009qCB1ByZ8BZVD0M65YT7HlOBsJuZc&e=1782112644"
+    },
+    {
+        "id": "10088",
+        "name": "Toronto Tempo at Atlanta Dream (English)",
+        "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=0syol9wjLtK9dN3X_hSxrhigl90N1ugEtY39prH14Wo&e=1782112644"
+    },
+    {
+        "id": "10079",
+        "name": "Chicago Cubs at New York Mets (English)",
+        "url": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=TismEGTODf2GkVJP26b1AnTqlN0b97ShyFZBANYsuQk&e=1782112644"
+    },
+    {
+        "id": "10080",
+        "name": "Milwaukee Brewers at Cincinnati Reds (English)",
+        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=xVF9EvA1l7jpk6iK3yC7ne-fK4NtpYGiyyuVWErYZ24&e=1782112644"
+    },
+    {
+        "id": "10078",
+        "name": "Houston Astros at Toronto Blue Jays (English)",
+        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=FXZyaSmInfmuSeKTQj-coCZHq8_PP0MsFepJVk2aOms&e=1782112644"
+    },
+    {
+        "id": "10087",
+        "name": "Chicago Sky at Connecticut Sun (English)",
+        "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=ctCU7GQ6ULM7PgkQitqXMmIAK71Qkg1FuknOyzLbj1Q&e=1782112644"
+    },
+    {
+        "id": "10077",
+        "name": "Philadelphia Phillies at Washington Nationals (English)",
+        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=grUtcCX5GAY3twXjMGh8KGufmd1A56CAChQY6I7OF4U&e=1782112645"
+    },
+    {
+        "id": "10075",
+        "name": "Kansas City Royals at Tampa Bay Rays (English)",
+        "url": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?st=TD-oTalJ-5oaEn0R7sK2GZUNh9UrhWHS3v3SbikS2pM&e=1782112645"
+    },
+    {
+        "id": "10076",
+        "name": "Texas Rangers at Miami Marlins (English)",
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=eBxC4ERYTAl8xfymOpON4MEisquCccFQTCdlN7Nct7Q&e=1782112645"
+    },
+    {
+        "id": "10074",
+        "name": "New York Yankees at Detroit Tigers (English)",
+        "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=5OcqUJq0a97Bu_bPn79zASm6PYuTOcjj6wuNPlR9FG8&e=1782112645"
+    },
+    {
+        "id": "10071",
+        "name": "Iraq at France (English)",
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=IxNp7MTeIjjWqYYxDgxEcTDIZ-PfpO1k6cFE4rxupxM&e=1782112645"
+    },
+    {
+        "id": "10071",
+        "name": "Iraq at France (Spanish)",
+        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=EZs7UFRNnyUXBPQDN1Klo_3uLL_cVhkUC0w3jiqjifo&e=1782112646"
+    },
+    {
+        "id": "10071",
+        "name": "Iraq at France (English)",
+        "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=7hdhOYzFJ4nm_wjroG8nYKjt1lSWvb6CLZ4Dy5Z-3hE&e=1782112646"
+    },
+    {
+        "id": "10071",
+        "name": "Iraq at France (Arabic)",
+        "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=frjHj3NKZTCWBTQzseH_3rKGEi9NpY0cxi20DHTplXE&e=1782112646"
+    },
+    {
+        "id": "10070",
+        "name": "Austria at Argentina (English)",
+        "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=W7y6FsmJB9iNRjPxGi0ty-TxU6sixQzZekvs34-oJ2Q&e=1782112646"
+    },
+    {
+        "id": "10070",
+        "name": "Austria at Argentina (Spanish)",
+        "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=hhiSjM-U5Mo1jI4takuopigPfwCrmTOLv_Xo8reAQPE&e=1782112647"
+    },
+    {
+        "id": "10070",
+        "name": "Austria at Argentina (English)",
+        "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=QAfKGj-3pUNI07vCRuYstwubiKpVQtMgPuDeTBTdCS0&e=1782112647"
+    },
+    {
+        "id": "10070",
+        "name": "Austria at Argentina (Arabic)",
+        "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=q-0_1wpnJ0l3rDlq4yJNeYit6KXHR_WyW-16FgFhqSI&e=1782112647"
+    },
+    {
         "id": "10066",
         "name": "Egypt at New Zealand (English)",
-        "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=uTjRq6Vxs8qEh5SpSy4vFd1niF0JIMz0gv5CrpRPOws&e=1782094401"
+        "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=J47uRm0Iosz5ZjG0j5qFMRwWcBXKGGrz7xOTfA1jUC8&e=1782112647"
     },
     {
         "id": "10066",
         "name": "Egypt at New Zealand (Spanish)",
-        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=ZDXXSWoHG68wq381tefd_adZIhcE34r2Ux5dtom2j4o&e=1782094401"
+        "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=hhiSjM-U5Mo1jI4takuopigPfwCrmTOLv_Xo8reAQPE&e=1782112647"
     },
     {
         "id": "10066",
         "name": "Egypt at New Zealand (English)",
-        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=-wznwiazTRNLOmM3DyiPIRYvuu4_XOs3X9COi1yc33U&e=1782094401"
+        "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=QAfKGj-3pUNI07vCRuYstwubiKpVQtMgPuDeTBTdCS0&e=1782112647"
     },
     {
         "id": "10066",
         "name": "Egypt at New Zealand (Arabic)",
-        "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=DkkKBCnd-jmlHiT_yRhsQAzLRA4qNYFiwxS7aSPZRrk&e=1782094402"
-    },
-    {
-        "id": "10069",
-        "name": "New York Liberty at Los Angeles Sparks (English)",
-        "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=M53AZ38a4aFDFvcl6fnJKpxfYpqjpQ5ZRa5N3nOr7Y8&e=1782094402"
-    },
-    {
-        "id": "10062",
-        "name": "New York Mets at Philadelphia Phillies (English)",
-        "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=3soeZmryOX4MYONHPWQog9M3lBEADCqjEu6QhcU49bY&e=1782094402"
-    },
-    {
-        "id": "10065",
-        "name": "Cape Verde at Uruguay (English)",
-        "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=euOMakdcWepM6rg8s4ETwFCBR0YMTnXj3d-zsE9X1iM&e=1782094402"
-    },
-    {
-        "id": "10065",
-        "name": "Cape Verde at Uruguay (Spanish)",
-        "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=uXKYRjBg0bvxhNOfxI_08-k__Bg84Rll3aWdKYtv5zo&e=1782094402"
-    },
-    {
-        "id": "10065",
-        "name": "Cape Verde at Uruguay (English)",
-        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=FDf_1hsDziFAgfPAoL-3lY63Pn0CArPnUKvZ8xxm-T4&e=1782094402"
-    },
-    {
-        "id": "10065",
-        "name": "Cape Verde at Uruguay (Arabic)",
-        "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=LJ3By1QF2dpcPXDxI5-C1LFIRpCbZFaElERfQKS5heM&e=1782094403"
-    },
-    {
-        "id": "10068",
-        "name": "Washington Mystics at Minnesota Lynx (English)",
-        "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=wcanwIg2wMB4aj5enWScjYG86n1kkk53YsoQUdIQXgE&e=1782094403"
-    },
-    {
-        "id": "10060",
-        "name": "Baltimore Orioles at Los Angeles Dodgers (English)",
-        "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=5-aZ685QOisNyhTVkTp6SoYiHaZ-CVC2lMoT5HneW7Y&e=1782094403"
-    },
-    {
-        "id": "10061",
-        "name": "Boston Red Sox at Seattle Mariners (English)",
-        "url": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?st=868PDsTykArnHNoGMhc9piT4wI85dkhIYCzF-Ofb35Q&e=1782094404"
-    },
-    {
-        "id": "10059",
-        "name": "Los Angeles Angels at Athletics Athletics (English)",
-        "url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=qsM5xr-75-C5i8kvY-QMtx56lnAzRZZPadWPQGtsdWE&e=1782094404"
-    },
-    {
-        "id": "10067",
-        "name": "Golden State Valkyries at Las Vegas Aces (English)",
-        "url": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=yp0yFBn98ycho_IyfT8zz1dP2qLeCvZ0Vs8zpZyNSec&e=1782094404"
-    },
-    {
-        "id": "10058",
-        "name": "Minnesota Twins at Arizona Diamondbacks (English)",
-        "url": "https://edgestreams.pro/hls/kjhfzua25.m3u8?st=_6_B7iCR_UPo_WoC_GmlmLjFg-HKgBLn0W6TJhaXkoA&e=1782094404"
+        "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=6rcoWwQsQDppT9gVwSgwBKRCX7Uc4CE8lvjJvQrzBFY&e=1782112648"
     }
 ]
