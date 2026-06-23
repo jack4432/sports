@@ -1,48 +1,8 @@
 [
   {
-    "id": "10108",
-    "name": "Uzbekistan at Portugal (English)",
-    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=95gIvqzoH9b1uikh7tvGsfEWLN_uL2qNSK1sregxmZU&e=1782252671",
-    "categoryId": 9,
-    "start": "2026-06-23T18:00:00",
-    "original_name_upper": "UZBEKISTAN AT PORTUGAL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"
-  },
-  {
-    "id": "10108",
-    "name": "Uzbekistan at Portugal (Spanish)",
-    "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=BHrAQ-iM3nEtDi_iTkuytHAQO3MwMwVY0VMZ8DMSi_A&e=1782252671",
-    "categoryId": 9,
-    "start": "2026-06-23T18:00:00",
-    "original_name_upper": "UZBEKISTAN AT PORTUGAL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"
-  },
-  {
-    "id": "10108",
-    "name": "Uzbekistan at Portugal (English)",
-    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=k5kqCDwjeDrpzWg_BIma3ZzLTEhyAy-f4dmdBOoSTUA&e=1782252671",
-    "categoryId": 9,
-    "start": "2026-06-23T18:00:00",
-    "original_name_upper": "UZBEKISTAN AT PORTUGAL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"
-  },
-  {
-    "id": "10108",
-    "name": "Uzbekistan at Portugal (Arabic)",
-    "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=ipEeSj84xjuaU2AODuWgHhQTsOjXT_OIoDpmFTO1T8Q&e=1782252672",
-    "categoryId": 9,
-    "start": "2026-06-23T18:00:00",
-    "original_name_upper": "UZBEKISTAN AT PORTUGAL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"
-  },
-  {
     "id": "10109",
     "name": "Ghana at England (English)",
-    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=jeqz9KnDE0hEjPbb_HCUTyyqHkh_D2FqNpl5oRkLr-8&e=1782252670",
+    "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=fCrOOPUfvOdNE6Jjmmg5rTPBNkpOGsEmtPZmnKsHbqE&e=1782260894",
     "categoryId": 9,
     "start": "2026-06-23T21:00:00",
     "original_name_upper": "GHANA AT ENGLAND",
@@ -52,7 +12,7 @@
   {
     "id": "10109",
     "name": "Ghana at England (Spanish)",
-    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=suFm6TZ6HWW3TTrMbe4hvn7p2hJ-Kn6KhqlWa1h05SQ&e=1782252670",
+    "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=zC8rnvr_n9-Qvl0ZFfTZE5OBVsgE-cVHCbFDgSpaADM&e=1782260894",
     "categoryId": 9,
     "start": "2026-06-23T21:00:00",
     "original_name_upper": "GHANA AT ENGLAND",
@@ -62,7 +22,7 @@
   {
     "id": "10109",
     "name": "Ghana at England (English)",
-    "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=k5kqCDwjeDrpzWg_BIma3ZzLTEhyAy-f4dmdBOoSTUA&e=1782252671",
+    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=qznjAU039K7k1U9REqSwQlENm6l7Ly64GjfuA22h0aE&e=1782260894",
     "categoryId": 9,
     "start": "2026-06-23T21:00:00",
     "original_name_upper": "GHANA AT ENGLAND",
@@ -72,7 +32,7 @@
   {
     "id": "10109",
     "name": "Ghana at England (Arabic)",
-    "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=uYz9YlYp0Ydl8j2eQ1fYiF-yf8zrtf_otfaQPk1-8BM&e=1782252671",
+    "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=f1DrYc8q7hNMqSqck0ZSumP4C2lF0T4u0iLXAAvI3DM&e=1782260894",
     "categoryId": 9,
     "start": "2026-06-23T21:00:00",
     "original_name_upper": "GHANA AT ENGLAND",
@@ -82,7 +42,7 @@
   {
     "id": "10092",
     "name": "Houston Astros at Toronto Blue Jays (English)",
-    "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=VL-ab1NTbhIEXA-p-SO3VN--SyJcqpyPMZmtkSZv9Us&e=1782252670",
+    "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=ECqUtPEmCKzwGce8wFOTl4_LrPnBEA2Ju7oLrEgBUO8&e=1782260894",
     "categoryId": 13,
     "start": "2026-06-23T21:07:00",
     "original_name_upper": "HOUSTON ASTROS AT TORONTO BLUE JAYS",
@@ -92,7 +52,7 @@
   {
     "id": "10093",
     "name": "Kansas City Royals at Tampa Bay Rays (English)",
-    "url": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=ZvPrflvivOJX_Bl8MpIu07xdPRMkXP_3dKj5sjxOkNA&e=1782252670",
+    "url": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=E2KUZhIIJ7_AChIBlD_-Zor-mNbv6eOK87gVHCflYGM&e=1782260893",
     "categoryId": 13,
     "start": "2026-06-23T23:40:00",
     "original_name_upper": "KANSAS CITY ROYALS AT TAMPA BAY RAYS",
@@ -102,7 +62,7 @@
   {
     "id": "10094",
     "name": "New York Yankees at Detroit Tigers (English)",
-    "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=rRvy28uKw9g6GlfZZWhxwteeRSDniHGPTyp7fIAJJao&e=1782252670",
+    "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=-Qz4slcVwEjs9pQrb8XHpgJO10-kiZLPAM5OWzyrGWk&e=1782260893",
     "categoryId": 13,
     "start": "2026-06-23T23:40:00",
     "original_name_upper": "NEW YORK YANKEES AT DETROIT TIGERS",
@@ -112,7 +72,7 @@
   {
     "id": "10095",
     "name": "Seattle Mariners at Pittsburgh Pirates (English)",
-    "url": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=7wOsm0aOmgq7sGq3e9a6K5HmRLbUt7d3OJX5y_-RbiY&e=1782252670",
+    "url": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=1ctLvpp9E09RKBm-UVZC7roo2Gp4cHqY-Da0jv6xVJk&e=1782260893",
     "categoryId": 13,
     "start": "2026-06-23T23:40:00",
     "original_name_upper": "SEATTLE MARINERS AT PITTSBURGH PIRATES",
@@ -122,7 +82,7 @@
   {
     "id": "10096",
     "name": "Texas Rangers at Miami Marlins (English)",
-    "url": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=bAONe0crL04ZheaJJJKdJjk3W1zbVNQmw8_HGh_Qa3E&e=1782252670",
+    "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=4nC15cDafEaRIUUzewBbitzT5So1ue45aDu319xCopA&e=1782260893",
     "categoryId": 13,
     "start": "2026-06-23T23:40:00",
     "original_name_upper": "TEXAS RANGERS AT MIAMI MARLINS",
@@ -132,7 +92,7 @@
   {
     "id": "10097",
     "name": "Philadelphia Phillies at Washington Nationals (English)",
-    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=AUJH8mc3BR4l-53JUnxiPYPBR_9zNNrNIlaNPLVrzUQ&e=1782252669",
+    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=FlM8DzbJEMY3jn3knAqIeXYgew-Msm93I8vUg_05D00&e=1782260893",
     "categoryId": 13,
     "start": "2026-06-23T23:45:00",
     "original_name_upper": "PHILADELPHIA PHILLIES AT WASHINGTON NATIONALS",
@@ -142,7 +102,7 @@
   {
     "id": "10110",
     "name": "Croatia at Panama (English)",
-    "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=STL1SEU7TJiQAYnSLsB5Ntco77zpHxIR5HuNrhDtulA&e=1782252669",
+    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=LJa2NwztTRAeSFJC88wBJchvwwqTIwYDc6_goyXFiEQ&e=1782260893",
     "categoryId": 9,
     "start": "2026-06-24T00:00:00",
     "original_name_upper": "CROATIA AT PANAMA",
@@ -152,7 +112,7 @@
   {
     "id": "10110",
     "name": "Croatia at Panama (Spanish)",
-    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=B6obpHv1p4uECedbICnJI7jWi3vzbDuWFB4_-Ye5ank&e=1782252669",
+    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=W5nhN4c-UF9rXkbX1H4OOCXUwub9j80AvNrMMHaIkG8&e=1782260893",
     "categoryId": 9,
     "start": "2026-06-24T00:00:00",
     "original_name_upper": "CROATIA AT PANAMA",
@@ -162,7 +122,7 @@
   {
     "id": "10110",
     "name": "Croatia at Panama (English)",
-    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=90Rh0_ALQuyxWfAht1JYgouw27b-9ZnZREpkmDDb9sg&e=1782252669",
+    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=y5DoDClSC33R-jXWldBgD_pF_qdB2gSNPb9IoL0agBw&e=1782260893",
     "categoryId": 9,
     "start": "2026-06-24T00:00:00",
     "original_name_upper": "CROATIA AT PANAMA",
@@ -172,7 +132,7 @@
   {
     "id": "10110",
     "name": "Croatia at Panama (Arabic)",
-    "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=RmsmgudW-jj0IFqgXsHskEXkdCZfV9Sn2QBq22-8lI0&e=1782252669",
+    "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=oAJceWM0gH_9csXr0fk7exl1Htb6STqAKC4fx1T4rac&e=1782260893",
     "categoryId": 9,
     "start": "2026-06-24T00:00:00",
     "original_name_upper": "CROATIA AT PANAMA",
@@ -182,7 +142,7 @@
   {
     "id": "10098",
     "name": "Chicago Cubs at New York Mets (English)",
-    "url": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?st=QjDnXy9QkTwACqurREYci7Q5jtij34g7RWZPSS5zWxo&e=1782252669",
+    "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=QZmHMXnak_6067ef1IdQfBl8Kem5nLNX2ZH-pNI1JHk&e=1782260893",
     "categoryId": 13,
     "start": "2026-06-24T00:10:00",
     "original_name_upper": "CHICAGO CUBS AT NEW YORK METS",
@@ -192,7 +152,7 @@
   {
     "id": "10099",
     "name": "Milwaukee Brewers at Cincinnati Reds (English)",
-    "url": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=M4aRBkQOi2n3lHxEwq-ZEkwdeRXL6A4Wm3Sh45-ZYdg&e=1782252669",
+    "url": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=3vI-qOaszvE_bdUgC_4plu97wfvlb_BbTsfhUvCexTk&e=1782260893",
     "categoryId": 13,
     "start": "2026-06-24T00:10:00",
     "original_name_upper": "MILWAUKEE BREWERS AT CINCINNATI REDS",
@@ -202,7 +162,7 @@
   {
     "id": "10100",
     "name": "Cleveland Guardians at Chicago White Sox (English)",
-    "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=4QiZWrd1Zb_isnsSKtw4vBGxNfHKxFdetf-uEP5xJ6o&e=1782252668",
+    "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?st=grzBdrWReaxumnt5k9whPF6HVfTpaxKgIDvqbn4x-20&e=1782260892",
     "categoryId": 13,
     "start": "2026-06-24T00:40:00",
     "original_name_upper": "CLEVELAND GUARDIANS AT CHICAGO WHITE SOX",
@@ -212,7 +172,7 @@
   {
     "id": "10101",
     "name": "Los Angeles Dodgers at Minnesota Twins (English)",
-    "url": "https://edgestreams.pro/hls/fskjanach24.m3u8?st=X7ppi3KvdElgSPyjPPIjGVdCV2YKGP0ezTWhYIGwa34&e=1782252669",
+    "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=9osPA224YXbeX4RkUxdy7LIrBPnDP8KF91Nrhg497rQ&e=1782260893",
     "categoryId": 13,
     "start": "2026-06-24T00:40:00",
     "original_name_upper": "LOS ANGELES DODGERS AT MINNESOTA TWINS",
@@ -222,7 +182,7 @@
   {
     "id": "10102",
     "name": "Arizona Diamondbacks at St. Louis Cardinals (English)",
-    "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=r-GdcYjoCyxbZr5g0wfM0StIY3XW8z5l7d0Qf4_LE14&e=1782252668",
+    "url": "https://edge2caster.pro/hls/kjhfzua25.m3u8?st=Gqv-dJRIr1RXwSWQiONoNbKr4N4RJ7I9PdKtNe-ZdZw&e=1782260892",
     "categoryId": 13,
     "start": "2026-06-24T00:45:00",
     "original_name_upper": "ARIZONA DIAMONDBACKS AT ST. LOUIS CARDINALS",
@@ -232,7 +192,7 @@
   {
     "id": "10112",
     "name": " NBA Draft (English)",
-    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=afP8OgZ7mEbBNYkjOS-zcquRNOSXUEWWwECd9WiEAYA&e=1782252668",
+    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=F1-ZErcMfWb3yM7LzB6PJ3pSc-QGtePtXmHieM-CZQQ&e=1782260892",
     "categoryId": 4,
     "start": "2026-06-24T01:00:00",
     "original_name_upper": " NBA DRAFT",
@@ -242,7 +202,7 @@
   {
     "id": "10103",
     "name": "Boston Red Sox at Colorado Rockies (English)",
-    "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=oC42mfMZBrmDWiQrlcIH3MINcwTZp1psOL4-QTPXV9I&e=1782252668",
+    "url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=jPFm8WUZofT_F1FtLiTH9ROv91i4AxcCfMUqIR6h474&e=1782260892",
     "categoryId": 13,
     "start": "2026-06-24T01:40:00",
     "original_name_upper": "BOSTON RED SOX AT COLORADO ROCKIES",
@@ -252,7 +212,7 @@
   {
     "id": "10104",
     "name": "Baltimore Orioles at Los Angeles Angels (English)",
-    "url": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=5n23CANcai7t76oNrVIKuCV7GK_cfZynf6QfnLkpm3k&e=1782252667",
+    "url": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=yPai_cKRgPUkfbmHM2kWonYkJnXHpl3skPy4a1j438A&e=1782260892",
     "categoryId": 13,
     "start": "2026-06-24T02:38:00",
     "original_name_upper": "BALTIMORE ORIOLES AT LOS ANGELES ANGELS",
@@ -262,7 +222,7 @@
   {
     "id": "10105",
     "name": "Atlanta Braves at San Diego Padres (English)",
-    "url": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?st=62D5YVNfXewRONaFBqbdqVslufgQAS75-qJkRN6yTLk&e=1782252667",
+    "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=7ypu8VGczFd8HfFbd5qyEsYQ7RMvJtm4U8J2ExM6LxM&e=1782260892",
     "categoryId": 13,
     "start": "2026-06-24T02:40:00",
     "original_name_upper": "ATLANTA BRAVES AT SAN DIEGO PADRES",
@@ -272,7 +232,7 @@
   {
     "id": "10106",
     "name": "Athletics Athletics at San Francisco Giants (English)",
-    "url": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=Fp5qHEsC580BDXcer1Jhor2eS5pVq2YsdU0mIq5RdP4&e=1782252667",
+    "url": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?st=xaWKNQLQ8xpsCCMkwsfVZl1Hc7LYROcMzBT8PRPrr0o&e=1782260892",
     "categoryId": 13,
     "start": "2026-06-24T02:45:00",
     "original_name_upper": "ATHLETICS ATHLETICS AT SAN FRANCISCO GIANTS",
@@ -282,7 +242,7 @@
   {
     "id": "10107",
     "name": "New York Liberty at Las Vegas Aces (English)",
-    "url": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=UuvDkXsivVRauipYkqlX2YlVnmRnF140gtHgYhOAKck&e=1782252666",
+    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=Ahk3rWKypA0QccdVxfCjUUiX7Y8utEGE0QOLTQPE_lw&e=1782260891",
     "categoryId": 4,
     "start": "2026-06-24T03:00:00",
     "original_name_upper": "NEW YORK LIBERTY AT LAS VEGAS ACES",
@@ -292,7 +252,7 @@
   {
     "id": "10111",
     "name": "Congo DR at Colombia (English)",
-    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=VEworZYobX0ofJDfpnLcIlB69N1OXOTO9rnI3osNfag&e=1782252666",
+    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=XyNrjo4rCLQkKzsbdACt_fBcZOUTOuSiuDpjCKTRpxE&e=1782260891",
     "categoryId": 9,
     "start": "2026-06-24T03:00:00",
     "original_name_upper": "CONGO DR AT COLOMBIA",
@@ -302,7 +262,7 @@
   {
     "id": "10111",
     "name": "Congo DR at Colombia (Spanish)",
-    "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=hJHwefxaOSJS_IYoWaORRG9yzVvv2c6MG3LnhqoC1cc&e=1782252666",
+    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=VT2bd8Q5dY2iM4kF6Kzr_7WqR30NaBaoubDm6Pdy0l8&e=1782260891",
     "categoryId": 9,
     "start": "2026-06-24T03:00:00",
     "original_name_upper": "CONGO DR AT COLOMBIA",
@@ -312,7 +272,7 @@
   {
     "id": "10111",
     "name": "Congo DR at Colombia (English)",
-    "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=NMawSZU1Irth8q9P-a59mfB-yKGSC3GlVKgWkNIHVEA&e=1782252666",
+    "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=K7dlfHZW0iOgFo7V4KBOioizTB9TdXYl4LBwcBM7oTM&e=1782260891",
     "categoryId": 9,
     "start": "2026-06-24T03:00:00",
     "original_name_upper": "CONGO DR AT COLOMBIA",
@@ -322,7 +282,7 @@
   {
     "id": "10111",
     "name": "Congo DR at Colombia (Arabic)",
-    "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=KZTytpj_FZPkPieyRJQWb8tTUFMdNGHcl84NPgRv9fc&e=1782252667",
+    "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=e6f7qVV1URT9wq-MlPQGzrfoMtQOu9NX07ttSc14XYw&e=1782260892",
     "categoryId": 9,
     "start": "2026-06-24T03:00:00",
     "original_name_upper": "CONGO DR AT COLOMBIA",
