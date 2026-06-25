@@ -1,105 +1,97 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/sports/main/powerv2/epg.xml"
-#EXTINF:-1 tvg-id="10140" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png" group-title="Baseball",Kansas City Royals at Tampa Bay Rays (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/dazhfiach15.m3u8?st=wHESb7DCqmbelnY--NbMOZv2uIYn9KtRYrCwxkT7qR8&e=1782427893
-#EXTINF:-1 tvg-id="10141" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" group-title="Baseball",Seattle Mariners at Pittsburgh Pirates (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=BUYkHNgKqPG5F2csHyKrmCihJgThy2WhNrv0mGfVDQo&e=1782427893
 #EXTINF:-1 tvg-id="10142" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" group-title="Baseball",Athletics Athletics at San Francisco Giants (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=6PGaKl_bebeOeWIjs2l7lJcum5dJgyBd_ui16OQ35f8&e=1782427893
+https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?st=b8eBQObE9tEqm0CMf6AoTkHtXZi8bVJSfJllf8bbMUc&e=1782433653
 #EXTINF:-1 tvg-id="10149" tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/11678.png" group-title="Football",Ivory Coast at Curaçao (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=Z4o16wcDNI7X-024jukEyIV9utSlWbBnEauiDk2_AnQ&e=1782427892
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=K7Uy-HN9EL6W8rHLlC-ks_XZoC09Fk3vgFROh7r3Zrk&e=1782433652
 #EXTINF:-1 tvg-id="10149" tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/11678.png" group-title="Football",Ivory Coast at Curaçao (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=K_6-1ft72FMFyeOBw2GDbXUxyr-iweocThrttLob8Rc&e=1782427892
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=-gJCocUZj5-nIxMY8pYo0j3A1xONM96rXweEVsxmvYA&e=1782433652
 #EXTINF:-1 tvg-id="10150" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ecu.png" group-title="Football",Germany at Ecuador (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=TbdGoANKeUm2hWHkDRBaQTSUDtcYO00OnlSAisqL29k&e=1782427893
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=KgyS2275j_1qQZVzKrvFc_wk766ocKHOgg-2bvzTxXw&e=1782433653
 #EXTINF:-1 tvg-id="10150" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ecu.png" group-title="Football",Germany at Ecuador (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=f6kmIbYWEpp0DhRF7I1831wCOtbACNx5p3FPneeV5Hw&e=1782427893
+https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=cB0cdmIQLoRMNn3MYfZvQFjDfXBVmbkDlB9tpn8MPrc&e=1782433653
 #EXTINF:-1 tvg-id="10150" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ecu.png" group-title="Football",Germany at Ecuador (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/griogoehvn2.m3u8?st=ICT6UCYO8252zniF4EBpImuYQljDt0Mp92AF5qfAY9k&e=1782427893
+https://mainstreams.pro/hls/griogoehvn2.m3u8?st=mHTUsZzwAw6XKE_o2xlovpiznr5rP1rJYCE_flhko6I&e=1782433653
 #EXTINF:-1 tvg-id="10143" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" group-title="Baseball",Houston Astros at Detroit Tigers (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=O-q1yG5UP7xt5P3ujAkRv2oGIXk2Haqwr2lIuXvcutQ&e=1782427892
+https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=UFc-LX8ylMnqpLW-I-_yI6teqZ6Tjhw2AfxjqnZcSDk&e=1782433652
 #EXTINF:-1 tvg-id="10144" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" group-title="Baseball",Philadelphia Phillies at Washington Nationals (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=M8lOcVvr57f-jQ3cbcEL5KRxBLRD1XvUNhdtEmWvi-Y&e=1782427892
-#EXTINF:-1 tvg-id="10151" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/jpn.png" group-title="Football",Sweden at Japan (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=Z4o16wcDNI7X-024jukEyIV9utSlWbBnEauiDk2_AnQ&e=1782427892
-#EXTINF:-1 tvg-id="10151" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/jpn.png" group-title="Football",Sweden at Japan (Arabic)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=K_6-1ft72FMFyeOBw2GDbXUxyr-iweocThrttLob8Rc&e=1782427892
-#EXTINF:-1 tvg-id="10152" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/tun.png" group-title="Football",Netherlands at Tunisia (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=oooYSJw_yqbRyKLMAp9M7Y7-z6MGUzKAq3GWMKkeyGI&e=1782427892
-#EXTINF:-1 tvg-id="10152" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/tun.png" group-title="Football",Netherlands at Tunisia (Arabic)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=aFq7N0u0C5d1zghds6n53lbRkoxf9EVBtT1pZTAHnZc&e=1782427892
+https://edge2caster.pro/hls/bzagLHzach19.m3u8?st=7ONmtcvKKRZ9l4yslyeg-2txU4-AoaBbZmSu1MYGFZk&e=1782433652
 #EXTINF:-1 tvg-id="10155" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png" group-title="Basketball",Los Angeles Sparks at Toronto Tempo (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=TP_-S8YQzNmOgNrIBRX0MUg7JLp6U93R8k7vtic55E4&e=1782427892
+https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?st=3LaYx4J7kj-iu7qUFQjDja4pCAW2h0rsH4xkZIhSEXQ&e=1782433651
+#EXTINF:-1 tvg-id="10151" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/jpn.png" group-title="Football",Sweden at Japan (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=K7Uy-HN9EL6W8rHLlC-ks_XZoC09Fk3vgFROh7r3Zrk&e=1782433652
+#EXTINF:-1 tvg-id="10151" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/jpn.png" group-title="Football",Sweden at Japan (Arabic)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=-gJCocUZj5-nIxMY8pYo0j3A1xONM96rXweEVsxmvYA&e=1782433652
+#EXTINF:-1 tvg-id="10152" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/tun.png" group-title="Football",Netherlands at Tunisia (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=x1qv7aujH0WrUV54VbsRU7o6jLCffdTRfvqMK66HHuQ&e=1782433652
+#EXTINF:-1 tvg-id="10152" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/tun.png" group-title="Football",Netherlands at Tunisia (Arabic)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=lIfOQXgNbpHo4GIg0zaMdDG3mhjGEBOLeieuPskoaws&e=1782433652
 #EXTINF:-1 tvg-id="10145" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png" group-title="Baseball",Texas Rangers at Toronto Blue Jays (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=QkVVRSR8va126duqbDBf5hXdg2TiR4B4eOCNSsLIhnc&e=1782427892
+https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=FdpJ0RejszobFef-FitdQuTjxxWF547YSfTwXeF5MlY&e=1782433651
 #EXTINF:-1 tvg-id="10146" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png" group-title="Baseball",Chicago Cubs at New York Mets (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=F8e9yOiibkw1-LNEGzxAGjz0GPtthwDSV4MVpnmql5M&e=1782427891
+https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=EdNMSc1J8hoePnD52wCPazzPuiFIAEhlIy_cjJMZrL8&e=1782433651
 #EXTINF:-1 tvg-id="10147" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" group-title="Baseball",New York Yankees at Boston Red Sox (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=NayZ80bZ202ki5n6tAdY4BTIcKjFDN3crq5CUkgIsLY&e=1782427891
+https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=nSyMU_mNKf_RKBTFiXra0WiHWjYuuQ1dWlE1ET12fxY&e=1782433651
 #EXTINF:-1 tvg-id="10148" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" group-title="Baseball",Arizona Diamondbacks at St. Louis Cardinals (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?st=MeRY3orRBHdZUvTGoI3W9WNe-uGFp32X30_VTAh93EA&e=1782427891
+https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?st=m2ZtkZ1Jd9lnp_AG5otXqN-XeY_GlQoRJpuL7RfdlZQ&e=1782433651
 #EXTINF:-1 tvg-id="10153" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/par.png" group-title="Football",Australia at Paraguay (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=N4c54LZSlI_LYbw3i2CRPK4H4-de8RDOYEanmZchizc&e=1782427890
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=0LjSoIheINBOooJeMMNC8EfpSADCa1b6qAeqZ2ihE4Q&e=1782433650
 #EXTINF:-1 tvg-id="10153" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/par.png" group-title="Football",Australia at Paraguay (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=HvRCg1YRXM3u4SJ9V6KxOGC7oAIWZwazSESV8Qj3mrY&e=1782427890
+https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=1krIzZnPYBTPtSE5WHfIyl20pqBQryirlM2g2yrq3Vw&e=1782433650
 #EXTINF:-1 tvg-id="10154" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/tur.png" group-title="Football",United States at Türkiye (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=JD8NBlmTf5MZRXK2mzrRoCz06D0pAeLNocNKD1XXjMc&e=1782427890
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=egZLm1dwWdQ_mzK68jNYG5REYNSj7a39n5mg-NK7TQQ&e=1782433650
 #EXTINF:-1 tvg-id="10154" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/tur.png" group-title="Football",United States at Türkiye (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=aREdzgi9EjEx4PEw6DYEMbjiO3k9glOjSx51RsKAV9I&e=1782427890
+https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=9NDAc__cSexq_P_eaWUi9kqzfkCHsuzjqG726MVO3_M&e=1782433650
 #EXTINF:-1 tvg-id="10154" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/tur.png" group-title="Football",United States at Türkiye (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/griogoehvn2.m3u8?st=ltDya4RhP6tkC7kw3m-q1a0T5ghS2FnfIhu44yC1AB4&e=1782427891
+https://mainstreams.pro/hls/griogoehvn2.m3u8?st=ToOsurtyASbPaU5H83kGQ9-v8maH_D08tkOSiUt7Gns&e=1782433651
 #EXTINF:-1 tvg-id="10156" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/lv.png" group-title="Basketball",Dallas Wings at Las Vegas Aces (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=CAlsGfG6y3OoueuuqfyIoxQOM7lZNr_lUyoIZlpiNQc&e=1782427891
+https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=g4RjKOKL4xCOm2roNYKGY-OVQK889w37RrBF9cRrIZY&e=1782433651
 #EXTINF:-1 tvg-id="10157" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png" group-title="Basketball",New York Liberty at Seattle Storm (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?st=JTN4Z5BPegriSOec1PBUnuFJZrDcg9XOOw0mhQrx2U8&e=1782427891
+https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=Y_v5dXyHkgx9NlVX79ytne2bn24dORe03nSASLE8Umw&e=1782433651
