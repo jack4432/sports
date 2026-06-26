@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
 #EXTINF:-1 tvg-id="fifa-world-cup-football-norway-france-2026-06-26-22-00" group-title="FIFA World Cup",Norway vs France (ITV 1)
 https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="fifa-world-cup-football-norway-france-2026-06-26-22-00" group-title="FIFA World Cup",Norway vs France (Fox)
+#EXTINF:-1 tvg-id="fifa-world-cup-football-norway-france-2026-06-26-22-00" group-title="FIFA World Cup",Norway vs France (Mediacorp)
 https://s2.kora.st/channel?id=9
 #EXTINF:-1 tvg-id="fifa-world-cup-football-norway-france-2026-06-26-22-00" group-title="FIFA World Cup",Norway vs France (MagentaTV)
 https://s2.kora.st/channel?id=11
