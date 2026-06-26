@@ -1,49 +1,9 @@
 {
   "Football": [
     {
-      "id": "10149",
-      "name": "Ivory Coast at Curaçao (English)",
-      "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=xVjDWwiLRRsL1WEXefVW_j-VavdC8WS9t4m1mzXb2C0&e=1782439968",
-      "start": "2026-06-25T21:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png"
-    },
-    {
-      "id": "10149",
-      "name": "Ivory Coast at Curaçao (Arabic)",
-      "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=P6m5tmthUZ054Qqd-L-Fsk09rzOQrXY11TGErJaQ8bw&e=1782439968",
-      "start": "2026-06-25T21:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png"
-    },
-    {
-      "id": "10150",
-      "name": "Germany at Ecuador (English)",
-      "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=M7-QpoSsPDnUlBLQQw_2PsD_iKz4vNnGNpYxtQXelPk&e=1782439968",
-      "start": "2026-06-25T21:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"
-    },
-    {
-      "id": "10150",
-      "name": "Germany at Ecuador (Arabic)",
-      "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=etF5KPABUD7pmxUW6RYbmGhBb-J5N3ZhBl4NMGSZ5fM&e=1782439968",
-      "start": "2026-06-25T21:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"
-    },
-    {
-      "id": "10150",
-      "name": "Germany at Ecuador (Spanish)",
-      "url": "https://edgestreams.pro/hls/griogoehvn2.m3u8?st=oKmujoVH94Stb2WsSZawlzdUbO1qLMzizKimDrABpIU&e=1782439968",
-      "start": "2026-06-25T21:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"
-    },
-    {
       "id": "10151",
       "name": "Sweden at Japan (English)",
-      "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=UhlBZKfc-vHEZyeXGHqDzYwZh47ZKOFObmpbBISFZ-c&e=1782439967",
+      "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=AP0V_WwIQZd_JPXF_4YXyoEKSzGa2wQOavxuvQvl2z0&e=1782453047",
       "start": "2026-06-26T00:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png"
@@ -51,7 +11,7 @@
     {
       "id": "10151",
       "name": "Sweden at Japan (Arabic)",
-      "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=gKltfckCJPKlOV34tKZGcAmJ9euO8cZ09K4IlisMIrc&e=1782439967",
+      "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=rZBqLLPoL-gGE3ubUQ6lk7Ai4wctK_bbEZTERjd3q1c&e=1782453047",
       "start": "2026-06-26T00:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png"
@@ -59,7 +19,7 @@
     {
       "id": "10152",
       "name": "Netherlands at Tunisia (English)",
-      "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=txqMPZ7f9YUJiAkTtNjumIo_D7677p8wgpbBjoHUS1s&e=1782439967",
+      "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=yvbTTGofXwRTPz0e5_Hph0TaP2BxJIE37GP8fXCz6rY&e=1782453047",
       "start": "2026-06-26T00:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png"
@@ -67,7 +27,7 @@
     {
       "id": "10152",
       "name": "Netherlands at Tunisia (Arabic)",
-      "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=Erz24Hp4irWx5OXRuKZCMJxBatOm_qXRTxL63ICWVcU&e=1782439967",
+      "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=zNI7tunXkl3xrCiw8TqBrnxQIz2JMBBBhZpCZzBJRo4&e=1782453047",
       "start": "2026-06-26T00:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png"
@@ -75,7 +35,7 @@
     {
       "id": "10153",
       "name": "Australia at Paraguay (English)",
-      "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=cPf4pLT4_I3tIV5KxJyCUoYMIgtoWifJutBYWHD1tZc&e=1782439965",
+      "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=50zkx9r_6HH4gfgStM9RjcpuhPAjR4lLBKgGj4PILmY&e=1782453046",
       "start": "2026-06-26T03:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png"
@@ -83,7 +43,7 @@
     {
       "id": "10153",
       "name": "Australia at Paraguay (Arabic)",
-      "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=3bq398RRJVa6pX4v576uX7eSPt-XTaKoxwCai3CtMk4&e=1782439965",
+      "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=yT_zIl0nbO5pbq83WyY2jomKir5tB-_B2lszklXMZSk&e=1782453046",
       "start": "2026-06-26T03:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png"
@@ -91,7 +51,7 @@
     {
       "id": "10154",
       "name": "United States at Türkiye (English)",
-      "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=UxjdJBp5fyZkCZ_CLE1iF_tCMA4LlfEKWkCSLasIFOs&e=1782439965",
+      "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=jDnH6370vUXL7TNSfW8fBMN70jwJzL7Rlgbfgg1Pc5E&e=1782453046",
       "start": "2026-06-26T03:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
@@ -99,7 +59,7 @@
     {
       "id": "10154",
       "name": "United States at Türkiye (Arabic)",
-      "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=D81IShfAMi5x_vQ5FBidKZcisefuOUZLfXEEj92cWI4&e=1782439965",
+      "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=7pkTmErMGeALG0pNrb4Mqlz3u28tRBdbbsZhS9uN55o&e=1782453046",
       "start": "2026-06-26T03:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
@@ -107,7 +67,7 @@
     {
       "id": "10154",
       "name": "United States at Türkiye (Spanish)",
-      "url": "https://edge2caster.pro/hls/griogoehvn2.m3u8?st=qwHtlmXXLVO1T-7HlxUKKGwQNuYBdL-gmw2TJAJkBdA&e=1782439966",
+      "url": "https://edgestreams.pro/hls/griogoehvn2.m3u8?st=0OmT6fEXiVVe3UR6bpTr4SkZXyGOHFP0lnWFmw1bHCc&e=1782453046",
       "start": "2026-06-26T03:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
@@ -117,7 +77,7 @@
     {
       "id": "10155",
       "name": "Los Angeles Sparks at Toronto Tempo (English)",
-      "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=PEVbRtsb6i4B9pwFHBtzC5Pla5kWd004J0vdNJYh7ME&e=1782439967",
+      "url": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=K9F7w2TYIV-FAO4W0AGMcAhnoxfoU_a8mObJvMZ6D8Q&e=1782453047",
       "start": "2026-06-26T00:00:00",
       "categoryId": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
@@ -125,7 +85,7 @@
     {
       "id": "10156",
       "name": "Dallas Wings at Las Vegas Aces (English)",
-      "url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=pVfTHVme_R3XqRSFvs5B3v0NWoYXb1jvv9wO-Ig1gXY&e=1782439966",
+      "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=wzV-7MVBOdoi2_OAm1flqR0tt0aAsST5NQRjAv0lujg&e=1782453046",
       "start": "2026-06-26T03:00:00",
       "categoryId": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"
@@ -133,7 +93,7 @@
     {
       "id": "10157",
       "name": "New York Liberty at Seattle Storm (English)",
-      "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=qhOV03Z2i6cgRx3tIDhd3Lm1VmqqRDhOwhzOfiOd0Do&e=1782439966",
+      "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=ZtNTo-zwIFs0NrlYICmqQ7Imk4ZL6_Glode1IPq-dP8&e=1782453046",
       "start": "2026-06-26T03:00:00",
       "categoryId": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"
@@ -141,33 +101,9 @@
   ],
   "Baseball": [
     {
-      "id": "10142",
-      "name": "Athletics Athletics at San Francisco Giants (English)",
-      "url": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?st=_7VRWZ3GXb_nn_4RMDWNvct40s4jTP-ceLcklm9cYIg&e=1782439968",
-      "start": "2026-06-25T20:45:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-    },
-    {
-      "id": "10143",
-      "name": "Houston Astros at Detroit Tigers (English)",
-      "url": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=4BVIUZHlPv7xJVmUMY8wGwXYqxI_B4MrIWd4SeKbcZ0&e=1782439968",
-      "start": "2026-06-25T23:40:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
-    },
-    {
-      "id": "10144",
-      "name": "Philadelphia Phillies at Washington Nationals (English)",
-      "url": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=ReCXmDCCRlt_SZ3gWRPaHZhcDwDN22Vw3ZdNyOav91o&e=1782439968",
-      "start": "2026-06-25T23:45:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
-    },
-    {
       "id": "10145",
       "name": "Texas Rangers at Toronto Blue Jays (English)",
-      "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=gf5BDspKWkjsVDAKrR-HzjAOuGXQMYlQ6DBR7_pEhbc&e=1782439967",
+      "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=9pjceVTjYpiqGvR4ahKjzv1ft7DKgP_F9yrgfR8zlNw&e=1782453047",
       "start": "2026-06-26T00:07:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
@@ -175,7 +111,7 @@
     {
       "id": "10146",
       "name": "Chicago Cubs at New York Mets (English)",
-      "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=bjPucFendMOX0T2e95A2yhQHT4lu3KjSt-n7liuJBtM&e=1782439967",
+      "url": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?st=m36FXvBNq83idbtJX0WmeVuUvRnRakmCsNGH4APSnwM&e=1782453047",
       "start": "2026-06-26T00:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
@@ -183,7 +119,7 @@
     {
       "id": "10147",
       "name": "New York Yankees at Boston Red Sox (English)",
-      "url": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=9DSDnRC8DEgtAmRPe1C27sCacQc843IPJq6Yfx4TPJA&e=1782439967",
+      "url": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=tOobvr14_UJkz40ii6bV4XKlxUUfEIycpPCHy6ERUZU&e=1782453047",
       "start": "2026-06-26T00:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
@@ -191,7 +127,7 @@
     {
       "id": "10148",
       "name": "Arizona Diamondbacks at St. Louis Cardinals (English)",
-      "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=1fnONbS7bPI-vbecirrLlrL-8Uzqlhd_6oi3Zgn2T0E&e=1782439966",
+      "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?st=SOkiq76VAYJqFV2KyiZp4PKqm78aRzzr0Pc1pGwBcKQ&e=1782453046",
       "start": "2026-06-26T00:45:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
