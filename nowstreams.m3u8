@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-italy-u20-scotland-u20-2026-06-27-12-00" group-title="World Rugby U-20 Championship",Italy U20 vs Scotland U20 (Premier Sports 1)
-https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-italy-u20-scotland-u20-2026-06-27-12-00" group-title="World Rugby U-20 Championship",Italy U20 vs Scotland U20 (Sport TV1)
-https://s2.kora.st/channel?id=21
-#EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-italy-u20-scotland-u20-2026-06-27-12-00" group-title="World Rugby U-20 Championship",Italy U20 vs Scotland U20 (Sky Sport 5)
-https://s2.kora.st/channel?id=35
 #EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-england-u20-ireland-u20-2026-06-27-14-30" group-title="World Rugby U-20 Championship",England U20 vs Ireland U20 (Premier Sports 1)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-england-u20-ireland-u20-2026-06-27-14-30" group-title="World Rugby U-20 Championship",England U20 vs Ireland U20 (CBS Sports Network)
@@ -35,12 +29,6 @@ https://s2.kora.st/channel?id=46
 https://s2.kora.st/channel?id=57
 #EXTINF:-1 tvg-id="motogp-motorsport-dutch-grand-prix-2026-06-27-09-40" group-title="MotoGP",Dutch Grand Prix (V Sport 1)
 https://s2.kora.st/channel?id=75
-#EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-argentina-u20-united-states-u20-2026-06-27-12-00" group-title="World Rugby U-20 Championship",Argentina U20 vs United States U20 (Premier Sports 2)
-https://s2.kora.st/channel?id=3
-#EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-argentina-u20-united-states-u20-2026-06-27-12-00" group-title="World Rugby U-20 Championship",Argentina U20 vs United States U20 (CBS Sports Network)
-https://s2.kora.st/channel?id=8
-#EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-argentina-u20-united-states-u20-2026-06-27-12-00" group-title="World Rugby U-20 Championship",Argentina U20 vs United States U20 (Sky Sport 9)
-https://s2.kora.st/channel?id=39
 #EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-new-zealand-u20-japan-u20-2026-06-27-14-30" group-title="World Rugby U-20 Championship",New Zealand U20 vs Japan U20 (Premier Sports 2)
 https://s2.kora.st/channel?id=3
 #EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-new-zealand-u20-japan-u20-2026-06-27-14-30" group-title="World Rugby U-20 Championship",New Zealand U20 vs Japan U20 (Sky Sport 5)
@@ -87,8 +75,6 @@ https://s2.kora.st/channel?id=13
 https://s2.kora.st/channel?id=30
 #EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-27-17-00" group-title="Formula 1",Austrian Grand Prix (Canal+ Sport)
 https://s2.kora.st/channel?id=54
-#EXTINF:-1 tvg-id="rugby-union-friendly-rugby-japan-xv-maori-all-blacks-2026-06-27-13-00" group-title="Rugby Union Friendly",Japan XV vs Maori All Blacks (Sky Sport 2)
-https://s2.kora.st/channel?id=32
 #EXTINF:-1 tvg-id="finland-veikkausliiga-football-ilves-sjk-2026-06-27-14-00" group-title="Finland Veikkausliiga",Ilves vs SJK (Ruutu+)
 https://s2.kora.st/channel?id=71
 #EXTINF:-1 tvg-id="finland-veikkausliiga-football-oulu-lahti-2026-06-27-19-00" group-title="Finland Veikkausliiga",Oulu vs Lahti (Ruutu+)
@@ -101,8 +87,6 @@ https://s2.kora.st/channel?id=73
 https://s2.kora.st/channel?id=74
 #EXTINF:-1 tvg-id="finland-veikkausliiga-football-tps-jaro-2026-06-27-19-00" group-title="Finland Veikkausliiga",TPS vs Jaro (Ruutu+)
 https://s2.kora.st/channel?id=75
-#EXTINF:-1 tvg-id="world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-27-13-00" group-title="World Rally Championship",WRC Acropolis Race Greece (MTV Max)
-https://s2.kora.st/channel?id=78
 #EXTINF:-1 tvg-id="world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-27-16-45" group-title="World Rally Championship",WRC Acropolis Race Greece (MTV Max)
 https://s2.kora.st/channel?id=78
 #EXTINF:-1 tvg-id="world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-27-21-00" group-title="World Rally Championship",WRC Acropolis Race Greece (MTV Max)
