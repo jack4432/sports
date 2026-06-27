@@ -579,45 +579,6 @@
             "duration": 180
         },
         {
-            "matchText": "11:00 [Formula 3] Motorsport: Spielberg [Sky Sports F1 GB]",
-            "matchstr": "Spielberg",
-            "time": "11:00",
-            "league": "Formula 3",
-            "sport": "Motorsport",
-            "team1": "Spielberg",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                }
-            ],
-            "slug": "formula-3-motorsport-spielberg-2026-06-27-11-00",
-            "startTimestamp": 1782547200000,
-            "duration": 120
-        },
-        {
             "matchText": "13:30 [Formula 1] Motorsport: Austrian Grand Prix [Sky Sports F1 GB]",
             "matchstr": "Austrian Grand Prix",
             "time": "13:30",
@@ -975,34 +936,6 @@
             "duration": 120
         },
         {
-            "matchText": "11:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "11:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-27-11-00",
-            "startTimestamp": 1782547200000,
-            "duration": 120
-        },
-        {
             "matchText": "13:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
             "matchstr": "WRC Acropolis Race Greece",
             "time": "13:00",
@@ -1113,34 +1046,6 @@
             "slug": "sweden-superettan-football-ljungskile-orebro-2026-06-27-16-00",
             "startTimestamp": 1782565200000,
             "duration": 120
-        },
-        {
-            "matchText": "09:00 [AFL] Australian Football: Richmond Tigers vs Collingwood Magpies [Fox Soccer Plus US]",
-            "matchstr": "Richmond Tigers vs Collingwood Magpies",
-            "time": "09:00",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Richmond Tigers",
-            "team2": "Collingwood Magpies",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-richmond-tigers-collingwood-magpies-2026-06-27-09-00",
-            "startTimestamp": 1782540000000,
-            "duration": 180
         },
         {
             "matchText": "12:30 [AFL] Australian Football: Port Adelaide vs Adelaide Crows [Fox Soccer Plus US]",
