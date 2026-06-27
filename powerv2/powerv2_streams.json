@@ -1,58 +1,8 @@
 [
   {
-    "id": "10161",
-    "name": "Iraq at Senegal (English)",
-    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=WyIPAS7kG9pMIcrU7nh1xaFiMXWxKhoTXaEddeqwYOc&e=1782522466",
-    "categoryId": 9,
-    "start": "2026-06-26T20:00:00",
-    "original_name_upper": "IRAQ AT SENEGAL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png"
-  },
-  {
-    "id": "10161",
-    "name": "Iraq at Senegal (Arabic)",
-    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=Dbh-0QOT3FPQwW7K7UH4InkLeFmL_BlM824eiTMDWeU&e=1782522467",
-    "categoryId": 9,
-    "start": "2026-06-26T20:00:00",
-    "original_name_upper": "IRAQ AT SENEGAL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png"
-  },
-  {
-    "id": "10162",
-    "name": "France at Norway (English)",
-    "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=0smY-N7iuP5amOg7yCnE-yCO0cLIarhOT8UzYGlhcGg&e=1782522467",
-    "categoryId": 9,
-    "start": "2026-06-26T20:00:00",
-    "original_name_upper": "FRANCE AT NORWAY",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
-  },
-  {
-    "id": "10162",
-    "name": "France at Norway (Arabic)",
-    "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=VfhjIEI0FXC8QmGCXMAqtF88xvcU4J4EIYRuSz4BSeU&e=1782522467",
-    "categoryId": 9,
-    "start": "2026-06-26T20:00:00",
-    "original_name_upper": "FRANCE AT NORWAY",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
-  },
-  {
-    "id": "10160",
-    "name": "Moto GP Netherlands (English)",
-    "url": "https://edge2caster.pro/hls/oeenzgezcz47.m3u8?st=YFHCgjWgXjSHhbG7b3YJTEOZ0UbnyE0TUyTPJKH7Eho&e=1782522466",
-    "categoryId": 15,
-    "start": "2026-06-26T21:45:00",
-    "original_name_upper": "MOTO GP NETHERLANDS",
-    "logoTeam1": "",
-    "logoTeam2": ""
-  },
-  {
     "id": "10167",
     "name": "Cincinnati Reds at Pittsburgh Pirates (English)",
-    "url": "https://edgestreams.pro/hls/dazhfiach15.m3u8?st=MN0ZjpvPzeguL1QK2EypKJG8mBmGJUO21A8UyjF2NYc&e=1782522466",
+    "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=XnAVSx7lcsgBcPaVFokiU3R_ypy5woSJxOQhsK22kSY&e=1782529271",
     "categoryId": 13,
     "start": "2026-06-26T23:40:00",
     "original_name_upper": "CINCINNATI REDS AT PITTSBURGH PIRATES",
@@ -62,7 +12,7 @@
   {
     "id": "10168",
     "name": "Houston Astros at Detroit Tigers (English)",
-    "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=UZuCEcjtrcNmQpfdH5R4EVdT6H9zHs9BeJI9nxlzngo&e=1782522466",
+    "url": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?st=A8rDoFP9SZjxI2L7TILvqr_Kna0olBb9wgxJ0nYsp-Y&e=1782529272",
     "categoryId": 13,
     "start": "2026-06-26T23:40:00",
     "original_name_upper": "HOUSTON ASTROS AT DETROIT TIGERS",
@@ -72,7 +22,7 @@
   {
     "id": "10169",
     "name": "Washington Nationals at Baltimore Orioles (English)",
-    "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=MAtZoF2IE3Mm7RI8OQO02OoVzWH1Qw0Hr6_azhTmml8&e=1782522466",
+    "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=zJDIH7iUQj0ksQTvVndy2mlfGinCHL2EJL8lqZlxT3Y&e=1782529271",
     "categoryId": 13,
     "start": "2026-06-27T00:05:00",
     "original_name_upper": "WASHINGTON NATIONALS AT BALTIMORE ORIOLES",
@@ -82,7 +32,7 @@
   {
     "id": "10170",
     "name": "Texas Rangers at Toronto Blue Jays (English)",
-    "url": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?st=Uw8ZonASmoLDBuWhPLzr_6DqfBto-5PLjV_fXLe4CWs&e=1782522466",
+    "url": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?st=ZwC9ixKerD_XvzbmKH32371VzGuplv7nfDV7UkL6EaY&e=1782529271",
     "categoryId": 13,
     "start": "2026-06-27T00:07:00",
     "original_name_upper": "TEXAS RANGERS AT TORONTO BLUE JAYS",
@@ -92,7 +42,7 @@
   {
     "id": "10171",
     "name": "Arizona Diamondbacks at Tampa Bay Rays (English)",
-    "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=ibHNrB6B1oGPJgP31ZpwB0-4D1ot7zKYl469-TGikig&e=1782522465",
+    "url": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?st=VngXsZnsLKsnHnalGelwXwzrQGaG_KuO_nYXQ1_BmEA&e=1782529270",
     "categoryId": 13,
     "start": "2026-06-27T00:10:00",
     "original_name_upper": "ARIZONA DIAMONDBACKS AT TAMPA BAY RAYS",
@@ -102,7 +52,7 @@
   {
     "id": "10172",
     "name": "New York Yankees at Boston Red Sox (English)",
-    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=-6UPgyB67fDF-eqSUH6B7ukx5CNFk-bj6DcrpgaCYyw&e=1782522465",
+    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=1C30emE5mhOeg1OyiTzmjJ7AjnhDneOqy9S5fwZ1ZqQ&e=1782529270",
     "categoryId": 13,
     "start": "2026-06-27T00:10:00",
     "original_name_upper": "NEW YORK YANKEES AT BOSTON RED SOX",
@@ -112,7 +62,7 @@
   {
     "id": "10173",
     "name": "Philadelphia Phillies at New York Mets (English)",
-    "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=HLRhitb3Y99drN8RBMrEZsPwTpZafLisvgAf_kFO_0c&e=1782522465",
+    "url": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=kdvwwDoa8tg7QHMK0ktle3JzUQqglqElDRQW0OAiftE&e=1782529271",
     "categoryId": 13,
     "start": "2026-06-27T00:10:00",
     "original_name_upper": "PHILADELPHIA PHILLIES AT NEW YORK METS",
@@ -122,7 +72,7 @@
   {
     "id": "10174",
     "name": "Seattle Mariners at Cleveland Guardians (English)",
-    "url": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=zkY2IXuTX_sKQ5XMxr66rhqhw0f7wupC63iuSc8HjL8&e=1782522465",
+    "url": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=yabNS_DJIY7XqpiCHE_bCGV3zsYLI3h2bPB6ckFpr7g&e=1782529271",
     "categoryId": 13,
     "start": "2026-06-27T00:10:00",
     "original_name_upper": "SEATTLE MARINERS AT CLEVELAND GUARDIANS",
@@ -132,7 +82,7 @@
   {
     "id": "10182",
     "name": "Washington Mystics at Connecticut Sun (English)",
-    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=OXgiHtVcQ5kBUvXVEjwOS14HWSpA9c0PFu4JOLH30LY&e=1782522465",
+    "url": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?st=coJ60P8mglrYMdXtezNddxgvADGXZTabtqKkPsNs4_U&e=1782529270",
     "categoryId": 4,
     "start": "2026-06-27T00:30:00",
     "original_name_upper": "WASHINGTON MYSTICS AT CONNECTICUT SUN",
@@ -142,7 +92,7 @@
   {
     "id": "10183",
     "name": "Portland Fire at Chicago Sky (English)",
-    "url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=yWlkccmMS0kY6ou4Z_yw8lkzZBVb0V4fR_Caht29Xa8&e=1782522465",
+    "url": "https://edge2caster.pro/hls/ztyarueaghj71.m3u8?st=HkoeNlnAytLIFcIoTs4oN3RhQFNttezf2_ETFKEzspQ&e=1782529270",
     "categoryId": 4,
     "start": "2026-06-27T00:30:00",
     "original_name_upper": "PORTLAND FIRE AT CHICAGO SKY",
@@ -152,7 +102,7 @@
   {
     "id": "10175",
     "name": "Kansas City Royals at Chicago White Sox (English)",
-    "url": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=mkzHS1wJBxrn8W3xbcc2vgKy-Z9Eh8NMMR10TB4zTAQ&e=1782522465",
+    "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?st=KNmEzrk0f3rrNtcheuv0LiRDPb_b94xxeZGRQoTKx2o&e=1782529270",
     "categoryId": 13,
     "start": "2026-06-27T00:40:00",
     "original_name_upper": "KANSAS CITY ROYALS AT CHICAGO WHITE SOX",
@@ -162,7 +112,7 @@
   {
     "id": "10176",
     "name": "Chicago Cubs at Milwaukee Brewers (English)",
-    "url": "https://edge2caster.pro/hls/fskjanach24.m3u8?st=NHKHsgRG5KOdTQsYJzRW1WSX1ficEWoBVRnF1F_8pv8&e=1782522465",
+    "url": "https://edge2caster.pro/hls/fskjanach24.m3u8?st=BPBvhBfqWSk1zp02HrqTw-xen6I_sSb-f4Sz3qP5-iM&e=1782529270",
     "categoryId": 13,
     "start": "2026-06-27T00:45:00",
     "original_name_upper": "CHICAGO CUBS AT MILWAUKEE BREWERS",
@@ -172,7 +122,7 @@
   {
     "id": "10163",
     "name": "Saudi Arabia at Cape Verde (English)",
-    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=2PVGkCXF8kobtm22lJBvRx3QYCka97CPi8ilwE2wnL8&e=1782522464",
+    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=TDaDnK0g4_S7zxesbg7cs4hpmqXkDdfq69m0V44DYRY&e=1782529269",
     "categoryId": 9,
     "start": "2026-06-27T01:00:00",
     "original_name_upper": "SAUDI ARABIA AT CAPE VERDE",
@@ -182,7 +132,7 @@
   {
     "id": "10163",
     "name": "Saudi Arabia at Cape Verde (Arabic)",
-    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=dyU8Roz89VxxZY5ZKhZDBibWyX828AJ8z7yytUVaSQ0&e=1782522464",
+    "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=lvTDpoPYXDXrfN7EAxLT4PF_l4H4uInepOSNs16Cc0Q&e=1782529269",
     "categoryId": 9,
     "start": "2026-06-27T01:00:00",
     "original_name_upper": "SAUDI ARABIA AT CAPE VERDE",
@@ -192,7 +142,7 @@
   {
     "id": "10164",
     "name": "Spain at Uruguay (English)",
-    "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=kKdHRKDsansKWjuX0bpjw2vC2UpNd31JusUpLPr1R0M&e=1782522464",
+    "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=P1otoiy0osEgdXSchXHcjAqKvXpIPwOR60D1qUtoXbM&e=1782529269",
     "categoryId": 9,
     "start": "2026-06-27T01:00:00",
     "original_name_upper": "SPAIN AT URUGUAY",
@@ -202,7 +152,7 @@
   {
     "id": "10164",
     "name": "Spain at Uruguay (Arabic)",
-    "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=hicm_iCn7yQ1P58IRsM1M3T9IixDi6s0TCfoKeeA48M&e=1782522464",
+    "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=0A_ZOw2K2kqKfNDZH2YWFq1JESuiiPVOGntXUKxe6SE&e=1782529269",
     "categoryId": 9,
     "start": "2026-06-27T01:00:00",
     "original_name_upper": "SPAIN AT URUGUAY",
@@ -212,7 +162,7 @@
   {
     "id": "10164",
     "name": "Spain at Uruguay (Spanish)",
-    "url": "https://mainstreams.pro/hls/griogoehvn2.m3u8?st=w9TFF8uWnH8DMELwxpa-X13y5N1Hx1rriZZt3T0D0zA&e=1782522464",
+    "url": "https://edge2caster.pro/hls/griogoehvn2.m3u8?st=RsgmvgbpCG1HtTG-etXZ-1IB1Ts4tkvjsPE-bQrt3UQ&e=1782529269",
     "categoryId": 9,
     "start": "2026-06-27T01:00:00",
     "original_name_upper": "SPAIN AT URUGUAY",
@@ -220,9 +170,19 @@
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
   },
   {
+    "id": "10188",
+    "name": " WWE: Friday Night Smackdown (English)",
+    "url": "https://edge2caster.pro/hls/zeuryuegn48.m3u8?st=OUFMVs_oJNwtXPih7liqepCS_5LmwPZaISzB2V9W0TE&e=1782529270",
+    "categoryId": 20,
+    "start": "2026-06-27T01:00:00",
+    "original_name_upper": " WWE: FRIDAY NIGHT SMACKDOWN",
+    "logoTeam1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnYyRP7TDxrNj8AITx76uewkjgNJpfk6LDQTDldn4OJQ&s=10",
+    "logoTeam2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnYyRP7TDxrNj8AITx76uewkjgNJpfk6LDQTDldn4OJQ&s=10"
+  },
+  {
     "id": "10177",
     "name": "Colorado Rockies at Minnesota Twins (English)",
-    "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=H5bjoCb1Kt1fi_K15UQwBj0puN8I1l8SjsRfWoi8k4c&e=1782522464",
+    "url": "https://edgestreams.pro/hls/kjhfzua25.m3u8?st=szc_EfDTcO01uqnKz89uEgRH6D0SkK8pS3XwMtPOT78&e=1782529269",
     "categoryId": 13,
     "start": "2026-06-27T01:10:00",
     "original_name_upper": "COLORADO ROCKIES AT MINNESOTA TWINS",
@@ -232,7 +192,7 @@
   {
     "id": "10178",
     "name": "Miami Marlins at St. Louis Cardinals (English)",
-    "url": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?st=0vuPDedA-ZiX4WzDmeevEjvWz6RgDqsl_L2KupgDaRM&e=1782522464",
+    "url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=dzdgsxV4QsZGF4Uyd8HGV3vpYIRSpGaB327vcCoEduY&e=1782529269",
     "categoryId": 13,
     "start": "2026-06-27T01:15:00",
     "original_name_upper": "MIAMI MARLINS AT ST. LOUIS CARDINALS",
@@ -242,7 +202,7 @@
   {
     "id": "10179",
     "name": "Athletics Athletics at Los Angeles Angels (English)",
-    "url": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?st=HDWr0YRSm18fVk_ZUgzqQr3BSLya_tTqagn7TqNcrIU&e=1782522464",
+    "url": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?st=pzVJ1ZbM1h2gexJOloGpMhni7ZaskubmCl3Xe_SHpkg&e=1782529269",
     "categoryId": 13,
     "start": "2026-06-27T02:38:00",
     "original_name_upper": "ATHLETICS ATHLETICS AT LOS ANGELES ANGELS",
@@ -252,7 +212,7 @@
   {
     "id": "10180",
     "name": "Los Angeles Dodgers at San Diego Padres (English)",
-    "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=GOXFRzhjWb3V2H67SCqg2REj01wP9PSbUHEghJUrFhE&e=1782522463",
+    "url": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?st=bJP_ej6DV50gN9UaWMy3YUSKdj6Xp9Pm3WoWdQc6PYY&e=1782529268",
     "categoryId": 13,
     "start": "2026-06-27T02:45:00",
     "original_name_upper": "LOS ANGELES DODGERS AT SAN DIEGO PADRES",
@@ -262,7 +222,7 @@
   {
     "id": "10184",
     "name": "Atlanta Dream at Golden State Valkyries (English)",
-    "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=FXJzTHCNQMZzbih_Bqnq22WoIl0qJ_iLz7xERJNpHjk&e=1782522463",
+    "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=5UOD5O2bYxOc1y-wdeKSgT-FE6UScCc9s2Cpl4qIwIw&e=1782529268",
     "categoryId": 4,
     "start": "2026-06-27T03:00:00",
     "original_name_upper": "ATLANTA DREAM AT GOLDEN STATE VALKYRIES",
@@ -272,7 +232,7 @@
   {
     "id": "10181",
     "name": "Atlanta Braves at San Francisco Giants (English)",
-    "url": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=D2KOOU8UwGMBhVTI21sXDaM7cLfV0A3TDGhf2kmiqCg&e=1782522463",
+    "url": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=vghJgEQsXBJXQVaTad76ygPq4-hZyUKpi4fLktYlEcI&e=1782529268",
     "categoryId": 13,
     "start": "2026-06-27T03:15:00",
     "original_name_upper": "ATLANTA BRAVES AT SAN FRANCISCO GIANTS",
@@ -282,7 +242,7 @@
   {
     "id": "10165",
     "name": "Iran at Egypt (English)",
-    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=E0F8FYJEZnqW0EqyklibRjTrbSmn2Ui1lBEhOKzbCPw&e=1782522462",
+    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=WrBIJPFzijq4n1hkOrIZByR4LkVzbaWl1QLSpMUpL2Q&e=1782529267",
     "categoryId": 9,
     "start": "2026-06-27T04:00:00",
     "original_name_upper": "IRAN AT EGYPT",
@@ -292,7 +252,7 @@
   {
     "id": "10165",
     "name": "Iran at Egypt (Arabic)",
-    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=sgvCif-tAHYLwkRuZ-0nHNmAA9tH4H4YirMLDH2U3Lo&e=1782522462",
+    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=mHKDKUTtR2f-uxBTBNgFqlBdwT-m_2pa5HYOe5nO0wg&e=1782529267",
     "categoryId": 9,
     "start": "2026-06-27T04:00:00",
     "original_name_upper": "IRAN AT EGYPT",
@@ -302,7 +262,7 @@
   {
     "id": "10166",
     "name": "Belgium at New Zealand (English)",
-    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=XIFVMt1NK1w5TZcTs8KWXrJkGFgYF3F8Ny8IQ9gdK2k&e=1782522462",
+    "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=5DiO-4Ye17o0oyg6L1dLzlwngK0BUFUAC8zHsh1I6iQ&e=1782529267",
     "categoryId": 9,
     "start": "2026-06-27T04:00:00",
     "original_name_upper": "BELGIUM AT NEW ZEALAND",
@@ -312,7 +272,7 @@
   {
     "id": "10166",
     "name": "Belgium at New Zealand (Arabic)",
-    "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=0_5aF6Yyn65rU2VHGVisn0eDoL7L0BNYUqlivYXHQZg&e=1782522463",
+    "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=4vHGqfpJWUQtuMllxd35ZbLIfVMdWYRD9OlcHXL-42c&e=1782529268",
     "categoryId": 9,
     "start": "2026-06-27T04:00:00",
     "original_name_upper": "BELGIUM AT NEW ZEALAND",
@@ -322,11 +282,11 @@
   {
     "id": "10186",
     "name": "Lenovo Austrian Grand Prix (English)",
-    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=Zbi6HIjJrCalphQLAP8KEhRBEFQ6yqwBU0rlkh5W--0&e=1782522462",
+    "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=XsEMW6EsTqU_b8Qdwe1Vkg5rgoH0H_7B4-Nt8MMsc2k&e=1782529267",
     "categoryId": 15,
     "start": "2026-06-27T11:30:00",
     "original_name_upper": "LENOVO AUSTRIAN GRAND PRIX",
-    "logoTeam1": "data:image/jpeg;base64,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",
-    "logoTeam2": "data:image/jpeg;base64,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"
+    "logoTeam1": "https://imgs.search.brave.com/CzBJTOYxIxG7c8imzTMwQ8U7USCorOP5xd59eHrvmdo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9mb3Jt/dWxhLWxvZ28tZm9y/bXVsYS1sb2dvLWYt/Y2FyLXZlY3Rvci1m/b3JtYXQtYXZpYWJs/ZS1haS0xMjcwMzUy/MzUuanBn",
+    "logoTeam2": "https://imgs.search.brave.com/CzBJTOYxIxG7c8imzTMwQ8U7USCorOP5xd59eHrvmdo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9mb3Jt/dWxhLWxvZ28tZm9y/bXVsYS1sb2dvLWYt/Y2FyLXZlY3Rvci1m/b3JtYXQtYXZpYWJs/ZS1haS0xMjcwMzUy/MzUuanBn"
   }
 ]
