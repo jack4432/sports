@@ -429,34 +429,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:10 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "12:10",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-28-12-10",
-            "startTimestamp": 1782637800000,
-            "duration": 120
-        },
-        {
             "matchText": "14:35 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
             "matchstr": "WRC Acropolis Race Greece",
             "time": "14:35",
@@ -483,34 +455,6 @@
             "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-28-14-35",
             "startTimestamp": 1782646500000,
             "duration": 120
-        },
-        {
-            "matchText": "10:00 [AFL] Australian Football: Fremantle Dockers vs Gold Coast Suns [Fox Sports 2 US]",
-            "matchstr": "Fremantle Dockers vs Gold Coast Suns",
-            "time": "10:00",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Fremantle Dockers",
-            "team2": "Gold Coast Suns",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-fremantle-dockers-gold-coast-suns-2026-06-28-10-00",
-            "startTimestamp": 1782630000000,
-            "duration": 180
         },
         {
             "matchText": "17:00 [Super League Rugby] Rugby: Wakefield Trinity vs Huddersfield [Fox Soccer Plus US]",
