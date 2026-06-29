@@ -1,25 +1,49 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/sports/main/power/epg.xml"
-#EXTINF:-1 tvg-id="10235" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",New York Yankees at Boston Red Sox (English)
+#EXTINF:-1 tvg-id="10240" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Morocco at Netherlands (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=T8t9JfDLw9kBTw1RcA5-ODmqoeaacpDbUy8XTv0F7iM&e=1782698525
-#EXTINF:-1 tvg-id="10220" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",New York Liberty at Golden State Valkyries (English)
+https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=XmQNx2fh9r0vao84k_jEiA5ASdvu5aH7ANt-KhcIceQ&e=1782716266
+#EXTINF:-1 tvg-id="10240" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Morocco at Netherlands (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/fdgsqdfawa73.m3u8?st=U8pjuZKfSvgC5L04KdQRC3pJHVCmLag5mcscoo6518g&e=1782698525
-#EXTINF:-1 tvg-id="10234" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Los Angeles Dodgers at San Diego Padres (English)
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=14atsMbW7EVlj6jlyoet6gRz_b2y6ioLrkpXQb05HWI&e=1782716266
+#EXTINF:-1 tvg-id="10240" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Morocco at Netherlands (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/hefbafbakx28.m3u8?st=bvdPH4eGudpnuxdMkoJEf6RgeZjI9sq1jo6zedxYemc&e=1782698525
-#EXTINF:-1 tvg-id="10233" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Atlanta Braves at San Francisco Giants (English)
+https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=rYdHSeaLB1SmMUn-Eu7WTfugZBlErJepLgD8II_xcB4&e=1782716266
+#EXTINF:-1 tvg-id="10240" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Morocco at Netherlands (French)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=lGw1Ahu6nEpTR3FoTkEe6OGh0azTY4pYJJdk-fWS2tQ&e=1782698526
-#EXTINF:-1 tvg-id="10219" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Las Vegas Aces at Chicago Sky (English)
+https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=wwk7bpEU8YQL1Nj1N1v0Xqu3XT131WMz5CW26LbrapQ&e=1782716267
+#EXTINF:-1 tvg-id="10239" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Paraguay at Germany (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?st=hIGx1fj_f8pk5GANwZ6GytoJwJcteCnN3Jp9JB2eMmE&e=1782698526
-#EXTINF:-1 tvg-id="10232" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Athletics Athletics at Los Angeles Angels (English)
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=KbASjUuxmdSuqOmGmkyhryVzMwe88ealO9XADsyPKio&e=1782716267
+#EXTINF:-1 tvg-id="10239" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Paraguay at Germany (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=xZrCf0XzLe1QfNrod2fuSwgBblHJpkRnuGoXoQOoivs&e=1782698526
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=fe1E8vN6iLKOYHZKHnfcleBGZQhgWJ_IqI1VPysy-wY&e=1782716267
+#EXTINF:-1 tvg-id="10239" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Paraguay at Germany (Spanish)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=KZmrfyMHu4dBt82H1tLcoG7xDtbQZfbQf6Hivwu59Q0&e=1782716268
+#EXTINF:-1 tvg-id="10239" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Paraguay at Germany (French)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=53nLSSB5msEzeT1YgHhI1zridOEMgnRAWPviQyksW3A&e=1782716268
+#EXTINF:-1 tvg-id="10238" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Japan at Brazil (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=20NxZISnwQ7CNVBEHgaLKcTyjTCjR6uTJdBfdXXjLwQ&e=1782716268
+#EXTINF:-1 tvg-id="10238" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Japan at Brazil (Arabic)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=XG0qrIpjo2FtybhOK0EW14IyyDy5KScFBrNAz6rlqv4&e=1782716268
+#EXTINF:-1 tvg-id="10238" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Japan at Brazil (Spanish)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=KZmrfyMHu4dBt82H1tLcoG7xDtbQZfbQf6Hivwu59Q0&e=1782716268
+#EXTINF:-1 tvg-id="10238" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Japan at Brazil (French)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=53nLSSB5msEzeT1YgHhI1zridOEMgnRAWPviQyksW3A&e=1782716268
