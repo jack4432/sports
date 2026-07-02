@@ -1,57 +1,41 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/sports/main/powerv2/epg.xml"
-#EXTINF:-1 tvg-id="10289" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bel.png" group-title="Football",Senegal at Belgium (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=dHUAuNiyXySAg_xMY82zfbED04RUcxHlSaotn8Aby1o&e=1782958119
-#EXTINF:-1 tvg-id="10289" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bel.png" group-title="Football",Senegal at Belgium (Arabic)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=fwOaKRV6snJ0kn4KSl8YwgXROirlls9s6LvilM_PXsw&e=1782958119
-#EXTINF:-1 tvg-id="10289" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bel.png" group-title="Football",Senegal at Belgium (Spanish)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=1Kt-zVhN2rHk-75UnsWTJNgelrglUBvMJf_JOZgmZ1I&e=1782958119
-#EXTINF:-1 tvg-id="10280" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png" group-title="Baseball",Pittsburgh Pirates at Philadelphia Phillies (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=yCCOyqSo4nPZrPciW_6wiDX_PbRT3NvCON3kD9e08B4&e=1782958119
 #EXTINF:-1 tvg-id="10281" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-title="Baseball",St. Louis Cardinals at Atlanta Braves (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=wxEz_2G4i73_HgaJDcszHtp9JOnWzJuZkUv9uAOI0UQ&e=1782958119
+https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=DPs-xHFImcJpGhSxQ7gV2S9yFknfnRZKZziFZ8iW-YI&e=1782971183
 #EXTINF:-1 tvg-id="10282" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" group-title="Baseball",Tampa Bay Rays at Kansas City Royals (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=yPKe2U5GIaH5HgH9AkiBNaEW52r7j50RA0AXRdApjgY&e=1782958119
+https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=YXXpwPXvHiJjZhG6Bfh66OuQdAhmBjrCge1oyUWRzLA&e=1782971183
 #EXTINF:-1 tvg-id="10283" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" group-title="Baseball",Cincinnati Reds at Milwaukee Brewers (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/fskjanach24.m3u8?st=qMLvypuVSrAORqxsRFH0KRsiQb-Jh_FryukUt1CyfzA&e=1782958118
+https://mainstreams.pro/hls/fskjanach24.m3u8?st=FGAwiXW0rLsZ6i3rPOc7xiKq92wyZZwBIIwcJLyuiXw&e=1782971182
 #EXTINF:-1 tvg-id="10290" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/usa.png" group-title="Football",Bosnia-Herzegovina at United States (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=5Rh5yJfx5pNf4fRoNil1G0Xu47Egp7ivvX1eDtMaesM&e=1782958118
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=BNqVkXXqDrzhsgouxV1XaHOrfZI5QRosr19AGhxng2I&e=1782971182
 #EXTINF:-1 tvg-id="10290" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/usa.png" group-title="Football",Bosnia-Herzegovina at United States (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=sYIcA3pnR_kSzpkuYvzAEldLCCA1p7GHqJIrh0Ytdss&e=1782958118
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=rYqVJLYPYV9FuEHUqncZuaphvxCAfeTq5_ZI7NQWe3w&e=1782971182
 #EXTINF:-1 tvg-id="10290" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/usa.png" group-title="Football",Bosnia-Herzegovina at United States (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=9x5CQWoEyHgIrT5ZXrq20jNZh4L2kyFPnbcN9U67ZgE&e=1782958118
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=eHVr4cxcY-uG3k4PBWBq04XiJcnuWO85BR7gwU66AGA&e=1782971182
 #EXTINF:-1 tvg-id="10284" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" group-title="Baseball",Minnesota Twins at Houston Astros (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/kjhfzua25.m3u8?st=RQU_hW7_F2r4W9UgxjlE2v2S1rsICvF5JTm1Tc7jfpY&e=1782958117
+https://mainstreams.pro/hls/kjhfzua25.m3u8?st=xJkTvxWbM7Rvij9eGpo-ICa5_1WCeA3RMDFrooC_YOk&e=1782971182
 #EXTINF:-1 tvg-id="10285" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="Baseball",Miami Marlins at Colorado Rockies (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=wnb_rPF9pBIguk50N8fRjrVHQ1_iK8nNh5uaz273ChI&e=1782958117
+https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=3J-I1L1It-NP28Bzf8ZnkNc6q64yfQttXgH2tkxYbBU&e=1782971182
 #EXTINF:-1 tvg-id="10286" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png" group-title="Baseball",Los Angeles Dodgers at Athletics Athletics (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/jzabfazkbf27.m3u8?st=lLnzHQ-OcFivKFhTZN7Wrjegn0LrEGSocX6DO4xsTRU&e=1782958117
+https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=Fc3FHVp5sE68j0ve6BdR16Nn04TnX6IbKFZjkUq4FIQ&e=1782971182
 #EXTINF:-1 tvg-id="10287" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" group-title="Baseball",San Francisco Giants at Arizona Diamondbacks (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/hefbafbakx28.m3u8?st=dAoLO6qhpdQ0F0hg_iDNgioyVoSBkZ-nYVTDQSTLIrI&e=1782958117
+https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=7fzUE5cB9xXopTtdhtkkuUXDeG8ZNF6rDCyFHT_EXiI&e=1782971182
