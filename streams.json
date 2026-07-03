@@ -150,34 +150,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [FIBA World Cup] Basketball: Germany vs Israel [Magenta Sport DE]",
-            "matchstr": "Germany vs Israel",
-            "time": "20:00",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Germany",
-            "team2": "Israel",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-07-03",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=12"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-germany-israel-2026-07-03-20-00",
-            "startTimestamp": 1783098000000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [World Club Friendly] River Plate vs Flamengo [Canal 11 PT]",
             "matchstr": "River Plate vs Flamengo",
             "time": "21:30",
@@ -206,34 +178,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [FIBA World Cup] Basketball: Sweden vs Czech Republic [CT Sport CZ]",
-            "matchstr": "Sweden vs Czech Republic",
-            "time": "20:00",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Sweden",
-            "team2": "Czech Republic",
-            "channel": "CT Sport CZ",
-            "important": false,
-            "matchDate": "2026-07-03",
-            "channels": [
-                {
-                    "name": "CT Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "CZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=40"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-sweden-czech-republic-2026-07-03-20-00",
-            "startTimestamp": 1783098000000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [FIBA World Cup] Basketball: Belgium vs France [beIN Sports 3 FR]",
             "matchstr": "Belgium vs France",
             "time": "21:30",
@@ -259,34 +203,6 @@
             ],
             "slug": "fiba-world-cup-basketball-belgium-france-2026-07-03-21-30",
             "startTimestamp": 1783103400000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden Allsvenskan] Sirius vs Mj\u00e4llby [TV4 Fotball SE]",
-            "matchstr": "Sirius vs Mj\u00e4llby",
-            "time": "20:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Sirius",
-            "team2": "Mj\u00e4llby",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-07-03",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-sirius-mjallby-2026-07-03-20-00",
-            "startTimestamp": 1783098000000,
             "duration": 120
         },
         {
