@@ -1,34 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (BBC One)
-https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (SBS)
-https://s2.kora.st/channel?id=9
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (FIFA Pass)
-https://s2.kora.st/channel?id=10
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (MagentaTV)
-https://s2.kora.st/channel?id=11
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (TSN1)
-https://s2.kora.st/channel?id=31
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (RAI 1)
-https://s2.kora.st/channel?id=47
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (M6)
-https://s2.kora.st/channel?id=56
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (TVP Sport)
-https://s2.kora.st/channel?id=60
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (HRT 2)
-https://s2.kora.st/channel?id=70
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (MTV Urheilu 1)
-https://s2.kora.st/channel?id=71
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (TV4 Sweden)
-https://s2.kora.st/channel?id=74
-#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (DAZN Mundial)
-https://s2.kora.st/channel?id=100
-#EXTINF:-1 tvg-id="world-club-friendly-football-river-plate-flamengo-2026-07-03-21-30" group-title="World Club Friendly",River Plate vs Flamengo (Canal 11)
-https://s2.kora.st/channel?id=22
-#EXTINF:-1 tvg-id="fiba-world-cup-basketball-belgium-france-2026-07-03-21-30" group-title="FIBA World Cup",Belgium vs France (beIN Sports 3)
-https://s2.kora.st/channel?id=53
-#EXTINF:-1 tvg-id="indycar-motorsport-honda-indy-200-2026-07-03-22-00" group-title="IndyCar",Honda Indy 200 (Fox Sports 1)
-https://s2.kora.st/channel?id=81
 #EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-cape-verde-islands-2026-07-04-01-00" group-title="FIFA World Cup",Argentina vs Cape Verde Islands (ITV 1)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-cape-verde-islands-2026-07-04-01-00" group-title="FIFA World Cup",Argentina vs Cape Verde Islands (SBS)
