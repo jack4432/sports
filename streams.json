@@ -311,56 +311,6 @@
             "duration": 120
         },
         {
-            "matchText": "11:00 [Formula 3] Motorsport: Silverstone [Sky Sport F1 DE]",
-            "matchstr": "Silverstone",
-            "time": "11:00",
-            "league": "Formula 3",
-            "sport": "Motorsport",
-            "team1": "Silverstone",
-            "team2": null,
-            "channel": "Sky Sport F1 DE",
-            "important": false,
-            "matchDate": "2026-07-03",
-            "channels": [
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-3-motorsport-silverstone-2026-07-03-11-00",
-            "startTimestamp": 1783065600000,
-            "duration": 120
-        },
-        {
             "matchText": "12:00 [Formula 2] Motorsport: Silverstone [Sky Sport F1 DE]",
             "matchstr": "Silverstone",
             "time": "12:00",
