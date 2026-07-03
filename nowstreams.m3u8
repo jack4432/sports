@@ -3,6 +3,8 @@
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (SBS)
 https://s2.kora.st/channel?id=9
+#EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (FIFA Pass)
+https://s2.kora.st/channel?id=10
 #EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (MagentaTV)
 https://s2.kora.st/channel?id=11
 #EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (TSN1)
@@ -21,24 +23,8 @@ https://s2.kora.st/channel?id=71
 https://s2.kora.st/channel?id=74
 #EXTINF:-1 tvg-id="fifa-world-cup-football-australia-egypt-2026-07-03-21-00" group-title="FIFA World Cup",Australia vs Egypt (DAZN Mundial)
 https://s2.kora.st/channel?id=100
-#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-03-18-30" group-title="Formula 1",British Grand Prix (Sky Sports F1)
-https://s2.kora.st/channel?id=7
-#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-03-18-30" group-title="Formula 1",British Grand Prix (Sky Sport F1)
-https://s2.kora.st/channel?id=13
-#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-03-18-30" group-title="Formula 1",British Grand Prix (DAZN F1)
-https://s2.kora.st/channel?id=30
-#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-03-18-30" group-title="Formula 1",British Grand Prix (Canal+ Sport)
-https://s2.kora.st/channel?id=55
-#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-03-18-30" group-title="Formula 1",British Grand Prix (V Sport Motor)
-https://s2.kora.st/channel?id=79
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-germany-israel-2026-07-03-20-00" group-title="FIBA World Cup",Germany vs Israel (Magenta Sport)
 https://s2.kora.st/channel?id=12
-#EXTINF:-1 tvg-id="formula-2-motorsport-silverstone-2026-07-03-17-00" group-title="Formula 2",Silverstone (Sky Sport F1)
-https://s2.kora.st/channel?id=13
-#EXTINF:-1 tvg-id="formula-2-motorsport-silverstone-2026-07-03-17-00" group-title="Formula 2",Silverstone (Canal+ Sport)
-https://s2.kora.st/channel?id=55
-#EXTINF:-1 tvg-id="formula-2-motorsport-silverstone-2026-07-03-17-00" group-title="Formula 2",Silverstone (V Sport Motor)
-https://s2.kora.st/channel?id=79
 #EXTINF:-1 tvg-id="world-club-friendly-football-river-plate-flamengo-2026-07-03-21-30" group-title="World Club Friendly",River Plate vs Flamengo (Canal 11)
 https://s2.kora.st/channel?id=22
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-sweden-czech-republic-2026-07-03-20-00" group-title="FIBA World Cup",Sweden vs Czech Republic (CT Sport)
@@ -53,6 +39,8 @@ https://s2.kora.st/channel?id=81
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-cape-verde-islands-2026-07-04-01-00" group-title="FIFA World Cup",Argentina vs Cape Verde Islands (SBS)
 https://s2.kora.st/channel?id=9
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-cape-verde-islands-2026-07-04-01-00" group-title="FIFA World Cup",Argentina vs Cape Verde Islands (FIFA Pass)
+https://s2.kora.st/channel?id=10
 #EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-cape-verde-islands-2026-07-04-01-00" group-title="FIFA World Cup",Argentina vs Cape Verde Islands (MagentaTV)
 https://s2.kora.st/channel?id=11
 #EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-cape-verde-islands-2026-07-04-01-00" group-title="FIFA World Cup",Argentina vs Cape Verde Islands (Sport TV1)
@@ -75,6 +63,8 @@ https://s2.kora.st/channel?id=100
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-colombia-ghana-2026-07-04-04-30" group-title="FIFA World Cup",Colombia vs Ghana (SBS)
 https://s2.kora.st/channel?id=9
+#EXTINF:-1 tvg-id="fifa-world-cup-football-colombia-ghana-2026-07-04-04-30" group-title="FIFA World Cup",Colombia vs Ghana (FIFA Pass)
+https://s2.kora.st/channel?id=10
 #EXTINF:-1 tvg-id="fifa-world-cup-football-colombia-ghana-2026-07-04-04-30" group-title="FIFA World Cup",Colombia vs Ghana (MagentaTV)
 https://s2.kora.st/channel?id=11
 #EXTINF:-1 tvg-id="fifa-world-cup-football-colombia-ghana-2026-07-04-04-30" group-title="FIFA World Cup",Colombia vs Ghana (TSN1)
@@ -121,6 +111,8 @@ https://s2.kora.st/channel?id=52
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-canada-morocco-2026-07-04-20-00" group-title="FIFA World Cup",Canada vs Morocco (SBS)
 https://s2.kora.st/channel?id=9
+#EXTINF:-1 tvg-id="fifa-world-cup-football-canada-morocco-2026-07-04-20-00" group-title="FIFA World Cup",Canada vs Morocco (FIFA Pass)
+https://s2.kora.st/channel?id=10
 #EXTINF:-1 tvg-id="fifa-world-cup-football-canada-morocco-2026-07-04-20-00" group-title="FIFA World Cup",Canada vs Morocco (MagentaTV)
 https://s2.kora.st/channel?id=11
 #EXTINF:-1 tvg-id="fifa-world-cup-football-canada-morocco-2026-07-04-20-00" group-title="FIFA World Cup",Canada vs Morocco (TSN1)
