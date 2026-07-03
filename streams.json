@@ -139,78 +139,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Formula 1] Motorsport: British Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "British Grand Prix",
-            "time": "14:30",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "British Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-07-03",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-british-grand-prix-2026-07-03-14-30",
-            "startTimestamp": 1783078200000,
-            "duration": 120
-        },
-        {
             "matchText": "18:30 [Formula 1] Motorsport: British Grand Prix [Sky Sports F1 GB]",
             "matchstr": "British Grand Prix",
             "time": "18:30",
@@ -308,56 +236,6 @@
             ],
             "slug": "fiba-world-cup-basketball-germany-israel-2026-07-03-20-00",
             "startTimestamp": 1783098000000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Formula 3] Motorsport: Silverstone [Sky Sport F1 DE]",
-            "matchstr": "Silverstone",
-            "time": "16:00",
-            "league": "Formula 3",
-            "sport": "Motorsport",
-            "team1": "Silverstone",
-            "team2": null,
-            "channel": "Sky Sport F1 DE",
-            "important": false,
-            "matchDate": "2026-07-03",
-            "channels": [
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-3-motorsport-silverstone-2026-07-03-16-00",
-            "startTimestamp": 1783083600000,
             "duration": 120
         },
         {
@@ -495,34 +373,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [World Club Friendly] Radomlje vs Rijeka [MAX Sport 1 HR]",
-            "matchstr": "Radomlje vs Rijeka",
-            "time": "15:00",
-            "league": "World Club Friendly",
-            "sport": "Football",
-            "team1": "Radomlje",
-            "team2": "Rijeka",
-            "channel": "MAX Sport 1 HR",
-            "important": false,
-            "matchDate": "2026-07-03",
-            "channels": [
-                {
-                    "name": "MAX Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "HR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=70"
-                    ]
-                }
-            ],
-            "slug": "world-club-friendly-football-radomlje-rijeka-2026-07-03-15-00",
-            "startTimestamp": 1783080000000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Sweden Allsvenskan] Sirius vs Mj\u00e4llby [TV4 Fotball SE]",
             "matchstr": "Sirius vs Mj\u00e4llby",
             "time": "20:00",
@@ -577,34 +427,6 @@
             "slug": "indycar-motorsport-honda-indy-200-2026-07-03-22-00",
             "startTimestamp": 1783105200000,
             "duration": 120
-        },
-        {
-            "matchText": "13:10 [AFL] Australian Football: Adelaide Crows vs West Coast Eagles [Fox Soccer Plus US]",
-            "matchstr": "Adelaide Crows vs West Coast Eagles",
-            "time": "13:10",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Adelaide Crows",
-            "team2": "West Coast Eagles",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-07-03",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-adelaide-crows-west-coast-eagles-2026-07-03-13-10",
-            "startTimestamp": 1783073400000,
-            "duration": 180
         },
         {
             "matchText": "01:00 [FIFA World Cup] Argentina vs Cape Verde Islands [ITV 1 GB]",
