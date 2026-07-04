@@ -1,77 +1,113 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/sports/main/power/epg.xml"
+#EXTINF:-1 tvg-id="10345" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",San Diego Padres at Los Angeles Dodgers (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/hfzljfahzcax29.m3u8?st=GcQMKr8qJ_siJMXuYAS5hYZjKv3mFKCykTyPNPRjHug&e=1783156960
+#EXTINF:-1 tvg-id="10343" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Miami Marlins at Athletics Athletics (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/jzabfazkbf27.m3u8?st=hGmRDugEgRU_kup6mDWR97Zve340Ilp3FKvM5GxsCXA&e=1783156960
+#EXTINF:-1 tvg-id="10344" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Milwaukee Brewers at Arizona Diamondbacks (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/hefbafbakx28.m3u8?st=QF0u11eySAbaWnGzwtUlUuxd1kAN6vzRBek25prz4X8&e=1783156960
+#EXTINF:-1 tvg-id="10342" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Boston Red Sox at Los Angeles Angels (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?st=UEY_aXtkPwy2MWhYdi1aPaMZzsndgMgqTTxfEQCFP7Q&e=1783156961
+#EXTINF:-1 tvg-id="10340" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Philadelphia Phillies at Kansas City Royals (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream1.pro/hls/fskjanach24.m3u8?st=ZiKH8Qb-5aA9-nVFmpw7n9SvsfKbQfwrDQu7AOF-ND4&e=1783156961
+#EXTINF:-1 tvg-id="10341" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",San Francisco Giants at Colorado Rockies (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream1.pro/hls/kjhfzua25.m3u8?st=lNMcEe7LC8CV5amaqTv59TB1G0_qvR1XXsSDteZyGj0&e=1783156961
+#EXTINF:-1 tvg-id="10338" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",New York Mets at Atlanta Braves (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream2.pro/hls/ijfnakfidch22.m3u8?st=gfq9xoGbtEFakoypPb1-mRAzuWK8-u3ZA1Gfz_3gdjg&e=1783156962
+#EXTINF:-1 tvg-id="10339" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",St. Louis Cardinals at Chicago Cubs (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/jnzkdzjfanch23.m3u8?st=UF_J_h7cy6y4y82VFzNR7T2L6ycuBvMrwKIWvByrTBs&e=1783156962
+#EXTINF:-1 tvg-id="10335" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Baltimore Orioles at Cincinnati Reds (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/bzagLHzach19.m3u8?st=Sv9lhShsvV1gFyQQ07wVFQMTX3-wmO4GsuQ9_NbwAYE&e=1783156962
+#EXTINF:-1 tvg-id="10336" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Chicago White Sox at Cleveland Guardians (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream2.pro/hls/jkzahzadach20.m3u8?st=6apKlhV_h5nyjb-82BK3Qq0Qpovul4Gh0Lep92VaCeY&e=1783156962
+#EXTINF:-1 tvg-id="10337" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Tampa Bay Rays at Houston Astros (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/ojzkajnach21.m3u8?st=8B54-MJ83TkrOYfYcaTbmbySgYh8h_S4xFkW3qJie_k&e=1783156962
+#EXTINF:-1 tvg-id="10330" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",France at Paraguay (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?st=cmGD6fc3t4bHJPIalSUHKcUsN1XkxO4A4fGNHcwGLno&e=1783156962
+#EXTINF:-1 tvg-id="10330" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",France at Paraguay (Arabic)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream1.pro/hls/eJmauBDCIf.m3u8?st=ypjPD2UPGmECDOZdxmFdZ2wgm8mdzw7vubxfZB_tXC4&e=1783156963
+#EXTINF:-1 tvg-id="10330" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",France at Paraguay (Spanish)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream2.pro/hls/b0h5fNwDKH.m3u8?st=POQFHWpJCz_RLjgppnWvo99g7UsVh-jK1VQ-CfPIx48&e=1783156963
+#EXTINF:-1 tvg-id="10348" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Brooklyn Nets at Sacramento Kings (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream1.pro/hls/mlkijfezag65.m3u8?st=2EaJc8NuvNKGDk8WS0kXlY5X8Ey6oWRrvQ2B9NvI-vU&e=1783156963
+#EXTINF:-1 tvg-id="10349" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Atlanta Hawks at Utah Jazz (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=7eNs29AZNg0NWL_PIvrKh8II4Ob3SuUAI3EIZTD7TwE&e=1783156963
+#EXTINF:-1 tvg-id="10334" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Toronto Blue Jays at Seattle Mariners (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream1.pro/hls/Czajafjihafch18.m3u8?st=yEyv4WegPS-WD3XqdbYiEHdO0TBqRBzEIWKsubbRGl4&e=1783156963
+#EXTINF:-1 tvg-id="10333" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Detroit Tigers at Texas Rangers (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?st=ohEYnjIQ-qrSZoAJgBzdgBx6UYBnB29Q8mIgsiwaHyI&e=1783156963
+#EXTINF:-1 tvg-id="10346" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Milwaukee Bucks at Golden State Warriors Blue (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream1.pro/hls/mlkijfezag65.m3u8?st=h_7dEXh6umawTv8vbpFCPIcxzQJ9GxvVASjXlMi2xxw&e=1783156964
+#EXTINF:-1 tvg-id="10347" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Memphis Grizzlies at Oklahoma City Thunder (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8?st=ew4pu42NGjx6-duFsbPYhYeAafNy1IFY4Kn75GUCmTc&e=1783156964
+#EXTINF:-1 tvg-id="10332" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Minnesota Twins at New York Yankees (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?st=ICEocpGctFUcy5Ne5Wa1sqrpKKOydLhOY4RK-7kCUqY&e=1783156964
+#EXTINF:-1 tvg-id="10329" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Morocco at Canada (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?st=8QCVfkDgVWqhC3W2bXd-6lHnIyQFoIiuJnVSIK1cFng&e=1783156964
+#EXTINF:-1 tvg-id="10329" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Morocco at Canada (Arabic)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream2.pro/hls/eJmauBDCIf.m3u8?st=gfK8IMtmS7Q8tqIo4_uWi2J0B5uAwDkCGnEbC9cwt7c&e=1783156964
+#EXTINF:-1 tvg-id="10329" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Morocco at Canada (Spanish)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream2.pro/hls/b0h5fNwDKH.m3u8?st=vMWVNxoM7yYd514TqoPm2swf9lODoBwIBR3Bw5D9y0E&e=1783156964
+#EXTINF:-1 tvg-id="10331" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Pittsburgh Pirates at Washington Nationals (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream1.pro/hls/dazhfiach15.m3u8?st=u1adE58I-rN00PnSwiB7N4uR0mFZtKaMAMPbylRI9S4&e=1783156965
+#EXTINF:-1 tvg-id="10352" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Pirelli British Grand Prix (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream2.pro/hls/hbfkazbkaznc49.m3u8?st=scNbWwr0WbichLdIpRcDWix91XZBktLLxWUpEv5nrFk&e=1783156965
+#EXTINF:-1 tvg-id="10351" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Pirelli British Grand Prix (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?st=scNbWwr0WbichLdIpRcDWix91XZBktLLxWUpEv5nrFk&e=1783156965
 #EXTINF:-1 tvg-id="10328" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Los Angeles Lakers at Golden State Warriors Gold (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/wfazgsqtrezu66.m3u8?st=qSs9yDTTxk4Dgd5BXs6VFj0423bAqHbGL8Zj1H5xupQ&e=1783144571
-#EXTINF:-1 tvg-id="10322" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",San Diego Padres at Los Angeles Dodgers (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=V685cRO_Y5YWMT-s3c7BWciqiovJK5Z-seejN5WCDtE&e=1783144571
-#EXTINF:-1 tvg-id="10323" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Toronto Blue Jays at Seattle Mariners (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/jzabfazkbf27.m3u8?st=vlZCbQRykWWYlT9fQ5674Kiil3QCbCx2FSNczgc8dR8&e=1783144571
-#EXTINF:-1 tvg-id="10325" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Chicago Sky at Las Vegas Aces (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/ztyarueaghj71.m3u8?st=aocdIh1rwqzFdS8BuISX8XHpK1IbHNHbYg7ORKUe4TU&e=1783144572
-#EXTINF:-1 tvg-id="10321" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Milwaukee Brewers at Arizona Diamondbacks (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/kjhfzua25.m3u8?st=Q78D3mEhEqjWaHYGSmx00iqmAVV2fsLe2LD5BUSfTuo&e=1783144572
-#EXTINF:-1 tvg-id="10320" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Miami Marlins at Athletics Athletics (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/fskjanach24.m3u8?st=r8MNz_xH9U8FN4MOnEknvwY5IBZM8yzYQHjqMi9ijnU&e=1783144572
-#EXTINF:-1 tvg-id="10319" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Boston Red Sox at Los Angeles Angels (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=kQWcXQWn2rFY5uR_N9bMngSmyYHfdVXVkvLANLM6qGU&e=1783144572
-#EXTINF:-1 tvg-id="10308" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Ghana at Colombia (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=8-_sVnvZryXvbn1835wVDYlXoYtLP4lmSE_AjCCFfik&e=1783144572
-#EXTINF:-1 tvg-id="10308" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Ghana at Colombia (Arabic)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=EY7yD0XxkCLGpzXs-UYPCP4_Gq1xLKIxuhQc6B7GHPY&e=1783144572
-#EXTINF:-1 tvg-id="10308" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Ghana at Colombia (Spanish)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=RawS379R6D3LoQZNcGxdKoesKji544YeGwRPvdCOTLI&e=1783144573
-#EXTINF:-1 tvg-id="10318" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Tampa Bay Rays at Houston Astros (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=g0pqN-eLbFU3MCv34M0SqI5qjH-j21UKkhlssNHaJ2E&e=1783144573
-#EXTINF:-1 tvg-id="10317" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",San Francisco Giants at Colorado Rockies (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/ojzkajnach21.m3u8?st=MTf8u81bzBHVsrMf_lwkfO7zY0QJjPVFHD6cWk6kWLU&e=1783144573
-#EXTINF:-1 tvg-id="10326" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",None (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/uyopzarf50.m3u8?st=dBQLMmRvvExgxVC9OTD4xZt9ziVbqRWWv7LeXomjLew&e=1783144573
-#EXTINF:-1 tvg-id="10327" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Miami Heat at San Antonio Spurs (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=NKr5QF2e8JIb1VTlUe0oa2NoX6sn4VE-Gd4_Wh3eQ4Q&e=1783144573
-#EXTINF:-1 tvg-id="10324" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Minnesota Lynx at New York Liberty (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=UyCOSMTt2mABJ0BqoxQnKckIgDqHB1J_1K810YosJBU&e=1783144573
-#EXTINF:-1 tvg-id="10316" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",New York Mets at Atlanta Braves (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/jkzahzadach20.m3u8?st=at7LrH7FTu5J7r1C1VJmLkZzeZ_2zEsn4o7e3lGOHMM&e=1783144573
-#EXTINF:-1 tvg-id="10314" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Baltimore Orioles at Cincinnati Reds (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=UQIZPNtFTiucLD52ZdGNhiHYgDl31NlcbNxtZSc5DaU&e=1783144573
-#EXTINF:-1 tvg-id="10315" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Chicago White Sox at Cleveland Guardians (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/bzagLHzach19.m3u8?st=lzwuLsJw4vO4RgnE5pSmJ5XpwOj1YcB-CsIMd6sB0R4&e=1783144573
-#EXTINF:-1 tvg-id="10313" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="Live Sports",Minnesota Twins at New York Yankees (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=gBLbUYrEDl-FJ9VGYapXYhJjzdZ9UbTwRsMpVuKbiIg&e=1783144574
+https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?st=hHyDJC_-L-CiPBBCgQ1J5oVvhN1cm9W1C9UxRgPajao&e=1783156966
