@@ -1,14 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="nations-championship-rugby-new-zealand-france-2026-07-04-10-10" group-title="Nations Championship",New Zealand vs France (ITV 1)
-https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="nations-championship-rugby-new-zealand-france-2026-07-04-10-10" group-title="Nations Championship",New Zealand vs France (Sky Sport 1)
-https://s2.kora.st/channel?id=2
-#EXTINF:-1 tvg-id="nations-championship-rugby-new-zealand-france-2026-07-04-10-10" group-title="Nations Championship",New Zealand vs France (M+ Deportes)
-https://s2.kora.st/channel?id=29
-#EXTINF:-1 tvg-id="nations-championship-rugby-new-zealand-france-2026-07-04-10-10" group-title="Nations Championship",New Zealand vs France (Sky Sport Arena)
-https://s2.kora.st/channel?id=47
-#EXTINF:-1 tvg-id="nations-championship-rugby-new-zealand-france-2026-07-04-10-10" group-title="Nations Championship",New Zealand vs France (TF1)
-https://s2.kora.st/channel?id=50
 #EXTINF:-1 tvg-id="nations-championship-rugby-australia-ireland-2026-07-04-13-10" group-title="Nations Championship",Australia vs Ireland (ITV 1)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="nations-championship-rugby-australia-ireland-2026-07-04-13-10" group-title="Nations Championship",Australia vs Ireland (Sky Sport 1)
@@ -129,10 +119,6 @@ https://s2.kora.st/channel?id=12
 https://s2.kora.st/channel?id=14
 #EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-spain-u19-germany-u19-2026-07-04-16-00" group-title="Europe UEFA U19 European Championship",Spain U19 vs Germany U19 (Sportdigital FUSSBALL)
 https://s2.kora.st/channel?id=19
-#EXTINF:-1 tvg-id="afl-australian-football-collingwood-magpies-gold-coast-suns-2026-07-04-09-15" group-title="AFL",Collingwood Magpies vs Gold Coast Suns (TSN4)
-https://s2.kora.st/channel?id=34
-#EXTINF:-1 tvg-id="afl-australian-football-collingwood-magpies-gold-coast-suns-2026-07-04-09-15" group-title="AFL",Collingwood Magpies vs Gold Coast Suns (Fox Sports 2)
-https://s2.kora.st/channel?id=82
 #EXTINF:-1 tvg-id="super-league-rugby-york-rlfc-huddersfield-giants-2026-07-04-14-30" group-title="Super League",York RLFC vs Huddersfield Giants (Sportsnet World)
 https://s2.kora.st/channel?id=35
 #EXTINF:-1 tvg-id="super-league-rugby-hull-fc-hull-kingston-rovers-2026-07-04-17-00" group-title="Super League",Hull FC vs Hull Kingston Rovers (Sportsnet World)
@@ -151,8 +137,6 @@ https://s2.kora.st/channel?id=83
 https://s2.kora.st/channel?id=63
 #EXTINF:-1 tvg-id="diamond-league-athletics-diamond-league-eugene-2026-07-04-23-00" group-title="Diamond League",Diamond League Eugene (SVT2)
 https://s2.kora.st/channel?id=72
-#EXTINF:-1 tvg-id="european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-04-09-05" group-title="European Rally Championship",ERC Rally di Roma Capitale (TV4 Motor)
-https://s2.kora.st/channel?id=73
 #EXTINF:-1 tvg-id="european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-04-12-05" group-title="European Rally Championship",ERC Rally di Roma Capitale (TV4 Motor)
 https://s2.kora.st/channel?id=73
 #EXTINF:-1 tvg-id="european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-04-16-45" group-title="European Rally Championship",ERC Rally di Roma Capitale (TV4 Motor)

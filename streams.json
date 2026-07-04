@@ -1,78 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "10:10 [Nations Championship] Rugby: New Zealand vs France [ITV 1 GB]",
-            "matchstr": "New Zealand vs France",
-            "time": "10:10",
-            "league": "Nations Championship",
-            "sport": "Rugby",
-            "team1": "New Zealand",
-            "team2": "France",
-            "channel": "ITV 1 GB",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "ITV 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "M+ Deportes",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Arena",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "TF1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "nations-championship-rugby-new-zealand-france-2026-07-04-10-10",
-            "startTimestamp": 1783149000000,
-            "duration": 120
-        },
-        {
             "matchText": "13:10 [Nations Championship] Rugby: Australia vs Ireland [ITV 1 GB]",
             "matchstr": "Australia vs Ireland",
             "time": "13:10",
@@ -1022,45 +950,6 @@
             "duration": 120
         },
         {
-            "matchText": "09:15 [AFL] Australian Football: Collingwood Magpies vs Gold Coast Suns [TSN4 CA]",
-            "matchstr": "Collingwood Magpies vs Gold Coast Suns",
-            "time": "09:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Collingwood Magpies",
-            "team2": "Gold Coast Suns",
-            "channel": "TSN4 CA",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "TSN4",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-collingwood-magpies-gold-coast-suns-2026-07-04-09-15",
-            "startTimestamp": 1783145700000,
-            "duration": 180
-        },
-        {
             "matchText": "14:30 [Super League] Rugby: York RLFC vs Huddersfield Giants [Sportsnet World CA]",
             "matchstr": "York RLFC vs Huddersfield Giants",
             "time": "14:30",
@@ -1259,34 +1148,6 @@
             ],
             "slug": "diamond-league-athletics-diamond-league-eugene-2026-07-04-23-00",
             "startTimestamp": 1783195200000,
-            "duration": 120
-        },
-        {
-            "matchText": "09:05 [European Rally Championship] Motorsport: ERC Rally di Roma Capitale [TV4 Motor SE]",
-            "matchstr": "ERC Rally di Roma Capitale",
-            "time": "09:05",
-            "league": "European Rally Championship",
-            "sport": "Motorsport",
-            "team1": "ERC Rally di Roma Capitale",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-04-09-05",
-            "startTimestamp": 1783145100000,
             "duration": 120
         },
         {
