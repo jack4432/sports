@@ -510,34 +510,6 @@
             "duration": 120
         },
         {
-            "matchText": "05:30 [NBA] Basketball: Los Angeles Lakers vs Golden State Warriors [ESPN U US]",
-            "matchstr": "Los Angeles Lakers vs Golden State Warriors",
-            "time": "05:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Los Angeles Lakers",
-            "team2": "Golden State Warriors",
-            "channel": "ESPN U US",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "ESPN U",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=3"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-los-angeles-lakers-golden-state-warriors-2026-07-04-05-30",
-            "startTimestamp": 1783132200000,
-            "duration": 180
-        },
-        {
             "matchText": "11:40 [Nations Championship] Rugby: Japan vs Italy [Sky Sport 4 NZ]",
             "matchstr": "Japan vs Italy",
             "time": "11:40",
@@ -1262,34 +1234,6 @@
             "duration": 120
         },
         {
-            "matchText": "05:30 [Bare Knuckle Fighting Championship] MMA: Liberty Brawl Philadelphia [Canal+ Sport PL]",
-            "matchstr": "Liberty Brawl Philadelphia",
-            "time": "05:30",
-            "league": "Bare Knuckle Fighting Championship",
-            "sport": "MMA",
-            "team1": "Liberty Brawl Philadelphia",
-            "team2": null,
-            "channel": "Canal+ Sport PL",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=64"
-                    ],
-                    "number": 64,
-                    "language": "PL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=64"
-                    ]
-                }
-            ],
-            "slug": "bare-knuckle-fighting-championship-mma-liberty-brawl-philadelphia-2026-07-04-05-30",
-            "startTimestamp": 1783132200000,
-            "duration": 180
-        },
-        {
             "matchText": "23:00 [Diamond League] Athletics: Diamond League Eugene [SVT2 SE]",
             "matchstr": "Diamond League Eugene",
             "time": "23:00",
@@ -1626,34 +1570,6 @@
             "duration": 120
         },
         {
-            "matchText": "06:15 [AFL] Australian Football: Melbourne Demons vs Hawthorn Hawks [Fox Sports 2 US]",
-            "matchstr": "Melbourne Demons vs Hawthorn Hawks",
-            "time": "06:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Melbourne Demons",
-            "team2": "Hawthorn Hawks",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-melbourne-demons-hawthorn-hawks-2026-07-04-06-15",
-            "startTimestamp": 1783134900000,
-            "duration": 180
-        },
-        {
             "matchText": "12:35 [NRL] Rugby: Cronulla Sharks vs Brisbane Broncos [Fox Sports 2 US]",
             "matchstr": "Cronulla Sharks vs Brisbane Broncos",
             "time": "12:35",
@@ -1710,34 +1626,6 @@
             "duration": 120
         },
         {
-            "matchText": "06:35 [AFL] Australian Football: Fremantle Dockers vs Greater Western Sydney Giants [Fox Soccer Plus US]",
-            "matchstr": "Fremantle Dockers vs Greater Western Sydney Giants",
-            "time": "06:35",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Fremantle Dockers",
-            "team2": "Greater Western Sydney Giants",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-fremantle-dockers-greater-western-sydney-giants-2026-07-04-06-35",
-            "startTimestamp": 1783136100000,
-            "duration": 180
-        },
-        {
             "matchText": "10:30 [NRL] Rugby: Wests Tigers vs St. George Illawarra Dragons [Fox Soccer Plus US]",
             "matchstr": "Wests Tigers vs St. George Illawarra Dragons",
             "time": "10:30",
@@ -1792,34 +1680,6 @@
             "slug": "afl-australian-football-carlton-blues-richmond-tigers-2026-07-04-12-35",
             "startTimestamp": 1783157700000,
             "duration": 180
-        },
-        {
-            "matchText": "05:30 [FIBA World Cup] Basketball: Mexico vs Nicaragua [FOX Sports MX]",
-            "matchstr": "Mexico vs Nicaragua",
-            "time": "05:30",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Mexico",
-            "team2": "Nicaragua",
-            "channel": "FOX Sports MX",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "FOX Sports",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "MX",
-                    "links": [
-                        "https://s2.kora.st/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-mexico-nicaragua-2026-07-04-05-30",
-            "startTimestamp": 1783132200000,
-            "duration": 120
         },
         {
             "matchText": "03:45 [United States NWSL] San Diego Wave vs Gotham FC [TNT Sports 2 GB]",

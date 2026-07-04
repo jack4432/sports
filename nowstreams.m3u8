@@ -73,8 +73,6 @@ https://s2.kora.st/channel?id=21
 https://s2.kora.st/channel?id=47
 #EXTINF:-1 tvg-id="nations-championship-rugby-argentina-scotland-2026-07-04-22-10" group-title="Nations Championship",Argentina vs Scotland (TF1)
 https://s2.kora.st/channel?id=50
-#EXTINF:-1 tvg-id="nba-basketball-los-angeles-lakers-golden-state-warriors-2026-07-04-05-30" group-title="NBA",Los Angeles Lakers vs Golden State Warriors (ESPN U)
-https://s2.kora.st/channel?id=3
 #EXTINF:-1 tvg-id="nations-championship-rugby-japan-italy-2026-07-04-11-40" group-title="Nations Championship",Japan vs Italy (Sky Sport 4)
 https://s2.kora.st/channel?id=3
 #EXTINF:-1 tvg-id="nations-championship-rugby-japan-italy-2026-07-04-11-40" group-title="Nations Championship",Japan vs Italy (ITV4)
@@ -151,8 +149,6 @@ https://s2.kora.st/channel?id=35
 https://s2.kora.st/channel?id=83
 #EXTINF:-1 tvg-id="club-friendly-football-ajax-panathinaikos-2026-07-04-18-00" group-title="Club Friendly",Ajax vs Panathinaikos (Sport 3)
 https://s2.kora.st/channel?id=63
-#EXTINF:-1 tvg-id="bare-knuckle-fighting-championship-mma-liberty-brawl-philadelphia-2026-07-04-05-30" group-title="Bare Knuckle Fighting Championship",Liberty Brawl Philadelphia (Canal+ Sport)
-https://s2.kora.st/channel?id=64
 #EXTINF:-1 tvg-id="diamond-league-athletics-diamond-league-eugene-2026-07-04-23-00" group-title="Diamond League",Diamond League Eugene (SVT2)
 https://s2.kora.st/channel?id=72
 #EXTINF:-1 tvg-id="european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-04-09-05" group-title="European Rally Championship",ERC Rally di Roma Capitale (TV4 Motor)
@@ -177,20 +173,14 @@ https://s2.kora.st/channel?id=78
 https://s2.kora.st/channel?id=81
 #EXTINF:-1 tvg-id="indycar-canadian-football-honda-indy-200-2026-07-04-21-30" group-title="IndyCar",Honda Indy 200 (Fox Sports 1)
 https://s2.kora.st/channel?id=81
-#EXTINF:-1 tvg-id="afl-australian-football-melbourne-demons-hawthorn-hawks-2026-07-04-06-15" group-title="AFL",Melbourne Demons vs Hawthorn Hawks (Fox Sports 2)
-https://s2.kora.st/channel?id=82
 #EXTINF:-1 tvg-id="nrl-rugby-cronulla-sharks-brisbane-broncos-2026-07-04-12-35" group-title="NRL",Cronulla Sharks vs Brisbane Broncos (Fox Sports 2)
 https://s2.kora.st/channel?id=82
 #EXTINF:-1 tvg-id="canada-canadian-premier-league-football-atl-ottawa-cavalry-2026-07-04-22-00" group-title="Canada Canadian Premier League",Atl. Ottawa vs Cavalry (Fox Sports 2)
 https://s2.kora.st/channel?id=82
-#EXTINF:-1 tvg-id="afl-australian-football-fremantle-dockers-greater-western-sydney-giants-2026-07-04-06-35" group-title="AFL",Fremantle Dockers vs Greater Western Sydney Giants (Fox Soccer Plus)
-https://s2.kora.st/channel?id=83
 #EXTINF:-1 tvg-id="nrl-rugby-wests-tigers-st-george-illawarra-dragons-2026-07-04-10-30" group-title="NRL",Wests Tigers vs St. George Illawarra Dragons (Fox Soccer Plus)
 https://s2.kora.st/channel?id=83
 #EXTINF:-1 tvg-id="afl-australian-football-carlton-blues-richmond-tigers-2026-07-04-12-35" group-title="AFL",Carlton Blues vs Richmond Tigers (Fox Soccer Plus)
 https://s2.kora.st/channel?id=83
-#EXTINF:-1 tvg-id="fiba-world-cup-basketball-mexico-nicaragua-2026-07-04-05-30" group-title="FIBA World Cup",Mexico vs Nicaragua (FOX Sports)
-https://s2.kora.st/channel?id=84
 #EXTINF:-1 tvg-id="united-states-nwsl-football-san-diego-wave-gotham-fc-2026-07-05-03-45" group-title="United States NWSL",San Diego Wave vs Gotham FC (TNT Sports 2)
 https://s2.kora.st/channel?id=2
 #EXTINF:-1 tvg-id="united-states-nwsl-football-boston-legacy-bay-fc-2026-07-05-19-00" group-title="United States NWSL",Boston Legacy vs Bay FC (ESPN)
