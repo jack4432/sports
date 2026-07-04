@@ -1,14 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="nations-championship-rugby-fiji-wales-2026-07-04-16-10" group-title="Nations Championship",Fiji vs Wales (ITV 1)
-https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="nations-championship-rugby-fiji-wales-2026-07-04-16-10" group-title="Nations Championship",Fiji vs Wales (Sky Sport 1)
-https://s2.kora.st/channel?id=2
-#EXTINF:-1 tvg-id="nations-championship-rugby-fiji-wales-2026-07-04-16-10" group-title="Nations Championship",Fiji vs Wales (Sport TV1)
-https://s2.kora.st/channel?id=21
-#EXTINF:-1 tvg-id="nations-championship-rugby-fiji-wales-2026-07-04-16-10" group-title="Nations Championship",Fiji vs Wales (Sky Sport Arena)
-https://s2.kora.st/channel?id=47
-#EXTINF:-1 tvg-id="nations-championship-rugby-fiji-wales-2026-07-04-16-10" group-title="Nations Championship",Fiji vs Wales (TMC)
-https://s2.kora.st/channel?id=52
 #EXTINF:-1 tvg-id="fifa-world-cup-football-canada-morocco-2026-07-04-20-00" group-title="FIFA World Cup",Canada vs Morocco (FOX Network)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-canada-morocco-2026-07-04-20-00" group-title="FIFA World Cup",Canada vs Morocco (SBS)
@@ -61,30 +51,20 @@ https://s2.kora.st/channel?id=3
 https://s2.kora.st/channel?id=5
 #EXTINF:-1 tvg-id="wr-nations-cup-rugby-samoa-hong-kong-2026-07-04-22-00" group-title="WR Nations Cup",Samoa vs Hong Kong (Sky Sport Select)
 https://s2.kora.st/channel?id=5
-#EXTINF:-1 tvg-id="formula-2-motorsport-silverstone-2026-07-04-15-45" group-title="Formula 2",Silverstone (Sky Sports F1)
+#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-00" group-title="Formula 1",British Grand Prix (Sky Sports F1)
 https://s2.kora.st/channel?id=7
-#EXTINF:-1 tvg-id="formula-2-motorsport-silverstone-2026-07-04-15-45" group-title="Formula 2",Silverstone (Sky Sport F1)
+#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-00" group-title="Formula 1",British Grand Prix (Sky Sport F1)
 https://s2.kora.st/channel?id=13
-#EXTINF:-1 tvg-id="formula-2-motorsport-silverstone-2026-07-04-15-45" group-title="Formula 2",Silverstone (Canal+ Sport)
-https://s2.kora.st/channel?id=55
-#EXTINF:-1 tvg-id="formula-2-motorsport-silverstone-2026-07-04-15-45" group-title="Formula 2",Silverstone (V Sport Motor)
-https://s2.kora.st/channel?id=79
-#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-30" group-title="Formula 1",British Grand Prix (Sky Sports F1)
-https://s2.kora.st/channel?id=7
-#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-30" group-title="Formula 1",British Grand Prix (Sky Sport F1)
-https://s2.kora.st/channel?id=13
-#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-30" group-title="Formula 1",British Grand Prix (DAZN F1)
+#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-00" group-title="Formula 1",British Grand Prix (DAZN F1)
 https://s2.kora.st/channel?id=30
-#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-30" group-title="Formula 1",British Grand Prix (Canal+ Sport)
+#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-00" group-title="Formula 1",British Grand Prix (Sky Sports F1)
+https://s2.kora.st/channel?id=46
+#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-00" group-title="Formula 1",British Grand Prix (Canal+ Sport)
 https://s2.kora.st/channel?id=55
-#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-30" group-title="Formula 1",British Grand Prix (V Sport Motor)
+#EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-04-18-00" group-title="Formula 1",British Grand Prix (V Sport Motor)
 https://s2.kora.st/channel?id=79
 #EXTINF:-1 tvg-id="nba-basketball-golden-state-warriors-milwaukee-bucks-2026-07-04-22-00" group-title="NBA",Golden State Warriors vs Milwaukee Bucks (NBA League Pass)
 https://s2.kora.st/channel?id=7
-#EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-denmark-u19-wales-u19-2026-07-04-16-00" group-title="Europe UEFA U19 European Championship",Denmark U19 vs Wales U19 (Sportdigital FUSSBALL2)
-https://s2.kora.st/channel?id=12
-#EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-spain-u19-germany-u19-2026-07-04-16-00" group-title="Europe UEFA U19 European Championship",Spain U19 vs Germany U19 (Sportdigital FUSSBALL)
-https://s2.kora.st/channel?id=19
 #EXTINF:-1 tvg-id="super-league-rugby-hull-fc-hull-kingston-rovers-2026-07-04-17-00" group-title="Super League",Hull FC vs Hull Kingston Rovers (Sportsnet World)
 https://s2.kora.st/channel?id=35
 #EXTINF:-1 tvg-id="super-league-rugby-hull-fc-hull-kingston-rovers-2026-07-04-17-00" group-title="Super League",Hull FC vs Hull Kingston Rovers (Fox Soccer Plus)
@@ -105,10 +85,6 @@ https://s2.kora.st/channel?id=72
 https://s2.kora.st/channel?id=73
 #EXTINF:-1 tvg-id="european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-04-19-45" group-title="European Rally Championship",ERC Rally di Roma Capitale (TV4 Motor)
 https://s2.kora.st/channel?id=73
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-halmstad-vasteras-sk-2026-07-04-16-00" group-title="Sweden Allsvenskan",Halmstad vs Västerås SK (TV4 Sport Live 1)
-https://s2.kora.st/channel?id=75
-#EXTINF:-1 tvg-id="finland-veikkausliiga-football-lahti-gnistan-2026-07-04-15-00" group-title="Finland Veikkausliiga",Lahti vs Gnistan (Ruutu+)
-https://s2.kora.st/channel?id=76
 #EXTINF:-1 tvg-id="finland-veikkausliiga-football-vps-mariehamn-2026-07-04-18-00" group-title="Finland Veikkausliiga",VPS vs Mariehamn (Ruutu+)
 https://s2.kora.st/channel?id=76
 #EXTINF:-1 tvg-id="finland-veikkausliiga-football-sjk-tps-2026-07-04-17-00" group-title="Finland Veikkausliiga",SJK vs TPS (Ruutu+)
