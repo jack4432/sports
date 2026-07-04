@@ -438,56 +438,6 @@
             "duration": 120
         },
         {
-            "matchText": "11:40 [Nations Championship] Rugby: Japan vs Italy [Sky Sport 4 NZ]",
-            "matchstr": "Japan vs Italy",
-            "time": "11:40",
-            "league": "Nations Championship",
-            "sport": "Rugby",
-            "team1": "Japan",
-            "team2": "Italy",
-            "channel": "Sky Sport 4 NZ",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Sky Sport 4",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "ITV4",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=4"
-                    ]
-                },
-                {
-                    "name": "Sport TV4",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=22"
-                    ]
-                }
-            ],
-            "slug": "nations-championship-rugby-japan-italy-2026-07-04-11-40",
-            "startTimestamp": 1783154400000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [NBA] Basketball: Oklahoma City Thunder VS Memphis Grizzlies [ESPN U US]",
             "matchstr": "Oklahoma City Thunder VS Memphis Grizzlies",
             "time": "22:00",
@@ -569,67 +519,6 @@
             ],
             "slug": "wr-nations-cup-rugby-samoa-hong-kong-2026-07-04-22-00",
             "startTimestamp": 1783191600000,
-            "duration": 120
-        },
-        {
-            "matchText": "11:30 [Formula 3] Motorsport: Silverstone [Sky Sports F1 GB]",
-            "matchstr": "Silverstone",
-            "time": "11:30",
-            "league": "Formula 3",
-            "sport": "Motorsport",
-            "team1": "Silverstone",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-3-motorsport-silverstone-2026-07-04-11-30",
-            "startTimestamp": 1783153800000,
             "duration": 120
         },
         {
@@ -1151,34 +1040,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:05 [European Rally Championship] Motorsport: ERC Rally di Roma Capitale [TV4 Motor SE]",
-            "matchstr": "ERC Rally di Roma Capitale",
-            "time": "12:05",
-            "league": "European Rally Championship",
-            "sport": "Motorsport",
-            "team1": "ERC Rally di Roma Capitale",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-04-12-05",
-            "startTimestamp": 1783155900000,
-            "duration": 120
-        },
-        {
             "matchText": "16:45 [European Rally Championship] Motorsport: ERC Rally di Roma Capitale [TV4 Motor SE]",
             "matchstr": "ERC Rally di Roma Capitale",
             "time": "16:45",
@@ -1431,34 +1292,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:35 [NRL] Rugby: Cronulla Sharks vs Brisbane Broncos [Fox Sports 2 US]",
-            "matchstr": "Cronulla Sharks vs Brisbane Broncos",
-            "time": "12:35",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Cronulla Sharks",
-            "team2": "Brisbane Broncos",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-cronulla-sharks-brisbane-broncos-2026-07-04-12-35",
-            "startTimestamp": 1783157700000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Canada Canadian Premier League] Atl. Ottawa vs Cavalry [Fox Sports 2 US]",
             "matchstr": "Atl. Ottawa vs Cavalry",
             "time": "22:00",
@@ -1484,34 +1317,6 @@
             ],
             "slug": "canada-canadian-premier-league-football-atl-ottawa-cavalry-2026-07-04-22-00",
             "startTimestamp": 1783191600000,
-            "duration": 120
-        },
-        {
-            "matchText": "10:30 [NRL] Rugby: Wests Tigers vs St. George Illawarra Dragons [Fox Soccer Plus US]",
-            "matchstr": "Wests Tigers vs St. George Illawarra Dragons",
-            "time": "10:30",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Wests Tigers",
-            "team2": "St. George Illawarra Dragons",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-wests-tigers-st-george-illawarra-dragons-2026-07-04-10-30",
-            "startTimestamp": 1783150200000,
             "duration": 120
         },
         {
