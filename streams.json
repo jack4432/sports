@@ -1,67 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "13:10 [Nations Championship] Rugby: Australia vs Ireland [ITV 1 GB]",
-            "matchstr": "Australia vs Ireland",
-            "time": "13:10",
-            "league": "Nations Championship",
-            "sport": "Rugby",
-            "team1": "Australia",
-            "team2": "Ireland",
-            "channel": "ITV 1 GB",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "ITV 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Arena",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=47"
-                    ]
-                }
-            ],
-            "slug": "nations-championship-rugby-australia-ireland-2026-07-04-13-10",
-            "startTimestamp": 1783159800000,
-            "duration": 120
-        },
-        {
             "matchText": "16:10 [Nations Championship] Rugby: Fiji vs Wales [ITV 1 GB]",
             "matchstr": "Fiji vs Wales",
             "time": "16:10",
@@ -522,78 +461,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:00 [Formula 1] Motorsport: British Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "British Grand Prix",
-            "time": "14:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "British Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-british-grand-prix-2026-07-04-14-00",
-            "startTimestamp": 1783162800000,
-            "duration": 120
-        },
-        {
             "matchText": "15:45 [Formula 2] Motorsport: Silverstone [Sky Sports F1 GB]",
             "matchstr": "Silverstone",
             "time": "15:45",
@@ -783,34 +650,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:15 [DTM] Motorsport: Norisring [Pro Sieben DE]",
-            "matchstr": "Norisring",
-            "time": "14:15",
-            "league": "DTM",
-            "sport": "Motorsport",
-            "team1": "Norisring",
-            "team2": null,
-            "channel": "Pro Sieben DE",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Pro Sieben",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=14"
-                    ],
-                    "number": 14,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=14"
-                    ]
-                }
-            ],
-            "slug": "dtm-motorsport-norisring-2026-07-04-14-15",
-            "startTimestamp": 1783163700000,
-            "duration": 120
-        },
-        {
             "matchText": "16:00 [Europe UEFA U19 European Championship] Spain U19 vs Germany U19 [Sportdigital FUSSBALL DE]",
             "matchstr": "Spain U19 vs Germany U19",
             "time": "16:00",
@@ -836,34 +675,6 @@
             ],
             "slug": "europe-uefa-u19-european-championship-football-spain-u19-germany-u19-2026-07-04-16-00",
             "startTimestamp": 1783170000000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [Super League] Rugby: York RLFC vs Huddersfield Giants [Sportsnet World CA]",
-            "matchstr": "York RLFC vs Huddersfield Giants",
-            "time": "14:30",
-            "league": "Super League",
-            "sport": "Rugby",
-            "team1": "York RLFC",
-            "team2": "Huddersfield Giants",
-            "channel": "Sportsnet World CA",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Sportsnet World",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=35"
-                    ]
-                }
-            ],
-            "slug": "super-league-rugby-york-rlfc-huddersfield-giants-2026-07-04-14-30",
-            "startTimestamp": 1783164600000,
             "duration": 120
         },
         {
@@ -1318,34 +1129,6 @@
             "slug": "canada-canadian-premier-league-football-atl-ottawa-cavalry-2026-07-04-22-00",
             "startTimestamp": 1783191600000,
             "duration": 120
-        },
-        {
-            "matchText": "12:35 [AFL] Australian Football: Carlton Blues vs Richmond Tigers [Fox Soccer Plus US]",
-            "matchstr": "Carlton Blues vs Richmond Tigers",
-            "time": "12:35",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Carlton Blues",
-            "team2": "Richmond Tigers",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-carlton-blues-richmond-tigers-2026-07-04-12-35",
-            "startTimestamp": 1783157700000,
-            "duration": 180
         },
         {
             "matchText": "03:45 [United States NWSL] San Diego Wave vs Gotham FC [TNT Sports 2 GB]",
