@@ -206,12 +206,12 @@
                     ]
                 },
                 {
-                    "name": "Sky Sport Arena",
+                    "name": "Ziggo Sport",
                     "oldLinks": [
                         "https://playfa.st/ch.php?id=47"
                     ],
                     "number": 47,
-                    "language": "IT",
+                    "language": "NL",
                     "links": [
                         "https://s2.kora.st/channel?id=47"
                     ]
@@ -278,12 +278,12 @@
                     ]
                 },
                 {
-                    "name": "Sky Sport Arena",
+                    "name": "Ziggo Sport",
                     "oldLinks": [
                         "https://playfa.st/ch.php?id=47"
                     ],
                     "number": 47,
-                    "language": "IT",
+                    "language": "NL",
                     "links": [
                         "https://s2.kora.st/channel?id=47"
                     ]
@@ -389,89 +389,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [Formula 1] Motorsport: British Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "British Grand Prix",
-            "time": "18:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "British Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=46"
-                    ],
-                    "number": 46,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=46"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-british-grand-prix-2026-07-04-18-00",
-            "startTimestamp": 1783177200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [NBA] Basketball: Golden State Warriors vs Milwaukee Bucks [NBA League Pass US]",
             "matchstr": "Golden State Warriors vs Milwaukee Bucks",
             "time": "22:00",
@@ -498,45 +415,6 @@
             "slug": "nba-basketball-golden-state-warriors-milwaukee-bucks-2026-07-04-22-00",
             "startTimestamp": 1783191600000,
             "duration": 180
-        },
-        {
-            "matchText": "17:00 [Super League] Rugby: Hull FC vs Hull Kingston Rovers [Sportsnet World CA]",
-            "matchstr": "Hull FC vs Hull Kingston Rovers",
-            "time": "17:00",
-            "league": "Super League",
-            "sport": "Rugby",
-            "team1": "Hull FC",
-            "team2": "Hull Kingston Rovers",
-            "channel": "Sportsnet World CA",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Sportsnet World",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=35"
-                    ]
-                },
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "super-league-rugby-hull-fc-hull-kingston-rovers-2026-07-04-17-00",
-            "startTimestamp": 1783173600000,
-            "duration": 120
         },
         {
             "matchText": "19:30 [Super League] Rugby: Warrington Wolves vs Leigh Leopards [Sportsnet World CA]",
@@ -617,34 +495,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [Club Friendly] Ajax vs Panathinaikos [Sport 3 IL]",
-            "matchstr": "Ajax vs Panathinaikos",
-            "time": "18:00",
-            "league": "Club Friendly",
-            "sport": "Football",
-            "team1": "Ajax",
-            "team2": "Panathinaikos",
-            "channel": "Sport 3 IL",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Sport 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=63"
-                    ],
-                    "number": 63,
-                    "language": "IL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=63"
-                    ]
-                }
-            ],
-            "slug": "club-friendly-football-ajax-panathinaikos-2026-07-04-18-00",
-            "startTimestamp": 1783177200000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [Diamond League] Athletics: Diamond League Eugene [SVT2 SE]",
             "matchstr": "Diamond League Eugene",
             "time": "23:00",
@@ -673,34 +523,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:45 [European Rally Championship] Motorsport: ERC Rally di Roma Capitale [TV4 Motor SE]",
-            "matchstr": "ERC Rally di Roma Capitale",
-            "time": "16:45",
-            "league": "European Rally Championship",
-            "sport": "Motorsport",
-            "team1": "ERC Rally di Roma Capitale",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-04-16-45",
-            "startTimestamp": 1783172700000,
-            "duration": 120
-        },
-        {
             "matchText": "19:45 [European Rally Championship] Motorsport: ERC Rally di Roma Capitale [TV4 Motor SE]",
             "matchstr": "ERC Rally di Roma Capitale",
             "time": "19:45",
@@ -726,118 +548,6 @@
             ],
             "slug": "european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-04-19-45",
             "startTimestamp": 1783183500000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Finland Veikkausliiga] VPS vs Mariehamn [Ruutu+ FI]",
-            "matchstr": "VPS vs Mariehamn",
-            "time": "18:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "VPS",
-            "team2": "Mariehamn",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-vps-mariehamn-2026-07-04-18-00",
-            "startTimestamp": 1783177200000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Finland Veikkausliiga] SJK vs TPS [Ruutu+ FI]",
-            "matchstr": "SJK vs TPS",
-            "time": "17:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "SJK",
-            "team2": "TPS",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-sjk-tps-2026-07-04-17-00",
-            "startTimestamp": 1783173600000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Finland Veikkausliiga] Jaro vs Ilves [Ruutu+ FI]",
-            "matchstr": "Jaro vs Ilves",
-            "time": "17:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Jaro",
-            "team2": "Ilves",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-jaro-ilves-2026-07-04-17-00",
-            "startTimestamp": 1783173600000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [IndyCar] Canadian Football: Honda Indy 200 [Fox Sports 1 US]",
-            "matchstr": "Honda Indy 200",
-            "time": "17:00",
-            "league": "IndyCar",
-            "sport": "Canadian Football",
-            "team1": "Honda Indy 200",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-07-04",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "indycar-canadian-football-honda-indy-200-2026-07-04-17-00",
-            "startTimestamp": 1783173600000,
             "duration": 120
         },
         {
