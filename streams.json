@@ -234,89 +234,6 @@
             "duration": 180
         },
         {
-            "matchText": "17:00 [Formula 1] Motorsport: British Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "British Grand Prix",
-            "time": "17:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "British Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=13"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=30"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=46"
-                    ],
-                    "number": 46,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=46"
-                    ]
-                },
-                {
-                    "name": "Canal+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-british-grand-prix-2026-07-05-17-00",
-            "startTimestamp": 1783260000000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [Europe UEFA U19 European Championship] Serbia U19 vs Croatia U19 [Sportdigital FUSSBALL2 DE]",
             "matchstr": "Serbia U19 vs Croatia U19",
             "time": "18:00",
@@ -392,34 +309,6 @@
             ],
             "slug": "indycar-motorsport-honda-indy-200-2026-07-05-19-30",
             "startTimestamp": 1783269000000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:05 [ADAC GT4 Germany] Motorsport: Norisring [Sport1 DE]",
-            "matchstr": "Norisring",
-            "time": "16:05",
-            "league": "ADAC GT4 Germany",
-            "sport": "Motorsport",
-            "team1": "Norisring",
-            "team2": null,
-            "channel": "Sport1 DE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Sport1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=14"
-                    ],
-                    "number": 14,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=14"
-                    ]
-                }
-            ],
-            "slug": "adac-gt4-germany-motorsport-norisring-2026-07-05-16-05",
-            "startTimestamp": 1783256700000,
             "duration": 120
         },
         {
@@ -927,34 +816,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [IndyCar] Motorsport: Honda Indy 200 [Fox Sports 1 US]",
-            "matchstr": "Honda Indy 200",
-            "time": "16:00",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Honda Indy 200",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=81"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-honda-indy-200-2026-07-05-16-00",
-            "startTimestamp": 1783256400000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Canada Canadian Premier League] Supra du Quebec vs Forge [Fox Sports 2 US]",
             "matchstr": "Supra du Quebec vs Forge",
             "time": "20:00",
@@ -980,34 +841,6 @@
             ],
             "slug": "canada-canadian-premier-league-football-supra-du-quebec-forge-2026-07-05-20-00",
             "startTimestamp": 1783270800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Super League] Rugby: Bradford vs Leeds Rhinos [Fox Soccer Plus US]",
-            "matchstr": "Bradford vs Leeds Rhinos",
-            "time": "17:00",
-            "league": "Super League",
-            "sport": "Rugby",
-            "team1": "Bradford",
-            "team2": "Leeds Rhinos",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=83"
-                    ]
-                }
-            ],
-            "slug": "super-league-rugby-bradford-leeds-rhinos-2026-07-05-17-00",
-            "startTimestamp": 1783260000000,
             "duration": 120
         },
         {
