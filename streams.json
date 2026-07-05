@@ -206,112 +206,6 @@
             "duration": 180
         },
         {
-            "matchText": "19:30 [IndyCar] Motorsport: Honda Indy 200 [Sky Sport F1 DE]",
-            "matchstr": "Honda Indy 200",
-            "time": "19:30",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Honda Indy 200",
-            "team2": null,
-            "channel": "Sky Sport F1 DE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=13"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=79"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-honda-indy-200-2026-07-05-19-30",
-            "startTimestamp": 1783269000000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [FIBA World Cup] Basketball: Greece vs Portugal [RTP 2 PT]",
-            "matchstr": "Greece vs Portugal",
-            "time": "19:30",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Greece",
-            "team2": "Portugal",
-            "channel": "RTP 2 PT",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "RTP 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=22"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-greece-portugal-2026-07-05-19-30",
-            "startTimestamp": 1783269000000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [MLB] Baseball: New York Mets vs Atlanta Braves [MLB Pass US]",
-            "matchstr": "New York Mets vs Atlanta Braves",
-            "time": "19:30",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "New York Mets",
-            "team2": "Atlanta Braves",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=32"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-new-york-mets-atlanta-braves-2026-07-05-19-30",
-            "startTimestamp": 1783269000000,
-            "duration": 180
-        },
-        {
             "matchText": "23:00 [MLB] Baseball: San Francisco Giants vs Colorado Rockies [MLB Pass US]",
             "matchstr": "San Francisco Giants vs Colorado Rockies",
             "time": "23:00",
@@ -340,34 +234,6 @@
             "duration": 180
         },
         {
-            "matchText": "20:00 [MLB] Baseball: Pittsburgh Pirates vs Washington Nationals [MLB Pass US]",
-            "matchstr": "Pittsburgh Pirates vs Washington Nationals",
-            "time": "20:00",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Pittsburgh Pirates",
-            "team2": "Washington Nationals",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=33"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-pittsburgh-pirates-washington-nationals-2026-07-05-20-00",
-            "startTimestamp": 1783270800000,
-            "duration": 180
-        },
-        {
             "matchText": "23:00 [MLB] Baseball: Milwaukee Brewers vs Arizona Diamondbacks [MLB Pass US]",
             "matchstr": "Milwaukee Brewers vs Arizona Diamondbacks",
             "time": "23:00",
@@ -393,34 +259,6 @@
             ],
             "slug": "mlb-baseball-milwaukee-brewers-arizona-diamondbacks-2026-07-05-23-00",
             "startTimestamp": 1783281600000,
-            "duration": 180
-        },
-        {
-            "matchText": "20:05 [MLB] Baseball: Baltimore Orioles vs Cincinnati Reds [MLB Pass US]",
-            "matchstr": "Baltimore Orioles vs Cincinnati Reds",
-            "time": "20:05",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Baltimore Orioles",
-            "team2": "Cincinnati Reds",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=34"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-baltimore-orioles-cincinnati-reds-2026-07-05-20-05",
-            "startTimestamp": 1783271100000,
             "duration": 180
         },
         {
@@ -645,90 +483,6 @@
             ],
             "slug": "fiba-world-cup-basketball-montenegro-romania-2026-07-05-21-30",
             "startTimestamp": 1783276200000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Canada Canadian Premier League] Supra du Quebec vs Forge [Fox Sports 2 US]",
-            "matchstr": "Supra du Quebec vs Forge",
-            "time": "20:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Supra du Quebec",
-            "team2": "Forge",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-supra-du-quebec-forge-2026-07-05-20-00",
-            "startTimestamp": 1783270800000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Super League] Rugby: St Helens vs Wigan [Fox Soccer Plus US]",
-            "matchstr": "St Helens vs Wigan",
-            "time": "19:30",
-            "league": "Super League",
-            "sport": "Rugby",
-            "team1": "St Helens",
-            "team2": "Wigan",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=83"
-                    ]
-                }
-            ],
-            "slug": "super-league-rugby-st-helens-wigan-2026-07-05-19-30",
-            "startTimestamp": 1783269000000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Chile Copa Chile] Santiago Wanderers vs Universidad Chile [TNT SPORTS Premium ES]",
-            "matchstr": "Santiago Wanderers vs Universidad Chile",
-            "time": "19:30",
-            "league": "Chile Copa Chile",
-            "sport": "Football",
-            "team1": "Santiago Wanderers",
-            "team2": "Universidad Chile",
-            "channel": "TNT SPORTS Premium ES",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TNT SPORTS Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=85"
-                    ]
-                }
-            ],
-            "slug": "chile-copa-chile-football-santiago-wanderers-universidad-chile-2026-07-05-19-30",
-            "startTimestamp": 1783269000000,
             "duration": 120
         },
         {
@@ -3038,19 +2792,19 @@
             "duration": 120
         },
         {
-            "matchText": "21:30 [Europe UEFA Champions League] Borac Banja Luka vs Levski Sofia [Arena Sport 1 premium BH]",
+            "matchText": "21:30 [Europe UEFA Champions League] Borac Banja Luka vs Levski Sofia [Arena Sport 1 Premium BH]",
             "matchstr": "Borac Banja Luka vs Levski Sofia",
             "time": "21:30",
             "league": "Europe UEFA Champions League",
             "sport": "Football",
             "team1": "Borac Banja Luka",
             "team2": "Levski Sofia",
-            "channel": "Arena Sport 1 premium BH",
+            "channel": "Arena Sport 1 Premium BH",
             "important": false,
             "matchDate": "2026-07-07",
             "channels": [
                 {
-                    "name": "Arena Sport 1 premium",
+                    "name": "Arena Sport 1 Premium",
                     "oldLinks": [
                         "https://playfa.st/ch.php?id=64"
                     ],
@@ -3080,17 +2834,129 @@
                 {
                     "name": "Duna World",
                     "oldLinks": [
-                        "https://playfa.st/ch.php?id=64"
+                        "https://playfa.st/ch.php?id=65"
                     ],
-                    "number": 64,
+                    "number": 65,
                     "language": "HU",
                     "links": [
-                        "https://s2.kora.st/channel.php?id=64"
+                        "https://s2.kora.st/channel.php?id=65"
                     ]
                 }
             ],
             "slug": "europe-uefa-champions-league-football-vikingur-reykjavik-gyori-eto-2026-07-07-22-00",
             "startTimestamp": 1783450800000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Europe UEFA Champions League] Vardar vs KuPS [Arena Sport 1 SR]",
+            "matchstr": "Vardar vs KuPS",
+            "time": "20:00",
+            "league": "Europe UEFA Champions League",
+            "sport": "Football",
+            "team1": "Vardar",
+            "team2": "KuPS",
+            "channel": "Arena Sport 1 SR",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "Arena Sport 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "SR",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=66"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-champions-league-football-vardar-kups-2026-07-07-20-00",
+            "startTimestamp": 1783443600000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:30 [Europe UEFA Champions League] Tre Fiori vs Larne [Arena 4 Premium SR]",
+            "matchstr": "Tre Fiori vs Larne",
+            "time": "21:30",
+            "league": "Europe UEFA Champions League",
+            "sport": "Football",
+            "team1": "Tre Fiori",
+            "team2": "Larne",
+            "channel": "Arena 4 Premium SR",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "Arena 4 Premium",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=67"
+                    ],
+                    "number": 67,
+                    "language": "SR",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=67"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-champions-league-football-tre-fiori-larne-2026-07-07-21-30",
+            "startTimestamp": 1783449000000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:30 [Friendly Club Match] CSKA 1948 Sofia vs Zeleznicar [Arena 2 Premium SR]",
+            "matchstr": "CSKA 1948 Sofia vs Zeleznicar",
+            "time": "18:30",
+            "league": "Friendly Club Match",
+            "sport": "Football",
+            "team1": "CSKA 1948 Sofia",
+            "team2": "Zeleznicar",
+            "channel": "Arena 2 Premium SR",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "Arena 2 Premium",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "SR",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=68"
+                    ]
+                }
+            ],
+            "slug": "friendly-club-match-football-cska-1948-sofia-zeleznicar-2026-07-07-18-30",
+            "startTimestamp": 1783438200000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Friendly Club Match] Buducnost vs Radnicki 1923 [Arena Premium 2 BH]",
+            "matchstr": "Buducnost vs Radnicki 1923",
+            "time": "19:30",
+            "league": "Friendly Club Match",
+            "sport": "Football",
+            "team1": "Buducnost",
+            "team2": "Radnicki 1923",
+            "channel": "Arena Premium 2 BH",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "Arena Premium 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "BH",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=69"
+                    ]
+                }
+            ],
+            "slug": "friendly-club-match-football-buducnost-radnicki-1923-2026-07-07-19-30",
+            "startTimestamp": 1783441800000,
             "duration": 120
         },
         {

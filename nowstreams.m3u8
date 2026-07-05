@@ -27,24 +27,10 @@ https://s2.kora.st/channel.php?id=100
 https://s2.kora.st/channel.php?id=5
 #EXTINF:-1 tvg-id="nba-basketball-los-angeles-lakers-miami-heat-2026-07-05-23-30" group-title="NBA",Los Angeles Lakers vs Miami Heat (NBA League Pass)
 https://s2.kora.st/channel.php?id=6
-#EXTINF:-1 tvg-id="indycar-motorsport-honda-indy-200-2026-07-05-19-30" group-title="IndyCar",Honda Indy 200 (Sky Sport F1)
-https://s2.kora.st/channel.php?id=13
-#EXTINF:-1 tvg-id="indycar-motorsport-honda-indy-200-2026-07-05-19-30" group-title="IndyCar",Honda Indy 200 (Canal+ Sport)
-https://s2.kora.st/channel.php?id=55
-#EXTINF:-1 tvg-id="indycar-motorsport-honda-indy-200-2026-07-05-19-30" group-title="IndyCar",Honda Indy 200 (V Sport Motor)
-https://s2.kora.st/channel.php?id=79
-#EXTINF:-1 tvg-id="fiba-world-cup-basketball-greece-portugal-2026-07-05-19-30" group-title="FIBA World Cup",Greece vs Portugal (RTP 2)
-https://s2.kora.st/channel.php?id=22
-#EXTINF:-1 tvg-id="mlb-baseball-new-york-mets-atlanta-braves-2026-07-05-19-30" group-title="MLB",New York Mets vs Atlanta Braves (MLB Pass)
-https://s2.kora.st/channel.php?id=32
 #EXTINF:-1 tvg-id="mlb-baseball-san-francisco-giants-colorado-rockies-2026-07-05-23-00" group-title="MLB",San Francisco Giants vs Colorado Rockies (MLB Pass)
 https://s2.kora.st/channel.php?id=32
-#EXTINF:-1 tvg-id="mlb-baseball-pittsburgh-pirates-washington-nationals-2026-07-05-20-00" group-title="MLB",Pittsburgh Pirates vs Washington Nationals (MLB Pass)
-https://s2.kora.st/channel.php?id=33
 #EXTINF:-1 tvg-id="mlb-baseball-milwaukee-brewers-arizona-diamondbacks-2026-07-05-23-00" group-title="MLB",Milwaukee Brewers vs Arizona Diamondbacks (MLB Pass)
 https://s2.kora.st/channel.php?id=33
-#EXTINF:-1 tvg-id="mlb-baseball-baltimore-orioles-cincinnati-reds-2026-07-05-20-05" group-title="MLB",Baltimore Orioles vs Cincinnati Reds (MLB Pass)
-https://s2.kora.st/channel.php?id=34
 #EXTINF:-1 tvg-id="mlb-baseball-miami-marlins-athletics-2026-07-05-23-30" group-title="MLB",Miami Marlins vs Athletics (MLB Pass)
 https://s2.kora.st/channel.php?id=34
 #EXTINF:-1 tvg-id="mlb-baseball-minnesota-twins-new-york-yankees-2026-07-05-20-35" group-title="MLB",Minnesota Twins vs New York Yankees (MLB Pass)
@@ -61,12 +47,6 @@ https://s2.kora.st/channel.php?id=39
 https://s2.kora.st/channel.php?id=40
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-montenegro-romania-2026-07-05-21-30" group-title="FIBA World Cup",Montenegro vs Romania (Arena Premium 2)
 https://s2.kora.st/channel.php?id=62
-#EXTINF:-1 tvg-id="canada-canadian-premier-league-football-supra-du-quebec-forge-2026-07-05-20-00" group-title="Canada Canadian Premier League",Supra du Quebec vs Forge (Fox Sports 2)
-https://s2.kora.st/channel.php?id=82
-#EXTINF:-1 tvg-id="super-league-rugby-st-helens-wigan-2026-07-05-19-30" group-title="Super League",St Helens vs Wigan (Fox Soccer Plus)
-https://s2.kora.st/channel.php?id=83
-#EXTINF:-1 tvg-id="chile-copa-chile-football-santiago-wanderers-universidad-chile-2026-07-05-19-30" group-title="Chile Copa Chile",Santiago Wanderers vs Universidad Chile (TNT SPORTS Premium)
-https://s2.kora.st/channel.php?id=85
 #EXTINF:-1 tvg-id="chile-copa-chile-football-nublense-curico-unido-2026-07-05-22-00" group-title="Chile Copa Chile",Nublense vs Curicó Unido (TNT SPORTS Premium)
 https://s2.kora.st/channel.php?id=85
 #EXTINF:-1 tvg-id="fifa-world-cup-football-mexico-england-2026-07-06-03-00" group-title="FIFA World Cup",Mexico vs England (BBC One)
@@ -307,10 +287,18 @@ https://s2.kora.st/channel.php?id=39
 https://s2.kora.st/channel.php?id=40
 #EXTINF:-1 tvg-id="europe-uefa-champions-league-football-floriana-shamrock-rovers-2026-07-07-20-30" group-title="Europe UEFA Champions League",Floriana vs Shamrock Rovers (TVMSport+)
 https://s2.kora.st/channel.php?id=63
-#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-borac-banja-luka-levski-sofia-2026-07-07-21-30" group-title="Europe UEFA Champions League",Borac Banja Luka vs Levski Sofia (Arena Sport 1 premium)
+#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-borac-banja-luka-levski-sofia-2026-07-07-21-30" group-title="Europe UEFA Champions League",Borac Banja Luka vs Levski Sofia (Arena Sport 1 Premium)
 https://s2.kora.st/channel.php?id=64
 #EXTINF:-1 tvg-id="europe-uefa-champions-league-football-vikingur-reykjavik-gyori-eto-2026-07-07-22-00" group-title="Europe UEFA Champions League",Víkingur Reykjavík vs Győri ETO (Duna World)
-https://s2.kora.st/channel.php?id=64
+https://s2.kora.st/channel.php?id=65
+#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-vardar-kups-2026-07-07-20-00" group-title="Europe UEFA Champions League",Vardar vs KuPS (Arena Sport 1)
+https://s2.kora.st/channel.php?id=66
+#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-tre-fiori-larne-2026-07-07-21-30" group-title="Europe UEFA Champions League",Tre Fiori vs Larne (Arena 4 Premium)
+https://s2.kora.st/channel.php?id=67
+#EXTINF:-1 tvg-id="friendly-club-match-football-cska-1948-sofia-zeleznicar-2026-07-07-18-30" group-title="Friendly Club Match",CSKA 1948 Sofia vs Zeleznicar (Arena 2 Premium)
+https://s2.kora.st/channel.php?id=68
+#EXTINF:-1 tvg-id="friendly-club-match-football-buducnost-radnicki-1923-2026-07-07-19-30" group-title="Friendly Club Match",Buducnost vs Radnicki 1923 (Arena Premium 2)
+https://s2.kora.st/channel.php?id=69
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-jamaica-canada-2026-07-07-02-10" group-title="FIBA World Cup",Jamaica vs Canada (Fox Sports 2)
 https://s2.kora.st/channel.php?id=85
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-mexico-usa-2026-07-07-05-00" group-title="FIBA World Cup",Mexico vs USA (Fox Sports 2)
