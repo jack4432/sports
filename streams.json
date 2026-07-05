@@ -150,34 +150,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [United States NWSL] Boston Legacy vs Bay FC [ESPN US]",
-            "matchstr": "Boston Legacy vs Bay FC",
-            "time": "19:00",
-            "league": "United States NWSL",
-            "sport": "Football",
-            "team1": "Boston Legacy",
-            "team2": "Bay FC",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=3"
-                    ]
-                }
-            ],
-            "slug": "united-states-nwsl-football-boston-legacy-bay-fc-2026-07-05-19-00",
-            "startTimestamp": 1783267200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [NBA] Basketball: Milwaukee Bucks vs Brooklyn Nets [NBA League Pass US]",
             "matchstr": "Milwaukee Bucks vs Brooklyn Nets",
             "time": "22:00",
@@ -234,34 +206,6 @@
             "duration": 180
         },
         {
-            "matchText": "18:00 [Europe UEFA U19 European Championship] Serbia U19 vs Croatia U19 [Sportdigital FUSSBALL2 DE]",
-            "matchstr": "Serbia U19 vs Croatia U19",
-            "time": "18:00",
-            "league": "Europe UEFA U19 European Championship",
-            "sport": "Football",
-            "team1": "Serbia U19",
-            "team2": "Croatia U19",
-            "channel": "Sportdigital FUSSBALL2 DE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=12"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u19-european-championship-football-serbia-u19-croatia-u19-2026-07-05-18-00",
-            "startTimestamp": 1783263600000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [IndyCar] Motorsport: Honda Indy 200 [Sky Sport F1 DE]",
             "matchstr": "Honda Indy 200",
             "time": "19:30",
@@ -312,34 +256,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [Europe UEFA U19 European Championship] Ukraine U19 vs Italy U19 [Sportdigital FUSSBALL DE]",
-            "matchstr": "Ukraine U19 vs Italy U19",
-            "time": "18:00",
-            "league": "Europe UEFA U19 European Championship",
-            "sport": "Football",
-            "team1": "Ukraine U19",
-            "team2": "Italy U19",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=19"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u19-european-championship-football-ukraine-u19-italy-u19-2026-07-05-18-00",
-            "startTimestamp": 1783263600000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [FIBA World Cup] Basketball: Greece vs Portugal [RTP 2 PT]",
             "matchstr": "Greece vs Portugal",
             "time": "19:30",
@@ -365,34 +281,6 @@
             ],
             "slug": "fiba-world-cup-basketball-greece-portugal-2026-07-05-19-30",
             "startTimestamp": 1783269000000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:30 [FIBA World Cup] Basketball: Georgia vs Spain [Vamos ES]",
-            "matchstr": "Georgia vs Spain",
-            "time": "18:30",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Georgia",
-            "team2": "Spain",
-            "channel": "Vamos ES",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Vamos",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=28"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-georgia-spain-2026-07-05-18-30",
-            "startTimestamp": 1783265400000,
             "duration": 120
         },
         {
@@ -732,34 +620,6 @@
             "duration": 180
         },
         {
-            "matchText": "19:00 [FIBA World Cup] Basketball: Slovakia vs Kosovo [JOJ Sport SK]",
-            "matchstr": "Slovakia vs Kosovo",
-            "time": "19:00",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Slovakia",
-            "team2": "Kosovo",
-            "channel": "JOJ Sport SK",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "JOJ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "SK",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=41"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-slovakia-kosovo-2026-07-05-19-00",
-            "startTimestamp": 1783267200000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [FIBA World Cup] Basketball: Montenegro vs Romania [Arena Premium 2 RS]",
             "matchstr": "Montenegro vs Romania",
             "time": "21:30",
@@ -785,34 +645,6 @@
             ],
             "slug": "fiba-world-cup-basketball-montenegro-romania-2026-07-05-21-30",
             "startTimestamp": 1783276200000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [Sweden Allsvenskan] Elfsborg vs Hammarby [TV4 Play SE]",
-            "matchstr": "Elfsborg vs Hammarby",
-            "time": "17:30",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Elfsborg",
-            "team2": "Hammarby",
-            "channel": "TV4 Play SE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TV4 Play",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-elfsborg-hammarby-2026-07-05-17-30",
-            "startTimestamp": 1783261800000,
             "duration": 120
         },
         {

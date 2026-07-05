@@ -23,26 +23,18 @@ https://s2.kora.st/channel.php?id=72
 https://s2.kora.st/channel.php?id=88
 #EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (DAZN Mundial)
 https://s2.kora.st/channel.php?id=100
-#EXTINF:-1 tvg-id="united-states-nwsl-football-boston-legacy-bay-fc-2026-07-05-19-00" group-title="United States NWSL",Boston Legacy vs Bay FC (ESPN)
-https://s2.kora.st/channel.php?id=3
 #EXTINF:-1 tvg-id="nba-basketball-milwaukee-bucks-brooklyn-nets-2026-07-05-22-00" group-title="NBA",Milwaukee Bucks vs Brooklyn Nets (NBA League Pass)
 https://s2.kora.st/channel.php?id=5
 #EXTINF:-1 tvg-id="nba-basketball-los-angeles-lakers-miami-heat-2026-07-05-23-30" group-title="NBA",Los Angeles Lakers vs Miami Heat (NBA League Pass)
 https://s2.kora.st/channel.php?id=6
-#EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-serbia-u19-croatia-u19-2026-07-05-18-00" group-title="Europe UEFA U19 European Championship",Serbia U19 vs Croatia U19 (Sportdigital FUSSBALL2)
-https://s2.kora.st/channel.php?id=12
 #EXTINF:-1 tvg-id="indycar-motorsport-honda-indy-200-2026-07-05-19-30" group-title="IndyCar",Honda Indy 200 (Sky Sport F1)
 https://s2.kora.st/channel.php?id=13
 #EXTINF:-1 tvg-id="indycar-motorsport-honda-indy-200-2026-07-05-19-30" group-title="IndyCar",Honda Indy 200 (Canal+ Sport)
 https://s2.kora.st/channel.php?id=55
 #EXTINF:-1 tvg-id="indycar-motorsport-honda-indy-200-2026-07-05-19-30" group-title="IndyCar",Honda Indy 200 (V Sport Motor)
 https://s2.kora.st/channel.php?id=79
-#EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-ukraine-u19-italy-u19-2026-07-05-18-00" group-title="Europe UEFA U19 European Championship",Ukraine U19 vs Italy U19 (Sportdigital FUSSBALL)
-https://s2.kora.st/channel.php?id=19
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-greece-portugal-2026-07-05-19-30" group-title="FIBA World Cup",Greece vs Portugal (RTP 2)
 https://s2.kora.st/channel.php?id=22
-#EXTINF:-1 tvg-id="fiba-world-cup-basketball-georgia-spain-2026-07-05-18-30" group-title="FIBA World Cup",Georgia vs Spain (Vamos)
-https://s2.kora.st/channel.php?id=28
 #EXTINF:-1 tvg-id="mlb-baseball-new-york-mets-atlanta-braves-2026-07-05-19-30" group-title="MLB",New York Mets vs Atlanta Braves (MLB Pass)
 https://s2.kora.st/channel.php?id=32
 #EXTINF:-1 tvg-id="mlb-baseball-san-francisco-giants-colorado-rockies-2026-07-05-23-00" group-title="MLB",San Francisco Giants vs Colorado Rockies (MLB Pass)
@@ -67,12 +59,8 @@ https://s2.kora.st/channel.php?id=38
 https://s2.kora.st/channel.php?id=39
 #EXTINF:-1 tvg-id="mlb-baseball-detroit-tigers-texas-rangers-2026-07-05-22-30" group-title="MLB",Detroit Tigers vs Texas Rangers (MLB Pass)
 https://s2.kora.st/channel.php?id=40
-#EXTINF:-1 tvg-id="fiba-world-cup-basketball-slovakia-kosovo-2026-07-05-19-00" group-title="FIBA World Cup",Slovakia vs Kosovo (JOJ Sport)
-https://s2.kora.st/channel.php?id=41
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-montenegro-romania-2026-07-05-21-30" group-title="FIBA World Cup",Montenegro vs Romania (Arena Premium 2)
 https://s2.kora.st/channel.php?id=62
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-elfsborg-hammarby-2026-07-05-17-30" group-title="Sweden Allsvenskan",Elfsborg vs Hammarby (TV4 Play)
-https://s2.kora.st/channel.php?id=75
 #EXTINF:-1 tvg-id="canada-canadian-premier-league-football-supra-du-quebec-forge-2026-07-05-20-00" group-title="Canada Canadian Premier League",Supra du Quebec vs Forge (Fox Sports 2)
 https://s2.kora.st/channel.php?id=82
 #EXTINF:-1 tvg-id="super-league-rugby-st-helens-wigan-2026-07-05-19-30" group-title="Super League",St Helens vs Wigan (Fox Soccer Plus)
