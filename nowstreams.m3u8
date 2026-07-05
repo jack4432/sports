@@ -1,4 +1,28 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (ITV1)
+https://s2.kora.st/channel?id=1
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (SBS)
+https://s2.kora.st/channel?id=9
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (FOX)
+https://s2.kora.st/channel?id=10
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (MagentaTV)
+https://s2.kora.st/channel?id=11
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (TSN1)
+https://s2.kora.st/channel?id=31
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (RAI 1)
+https://s2.kora.st/channel?id=47
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (M6)
+https://s2.kora.st/channel?id=56
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (TVP Sport)
+https://s2.kora.st/channel?id=60
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (HRT 2)
+https://s2.kora.st/channel?id=70
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (YLE TV2)
+https://s2.kora.st/channel?id=72
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (NPO 1)
+https://s2.kora.st/channel?id=88
+#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (DAZN Mundial)
+https://s2.kora.st/channel?id=100
 #EXTINF:-1 tvg-id="united-states-nwsl-football-boston-legacy-bay-fc-2026-07-05-19-00" group-title="United States NWSL",Boston Legacy vs Bay FC (ESPN)
 https://s2.kora.st/channel?id=3
 #EXTINF:-1 tvg-id="nba-basketball-milwaukee-bucks-brooklyn-nets-2026-07-05-22-00" group-title="NBA",Milwaukee Bucks vs Brooklyn Nets (NBA League Pass)
@@ -41,28 +65,6 @@ https://s2.kora.st/channel?id=46
 https://s2.kora.st/channel?id=55
 #EXTINF:-1 tvg-id="formula-1-motorsport-british-grand-prix-2026-07-05-17-00" group-title="Formula 1",British Grand Prix (V Sport Motor)
 https://s2.kora.st/channel?id=79
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (SBS)
-https://s2.kora.st/channel?id=9
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (FOX)
-https://s2.kora.st/channel?id=10
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (MagentaTV)
-https://s2.kora.st/channel?id=11
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (TSN1)
-https://s2.kora.st/channel?id=31
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (RAI 1)
-https://s2.kora.st/channel?id=47
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (M6)
-https://s2.kora.st/channel?id=56
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (TVP Sport)
-https://s2.kora.st/channel?id=60
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (HRT 2)
-https://s2.kora.st/channel?id=70
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (YLE TV2)
-https://s2.kora.st/channel?id=72
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (NPO 1)
-https://s2.kora.st/channel?id=88
-#EXTINF:-1 tvg-id="fifa-world-cup-football-brazil-norway-2026-07-05-23-00" group-title="FIFA World Cup",Brazil vs Norway (DAZN Mundial)
-https://s2.kora.st/channel?id=100
 #EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-serbia-u19-croatia-u19-2026-07-05-18-00" group-title="Europe UEFA U19 European Championship",Serbia U19 vs Croatia U19 (Sportdigital FUSSBALL2)
 https://s2.kora.st/channel?id=12
 #EXTINF:-1 tvg-id="indycar-motorsport-honda-indy-200-2026-07-05-19-30" group-title="IndyCar",Honda Indy 200 (Sky Sport F1)
@@ -75,8 +77,6 @@ https://s2.kora.st/channel?id=79
 https://s2.kora.st/channel?id=14
 #EXTINF:-1 tvg-id="dtm-motorsport-norisring-2026-07-05-14-15" group-title="DTM",Norisring (Pro Sieben)
 https://s2.kora.st/channel?id=15
-#EXTINF:-1 tvg-id="formula-e-motorsport-shanghai-e-prix-2026-07-05-05-40" group-title="Formula E",Shanghai E vs Prix (DF1)
-https://s2.kora.st/channel?id=16
 #EXTINF:-1 tvg-id="formula-e-motorsport-shanghai-e-prix-2026-07-05-10-00" group-title="Formula E",Shanghai E vs Prix (DF1)
 https://s2.kora.st/channel?id=16
 #EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-ukraine-u19-italy-u19-2026-07-05-18-00" group-title="Europe UEFA U19 European Championship",Ukraine U19 vs Italy U19 (Sportdigital FUSSBALL)
@@ -101,8 +101,6 @@ https://s2.kora.st/channel?id=75
 https://s2.kora.st/channel?id=75
 #EXTINF:-1 tvg-id="indycar-motorsport-honda-indy-200-2026-07-05-16-00" group-title="IndyCar",Honda Indy 200 (Fox Sports 1)
 https://s2.kora.st/channel?id=81
-#EXTINF:-1 tvg-id="nrl-rugby-manly-sea-eagles-parramatta-eels-2026-07-05-07-00" group-title="NRL",Manly Sea Eagles vs Parramatta Eels (Fox Sports 2)
-https://s2.kora.st/channel?id=82
 #EXTINF:-1 tvg-id="afl-australian-football-north-melbourne-kangaroos-port-adelaide-power-2026-07-05-09-40" group-title="AFL",North Melbourne Kangaroos vs Port Adelaide Power (Fox Sports 2)
 https://s2.kora.st/channel?id=82
 #EXTINF:-1 tvg-id="canada-canadian-premier-league-football-supra-du-quebec-forge-2026-07-05-20-00" group-title="Canada Canadian Premier League",Supra du Quebec vs Forge (Fox Sports 2)
@@ -206,4 +204,138 @@ https://s2.kora.st/channel?id=82
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-uruguay-cuba-2026-07-06-00-30" group-title="FIBA World Cup",Uruguay vs Cuba (FOX Sports 2)
 https://s2.kora.st/channel?id=85
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-panama-argentina-2026-07-06-03-00" group-title="FIBA World Cup",Panama vs Argentina (FOX Sports 2)
+https://s2.kora.st/channel?id=85
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (BBC One)
+https://s2.kora.st/channel?id=1
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (FOX)
+https://s2.kora.st/channel?id=10
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (MagentaTV)
+https://s2.kora.st/channel?id=11
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (TSN1)
+https://s2.kora.st/channel?id=31
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (beIN Sports 1)
+https://s2.kora.st/channel?id=51
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (TVP2)
+https://s2.kora.st/channel?id=62
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (HRT 2)
+https://s2.kora.st/channel?id=70
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (MTV Urheilu 1)
+https://s2.kora.st/channel?id=71
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (TV4 Sweden)
+https://s2.kora.st/channel?id=74
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (NPO 1)
+https://s2.kora.st/channel?id=88
+#EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (DAZN Mundial)
+https://s2.kora.st/channel?id=100
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (ITV 1)
+https://s2.kora.st/channel?id=1
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (FOX)
+https://s2.kora.st/channel?id=10
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (MagentaTV)
+https://s2.kora.st/channel?id=11
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (TSN1)
+https://s2.kora.st/channel?id=31
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (DAZN)
+https://s2.kora.st/channel?id=47
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (beIN Sports 1)
+https://s2.kora.st/channel?id=51
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (TVP2)
+https://s2.kora.st/channel?id=62
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (HRT 2)
+https://s2.kora.st/channel?id=70
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (YLE TV2)
+https://s2.kora.st/channel?id=72
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (TV4 Sweden)
+https://s2.kora.st/channel?id=74
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (NPO 1)
+https://s2.kora.st/channel?id=88
+#EXTINF:-1 tvg-id="fifa-world-cup-football-argentina-egypt-2026-07-07-19-00" group-title="FIFA World Cup",Argentina vs Egypt (DAZN Mundial)
+https://s2.kora.st/channel?id=100
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (ITV 1)
+https://s2.kora.st/channel?id=1
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (FOX)
+https://s2.kora.st/channel?id=10
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (MagentaTV)
+https://s2.kora.st/channel?id=11
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (TSN1)
+https://s2.kora.st/channel?id=31
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (DAZN)
+https://s2.kora.st/channel?id=47
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (beIN Sports 1)
+https://s2.kora.st/channel?id=51
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (TVP1)
+https://s2.kora.st/channel?id=61
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (HRT 2)
+https://s2.kora.st/channel?id=70
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (SVT 1)
+https://s2.kora.st/channel?id=71
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (YLE TV2)
+https://s2.kora.st/channel?id=72
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (NPO 1)
+https://s2.kora.st/channel?id=88
+#EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (DAZN Mundial)
+https://s2.kora.st/channel?id=100
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-ireland-u20-united-states-u20-2026-07-07-12-00" group-title="World Rugby U20 Championship",Ireland U20 vs United States U20 (Premier Sports 2)
+https://s2.kora.st/channel?id=2
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-ireland-u20-united-states-u20-2026-07-07-12-00" group-title="World Rugby U20 Championship",Ireland U20 vs United States U20 (Sky Sport 2)
+https://s2.kora.st/channel?id=32
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-argentina-u20-england-u20-2026-07-07-14-30" group-title="World Rugby U20 Championship",Argentina U20 vs England U20 (Premier Sports 2)
+https://s2.kora.st/channel?id=2
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-argentina-u20-england-u20-2026-07-07-14-30" group-title="World Rugby U20 Championship",Argentina U20 vs England U20 (Sky Sport 2)
+https://s2.kora.st/channel?id=32
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-france-u20-australia-u20-2026-07-07-17-00" group-title="World Rugby U20 Championship",France U20 vs Australia U20 (Premier Sports 2)
+https://s2.kora.st/channel?id=2
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-france-u20-australia-u20-2026-07-07-17-00" group-title="World Rugby U20 Championship",France U20 vs Australia U20 (Sky Sport 2)
+https://s2.kora.st/channel?id=32
+#EXTINF:-1 tvg-id="world-club-friendly-football-shelbourne-celtic-2026-07-07-20-00" group-title="World Club Friendly",Shelbourne vs Celtic (Premier Sports 2)
+https://s2.kora.st/channel?id=2
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-new-zealand-u20-italy-u20-2026-07-07-12-00" group-title="World Rugby U20 Championship",New Zealand U20 vs Italy U20 (Premier Sports 1)
+https://s2.kora.st/channel?id=3
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-new-zealand-u20-italy-u20-2026-07-07-12-00" group-title="World Rugby U20 Championship",New Zealand U20 vs Italy U20 (Sky Sport 1)
+https://s2.kora.st/channel?id=33
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-scotland-u20-japan-u20-2026-07-07-14-30" group-title="World Rugby U20 Championship",Scotland U20 vs Japan U20 (Premier Sports 1)
+https://s2.kora.st/channel?id=3
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-scotland-u20-japan-u20-2026-07-07-14-30" group-title="World Rugby U20 Championship",Scotland U20 vs Japan U20 (Sky Sport 3)
+https://s2.kora.st/channel?id=33
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-south-africa-u20-wales-u20-2026-07-07-17-00" group-title="World Rugby U20 Championship",South Africa U20 vs Wales U20 (Premier Sports 1)
+https://s2.kora.st/channel?id=3
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-south-africa-u20-wales-u20-2026-07-07-17-00" group-title="World Rugby U20 Championship",South Africa U20 vs Wales U20 (CBS Sports Network)
+https://s2.kora.st/channel?id=8
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-south-africa-u20-wales-u20-2026-07-07-17-00" group-title="World Rugby U20 Championship",South Africa U20 vs Wales U20 (Sky Sport 3)
+https://s2.kora.st/channel?id=33
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-georgia-u20-uruguay-u20-2026-07-07-19-30" group-title="World Rugby U20 Championship",Georgia U20 vs Uruguay U20 (Premier Sports 1)
+https://s2.kora.st/channel?id=3
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-georgia-u20-uruguay-u20-2026-07-07-19-30" group-title="World Rugby U20 Championship",Georgia U20 vs Uruguay U20 (Sky Sport 2)
+https://s2.kora.st/channel?id=32
+#EXTINF:-1 tvg-id="nba-basketball-atlanta-hawks-oklahoma-city-thunder-2026-07-07-02-00" group-title="NBA",Atlanta Hawks vs Oklahoma City Thunder (ESPN)
+https://s2.kora.st/channel?id=4
+#EXTINF:-1 tvg-id="nba-basketball-memphis-grizzlies-utah-jazz-2026-07-07-04-00" group-title="NBA",Memphis Grizzlies vs Utah Jazz (ESPN)
+https://s2.kora.st/channel?id=4
+#EXTINF:-1 tvg-id="nba-basketball-los-angeles-lakers-san-antonio-spurs-2026-07-07-02-30" group-title="NBA",Los Angeles Lakers vs San Antonio Spurs (ESPN U)
+https://s2.kora.st/channel?id=5
+#EXTINF:-1 tvg-id="nba-basketball-milwaukee-bucks-sacramento-kings-2026-07-07-05-00" group-title="NBA",Milwaukee Bucks vs Sacramento Kings (ESPN U)
+https://s2.kora.st/channel?id=5
+#EXTINF:-1 tvg-id="nba-basketball-golden-state-warriors-brooklyn-nets-2026-07-07-03-00" group-title="NBA",Golden State Warriors vs Brooklyn Nets (NBA TV)
+https://s2.kora.st/channel?id=6
+#EXTINF:-1 tvg-id="nba-basketball-miami-heat-golden-state-warriors-2026-07-07-05-00" group-title="NBA",Miami Heat vs Golden State Warriors (NBA TV)
+https://s2.kora.st/channel?id=6
+#EXTINF:-1 tvg-id="fiba-world-cup-basketball-colombia-brazil-2026-07-07-03-10" group-title="FIBA World Cup",Colombia vs Brazil (DAZN)
+https://s2.kora.st/channel?id=7
+#EXTINF:-1 tvg-id="wnba-basketball-seattle-storm-los-angeles-sparks-2026-07-07-05-00" group-title="WNBA",Seattle Storm vs Los Angeles Sparks (USA Network)
+https://s2.kora.st/channel?id=9
+#EXTINF:-1 tvg-id="chile-copa-chile-football-colo-colo-recoleta-2026-07-07-02-30" group-title="Chile Copa Chile",Colo-Colo vs Recoleta (TNT SPORTS Premium)
+https://s2.kora.st/channel?id=27
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-jamaica-canada-2026-07-07-02-10" group-title="World Rugby U20 Championship",Jamaica vs Canada (TSN2)
+https://s2.kora.st/channel?id=32
+#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-spain-u20-fiji-u20-2026-07-07-19-30" group-title="World Rugby U20 Championship",Spain U20 vs Fiji U20 (Sky Sport 3)
+https://s2.kora.st/channel?id=33
+#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-floriana-shamrock-rovers-2026-07-07-20-30" group-title="Europe UEFA Champions League",Floriana vs Shamrock Rovers (TVMSport+)
+https://s2.kora.st/channel?id=63
+#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-borac-banja-luka-levski-sofia-2026-07-07-21-30" group-title="Europe UEFA Champions League",Borac Banja Luka vs Levski Sofia (Arena Sport 1 premium)
+https://s2.kora.st/channel?id=64
+#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-vikingur-reykjavik-gyori-eto-2026-07-07-22-00" group-title="Europe UEFA Champions League",Víkingur Reykjavík vs Győri ETO (Duna World)
+https://s2.kora.st/channel?id=64
+#EXTINF:-1 tvg-id="fiba-world-cup-basketball-jamaica-canada-2026-07-07-02-10" group-title="FIBA World Cup",Jamaica vs Canada (Fox Sports 2)
+https://s2.kora.st/channel?id=85
+#EXTINF:-1 tvg-id="fiba-world-cup-basketball-mexico-usa-2026-07-07-05-00" group-title="FIBA World Cup",Mexico vs USA (Fox Sports 2)
 https://s2.kora.st/channel?id=85
