@@ -423,34 +423,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:15 [DTM] Motorsport: Norisring [Pro Sieben DE]",
-            "matchstr": "Norisring",
-            "time": "14:15",
-            "league": "DTM",
-            "sport": "Motorsport",
-            "team1": "Norisring",
-            "team2": null,
-            "channel": "Pro Sieben DE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Pro Sieben",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=15"
-                    ],
-                    "number": 15,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=15"
-                    ]
-                }
-            ],
-            "slug": "dtm-motorsport-norisring-2026-07-05-14-15",
-            "startTimestamp": 1783250100000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [Europe UEFA U19 European Championship] Ukraine U19 vs Italy U19 [Sportdigital FUSSBALL DE]",
             "matchstr": "Ukraine U19 vs Italy U19",
             "time": "18:00",
@@ -927,62 +899,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Sweden Allsvenskan] Kalmar vs \u00d6rgryte [TV4 Sport Live 2 SE]",
-            "matchstr": "Kalmar vs \u00d6rgryte",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Kalmar",
-            "team2": "\u00d6rgryte",
-            "channel": "TV4 Sport Live 2 SE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=72"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-kalmar-orgryte-2026-07-05-15-00",
-            "startTimestamp": 1783252800000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Sweden Allsvenskan] IFK G\u00f6teborg vs AIK [TV4 Play SE]",
-            "matchstr": "IFK G\u00f6teborg vs AIK",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "IFK G\u00f6teborg",
-            "team2": "AIK",
-            "channel": "TV4 Play SE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TV4 Play",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-ifk-goteborg-aik-2026-07-05-15-00",
-            "startTimestamp": 1783252800000,
-            "duration": 120
-        },
-        {
             "matchText": "17:30 [Sweden Allsvenskan] Elfsborg vs Hammarby [TV4 Play SE]",
             "matchstr": "Elfsborg vs Hammarby",
             "time": "17:30",
@@ -1064,34 +980,6 @@
             ],
             "slug": "canada-canadian-premier-league-football-supra-du-quebec-forge-2026-07-05-20-00",
             "startTimestamp": 1783270800000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [Super League] Rugby: Castleford Tigers vs Wakefield Trinity [Fox Soccer Plus US]",
-            "matchstr": "Castleford Tigers vs Wakefield Trinity",
-            "time": "14:30",
-            "league": "Super League",
-            "sport": "Rugby",
-            "team1": "Castleford Tigers",
-            "team2": "Wakefield Trinity",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=83"
-                    ]
-                }
-            ],
-            "slug": "super-league-rugby-castleford-tigers-wakefield-trinity-2026-07-05-14-30",
-            "startTimestamp": 1783251000000,
             "duration": 120
         },
         {

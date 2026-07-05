@@ -51,8 +51,6 @@ https://s2.kora.st/channel.php?id=55
 https://s2.kora.st/channel.php?id=79
 #EXTINF:-1 tvg-id="adac-gt4-germany-motorsport-norisring-2026-07-05-16-05" group-title="ADAC GT4 Germany",Norisring (Sport1)
 https://s2.kora.st/channel.php?id=14
-#EXTINF:-1 tvg-id="dtm-motorsport-norisring-2026-07-05-14-15" group-title="DTM",Norisring (Pro Sieben)
-https://s2.kora.st/channel.php?id=15
 #EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-ukraine-u19-italy-u19-2026-07-05-18-00" group-title="Europe UEFA U19 European Championship",Ukraine U19 vs Italy U19 (Sportdigital FUSSBALL)
 https://s2.kora.st/channel.php?id=19
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-greece-portugal-2026-07-05-19-30" group-title="FIBA World Cup",Greece vs Portugal (RTP 2)
@@ -87,18 +85,12 @@ https://s2.kora.st/channel.php?id=40
 https://s2.kora.st/channel.php?id=41
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-montenegro-romania-2026-07-05-21-30" group-title="FIBA World Cup",Montenegro vs Romania (Arena Premium 2)
 https://s2.kora.st/channel.php?id=62
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-kalmar-orgryte-2026-07-05-15-00" group-title="Sweden Allsvenskan",Kalmar vs Örgryte (TV4 Sport Live 2)
-https://s2.kora.st/channel.php?id=72
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-ifk-goteborg-aik-2026-07-05-15-00" group-title="Sweden Allsvenskan",IFK Göteborg vs AIK (TV4 Play)
-https://s2.kora.st/channel.php?id=75
 #EXTINF:-1 tvg-id="sweden-allsvenskan-football-elfsborg-hammarby-2026-07-05-17-30" group-title="Sweden Allsvenskan",Elfsborg vs Hammarby (TV4 Play)
 https://s2.kora.st/channel.php?id=75
 #EXTINF:-1 tvg-id="indycar-motorsport-honda-indy-200-2026-07-05-16-00" group-title="IndyCar",Honda Indy 200 (Fox Sports 1)
 https://s2.kora.st/channel.php?id=81
 #EXTINF:-1 tvg-id="canada-canadian-premier-league-football-supra-du-quebec-forge-2026-07-05-20-00" group-title="Canada Canadian Premier League",Supra du Quebec vs Forge (Fox Sports 2)
 https://s2.kora.st/channel.php?id=82
-#EXTINF:-1 tvg-id="super-league-rugby-castleford-tigers-wakefield-trinity-2026-07-05-14-30" group-title="Super League",Castleford Tigers vs Wakefield Trinity (Fox Soccer Plus)
-https://s2.kora.st/channel.php?id=83
 #EXTINF:-1 tvg-id="super-league-rugby-bradford-leeds-rhinos-2026-07-05-17-00" group-title="Super League",Bradford vs Leeds Rhinos (Fox Soccer Plus)
 https://s2.kora.st/channel.php?id=83
 #EXTINF:-1 tvg-id="super-league-rugby-st-helens-wigan-2026-07-05-19-30" group-title="Super League",St Helens vs Wigan (Fox Soccer Plus)
