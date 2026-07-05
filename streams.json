@@ -20,7 +20,7 @@
                     "number": 1,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=1"
+                        "https://s2.kora.st/channel.php?id=1"
                     ]
                 },
                 {
@@ -31,7 +31,7 @@
                     "number": 9,
                     "language": "AU",
                     "links": [
-                        "https://s2.kora.st/channel?id=9"
+                        "https://s2.kora.st/channel.php?id=9"
                     ]
                 },
                 {
@@ -42,7 +42,7 @@
                     "number": 10,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=10"
+                        "https://s2.kora.st/channel.php?id=10"
                     ]
                 },
                 {
@@ -53,7 +53,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=11"
+                        "https://s2.kora.st/channel.php?id=11"
                     ]
                 },
                 {
@@ -64,7 +64,7 @@
                     "number": 31,
                     "language": "CA",
                     "links": [
-                        "https://s2.kora.st/channel?id=31"
+                        "https://s2.kora.st/channel.php?id=31"
                     ]
                 },
                 {
@@ -75,7 +75,7 @@
                     "number": 47,
                     "language": "IT",
                     "links": [
-                        "https://s2.kora.st/channel?id=47"
+                        "https://s2.kora.st/channel.php?id=47"
                     ]
                 },
                 {
@@ -86,7 +86,7 @@
                     "number": 56,
                     "language": "FR",
                     "links": [
-                        "https://s2.kora.st/channel?id=56"
+                        "https://s2.kora.st/channel.php?id=56"
                     ]
                 },
                 {
@@ -97,7 +97,7 @@
                     "number": 60,
                     "language": "PL",
                     "links": [
-                        "https://s2.kora.st/channel?id=60"
+                        "https://s2.kora.st/channel.php?id=60"
                     ]
                 },
                 {
@@ -108,7 +108,7 @@
                     "number": 70,
                     "language": "HR",
                     "links": [
-                        "https://s2.kora.st/channel?id=70"
+                        "https://s2.kora.st/channel.php?id=70"
                     ]
                 },
                 {
@@ -119,7 +119,7 @@
                     "number": 72,
                     "language": "FI",
                     "links": [
-                        "https://s2.kora.st/channel?id=72"
+                        "https://s2.kora.st/channel.php?id=72"
                     ]
                 },
                 {
@@ -130,7 +130,7 @@
                     "number": 88,
                     "language": "NL",
                     "links": [
-                        "https://s2.kora.st/channel?id=88"
+                        "https://s2.kora.st/channel.php?id=88"
                     ]
                 },
                 {
@@ -141,7 +141,7 @@
                     "number": 100,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=100"
+                        "https://s2.kora.st/channel.php?id=100"
                     ]
                 }
             ],
@@ -169,7 +169,7 @@
                     "number": 3,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=3"
+                        "https://s2.kora.st/channel.php?id=3"
                     ]
                 }
             ],
@@ -197,7 +197,7 @@
                     "number": 5,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=5"
+                        "https://s2.kora.st/channel.php?id=5"
                     ]
                 }
             ],
@@ -225,96 +225,13 @@
                     "number": 6,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=6"
+                        "https://s2.kora.st/channel.php?id=6"
                     ]
                 }
             ],
             "slug": "nba-basketball-los-angeles-lakers-miami-heat-2026-07-05-23-30",
             "startTimestamp": 1783283400000,
             "duration": 180
-        },
-        {
-            "matchText": "10:30 [Formula 3] Motorsport: Silverstone [Sky Sports F1 GB]",
-            "matchstr": "Silverstone",
-            "time": "10:30",
-            "league": "Formula 3",
-            "sport": "Motorsport",
-            "team1": "Silverstone",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=46"
-                    ],
-                    "number": 46,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=46"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-3-motorsport-silverstone-2026-07-05-10-30",
-            "startTimestamp": 1783236600000,
-            "duration": 120
         },
         {
             "matchText": "13:15 [Formula 2] Motorsport: Silverstone [Sky Sports F1 GB]",
@@ -336,7 +253,7 @@
                     "number": 7,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=7"
+                        "https://s2.kora.st/channel.php?id=7"
                     ]
                 },
                 {
@@ -347,7 +264,7 @@
                     "number": 13,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=13"
+                        "https://s2.kora.st/channel.php?id=13"
                     ]
                 },
                 {
@@ -358,7 +275,7 @@
                     "number": 30,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=30"
+                        "https://s2.kora.st/channel.php?id=30"
                     ]
                 },
                 {
@@ -369,7 +286,7 @@
                     "number": 46,
                     "language": "IT",
                     "links": [
-                        "https://s2.kora.st/channel?id=46"
+                        "https://s2.kora.st/channel.php?id=46"
                     ]
                 },
                 {
@@ -380,7 +297,7 @@
                     "number": 55,
                     "language": "FR",
                     "links": [
-                        "https://s2.kora.st/channel?id=55"
+                        "https://s2.kora.st/channel.php?id=55"
                     ]
                 },
                 {
@@ -391,7 +308,7 @@
                     "number": 79,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=79"
+                        "https://s2.kora.st/channel.php?id=79"
                     ]
                 }
             ],
@@ -419,7 +336,7 @@
                     "number": 7,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=7"
+                        "https://s2.kora.st/channel.php?id=7"
                     ]
                 },
                 {
@@ -430,7 +347,7 @@
                     "number": 13,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=13"
+                        "https://s2.kora.st/channel.php?id=13"
                     ]
                 },
                 {
@@ -441,7 +358,7 @@
                     "number": 30,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=30"
+                        "https://s2.kora.st/channel.php?id=30"
                     ]
                 },
                 {
@@ -452,7 +369,7 @@
                     "number": 46,
                     "language": "IT",
                     "links": [
-                        "https://s2.kora.st/channel?id=46"
+                        "https://s2.kora.st/channel.php?id=46"
                     ]
                 },
                 {
@@ -463,7 +380,7 @@
                     "number": 55,
                     "language": "FR",
                     "links": [
-                        "https://s2.kora.st/channel?id=55"
+                        "https://s2.kora.st/channel.php?id=55"
                     ]
                 },
                 {
@@ -474,7 +391,7 @@
                     "number": 79,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=79"
+                        "https://s2.kora.st/channel.php?id=79"
                     ]
                 }
             ],
@@ -502,7 +419,7 @@
                     "number": 12,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=12"
+                        "https://s2.kora.st/channel.php?id=12"
                     ]
                 }
             ],
@@ -530,7 +447,7 @@
                     "number": 13,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=13"
+                        "https://s2.kora.st/channel.php?id=13"
                     ]
                 },
                 {
@@ -541,7 +458,7 @@
                     "number": 55,
                     "language": "FR",
                     "links": [
-                        "https://s2.kora.st/channel?id=55"
+                        "https://s2.kora.st/channel.php?id=55"
                     ]
                 },
                 {
@@ -552,7 +469,7 @@
                     "number": 79,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=79"
+                        "https://s2.kora.st/channel.php?id=79"
                     ]
                 }
             ],
@@ -580,7 +497,7 @@
                     "number": 14,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=14"
+                        "https://s2.kora.st/channel.php?id=14"
                     ]
                 }
             ],
@@ -608,40 +525,12 @@
                     "number": 15,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=15"
+                        "https://s2.kora.st/channel.php?id=15"
                     ]
                 }
             ],
             "slug": "dtm-motorsport-norisring-2026-07-05-14-15",
             "startTimestamp": 1783250100000,
-            "duration": 120
-        },
-        {
-            "matchText": "10:00 [Formula E] Motorsport: Shanghai E vs Prix [DF1 DE]",
-            "matchstr": "Shanghai E vs Prix",
-            "time": "10:00",
-            "league": "Formula E",
-            "sport": "Motorsport",
-            "team1": "Shanghai E",
-            "team2": "Prix",
-            "channel": "DF1 DE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "DF1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=16"
-                    ],
-                    "number": 16,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=16"
-                    ]
-                }
-            ],
-            "slug": "formula-e-motorsport-shanghai-e-prix-2026-07-05-10-00",
-            "startTimestamp": 1783234800000,
             "duration": 120
         },
         {
@@ -664,7 +553,7 @@
                     "number": 19,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=19"
+                        "https://s2.kora.st/channel.php?id=19"
                     ]
                 }
             ],
@@ -692,7 +581,7 @@
                     "number": 22,
                     "language": "PT",
                     "links": [
-                        "https://s2.kora.st/channel?id=22"
+                        "https://s2.kora.st/channel.php?id=22"
                     ]
                 }
             ],
@@ -720,13 +609,349 @@
                     "number": 28,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=28"
+                        "https://s2.kora.st/channel.php?id=28"
                     ]
                 }
             ],
             "slug": "fiba-world-cup-basketball-georgia-spain-2026-07-05-18-30",
             "startTimestamp": 1783265400000,
             "duration": 120
+        },
+        {
+            "matchText": "19:30 [MLB] Baseball: New York Mets vs Atlanta Braves [MLB Pass US]",
+            "matchstr": "New York Mets vs Atlanta Braves",
+            "time": "19:30",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "New York Mets",
+            "team2": "Atlanta Braves",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=32"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-new-york-mets-atlanta-braves-2026-07-05-19-30",
+            "startTimestamp": 1783269000000,
+            "duration": 180
+        },
+        {
+            "matchText": "23:00 [MLB] Baseball: San Francisco Giants vs Colorado Rockies [MLB Pass US]",
+            "matchstr": "San Francisco Giants vs Colorado Rockies",
+            "time": "23:00",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "San Francisco Giants",
+            "team2": "Colorado Rockies",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=32"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-san-francisco-giants-colorado-rockies-2026-07-05-23-00",
+            "startTimestamp": 1783281600000,
+            "duration": 180
+        },
+        {
+            "matchText": "20:00 [MLB] Baseball: Pittsburgh Pirates vs Washington Nationals [MLB Pass US]",
+            "matchstr": "Pittsburgh Pirates vs Washington Nationals",
+            "time": "20:00",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Pittsburgh Pirates",
+            "team2": "Washington Nationals",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=33"
+                    ],
+                    "number": 33,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=33"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-pittsburgh-pirates-washington-nationals-2026-07-05-20-00",
+            "startTimestamp": 1783270800000,
+            "duration": 180
+        },
+        {
+            "matchText": "23:00 [MLB] Baseball: Milwaukee Brewers vs Arizona Diamondbacks [MLB Pass US]",
+            "matchstr": "Milwaukee Brewers vs Arizona Diamondbacks",
+            "time": "23:00",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Milwaukee Brewers",
+            "team2": "Arizona Diamondbacks",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=33"
+                    ],
+                    "number": 33,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=33"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-milwaukee-brewers-arizona-diamondbacks-2026-07-05-23-00",
+            "startTimestamp": 1783281600000,
+            "duration": 180
+        },
+        {
+            "matchText": "20:05 [MLB] Baseball: Baltimore Orioles vs Cincinnati Reds [MLB Pass US]",
+            "matchstr": "Baltimore Orioles vs Cincinnati Reds",
+            "time": "20:05",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Baltimore Orioles",
+            "team2": "Cincinnati Reds",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=34"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-baltimore-orioles-cincinnati-reds-2026-07-05-20-05",
+            "startTimestamp": 1783271100000,
+            "duration": 180
+        },
+        {
+            "matchText": "23:30 [MLB] Baseball: Miami Marlins vs Athletics [MLB Pass US]",
+            "matchstr": "Miami Marlins vs Athletics",
+            "time": "23:30",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Miami Marlins",
+            "team2": "Athletics",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=34"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-miami-marlins-athletics-2026-07-05-23-30",
+            "startTimestamp": 1783283400000,
+            "duration": 180
+        },
+        {
+            "matchText": "20:35 [MLB] Baseball: Minnesota Twins vs New York Yankees [MLB Pass US]",
+            "matchstr": "Minnesota Twins vs New York Yankees",
+            "time": "20:35",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Minnesota Twins",
+            "team2": "New York Yankees",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=35"
+                    ],
+                    "number": 35,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=35"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-minnesota-twins-new-york-yankees-2026-07-05-20-35",
+            "startTimestamp": 1783272900000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:00 [MLB] Baseball: Chicago White Sox vs Cleveland Guardians [MLB Pass US]",
+            "matchstr": "Chicago White Sox vs Cleveland Guardians",
+            "time": "21:00",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Chicago White Sox",
+            "team2": "Cleveland Guardians",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=36"
+                    ],
+                    "number": 36,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=36"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-chicago-white-sox-cleveland-guardians-2026-07-05-21-00",
+            "startTimestamp": 1783274400000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:30 [MLB] Baseball: St. Louis Cardinals vs Chicago Cubs [MLB Pass US]",
+            "matchstr": "St. Louis Cardinals vs Chicago Cubs",
+            "time": "21:30",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "St. Louis Cardinals",
+            "team2": "Chicago Cubs",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=37"
+                    ],
+                    "number": 37,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=37"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-st-louis-cardinals-chicago-cubs-2026-07-05-21-30",
+            "startTimestamp": 1783276200000,
+            "duration": 180
+        },
+        {
+            "matchText": "22:00 [MLB] Baseball: Philadelphia Phillies vs Kansas City Royals [MLB Pass US]",
+            "matchstr": "Philadelphia Phillies vs Kansas City Royals",
+            "time": "22:00",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Philadelphia Phillies",
+            "team2": "Kansas City Royals",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=38"
+                    ],
+                    "number": 38,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=38"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-philadelphia-phillies-kansas-city-royals-2026-07-05-22-00",
+            "startTimestamp": 1783278000000,
+            "duration": 180
+        },
+        {
+            "matchText": "22:30 [MLB] Baseball: Tampa Bay Rays vs Houston Astros [MLB Pass US]",
+            "matchstr": "Tampa Bay Rays vs Houston Astros",
+            "time": "22:30",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Tampa Bay Rays",
+            "team2": "Houston Astros",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=39"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-tampa-bay-rays-houston-astros-2026-07-05-22-30",
+            "startTimestamp": 1783279800000,
+            "duration": 180
+        },
+        {
+            "matchText": "22:30 [MLB] Baseball: Detroit Tigers vs Texas Rangers [MLB Pass US]",
+            "matchstr": "Detroit Tigers vs Texas Rangers",
+            "time": "22:30",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Detroit Tigers",
+            "team2": "Texas Rangers",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-05",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=40"
+                    ],
+                    "number": 40,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=40"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-detroit-tigers-texas-rangers-2026-07-05-22-30",
+            "startTimestamp": 1783279800000,
+            "duration": 180
         },
         {
             "matchText": "19:00 [FIBA World Cup] Basketball: Slovakia vs Kosovo [JOJ Sport SK]",
@@ -748,7 +973,7 @@
                     "number": 41,
                     "language": "SK",
                     "links": [
-                        "https://s2.kora.st/channel?id=41"
+                        "https://s2.kora.st/channel.php?id=41"
                     ]
                 }
             ],
@@ -776,7 +1001,7 @@
                     "number": 62,
                     "language": "RS",
                     "links": [
-                        "https://s2.kora.st/channel?id=62"
+                        "https://s2.kora.st/channel.php?id=62"
                     ]
                 }
             ],
@@ -804,68 +1029,12 @@
                     "number": 72,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=72"
+                        "https://s2.kora.st/channel.php?id=72"
                     ]
                 }
             ],
             "slug": "sweden-allsvenskan-football-kalmar-orgryte-2026-07-05-15-00",
             "startTimestamp": 1783252800000,
-            "duration": 120
-        },
-        {
-            "matchText": "10:05 [European Rally Championship] Motorsport: ERC Rally di Roma Capitale [TV4 Motor SE]",
-            "matchstr": "ERC Rally di Roma Capitale",
-            "time": "10:05",
-            "league": "European Rally Championship",
-            "sport": "Motorsport",
-            "team1": "ERC Rally di Roma Capitale",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-05-10-05",
-            "startTimestamp": 1783235100000,
-            "duration": 120
-        },
-        {
-            "matchText": "11:05 [European Rally Championship] Motorsport: ERC Rally di Roma Capitale [TV4 Motor SE]",
-            "matchstr": "ERC Rally di Roma Capitale",
-            "time": "11:05",
-            "league": "European Rally Championship",
-            "sport": "Motorsport",
-            "team1": "ERC Rally di Roma Capitale",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "european-rally-championship-motorsport-erc-rally-di-roma-capitale-2026-07-05-11-05",
-            "startTimestamp": 1783238700000,
             "duration": 120
         },
         {
@@ -888,7 +1057,7 @@
                     "number": 75,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=75"
+                        "https://s2.kora.st/channel.php?id=75"
                     ]
                 }
             ],
@@ -916,7 +1085,7 @@
                     "number": 75,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=75"
+                        "https://s2.kora.st/channel.php?id=75"
                     ]
                 }
             ],
@@ -944,41 +1113,13 @@
                     "number": 81,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=81"
+                        "https://s2.kora.st/channel.php?id=81"
                     ]
                 }
             ],
             "slug": "indycar-motorsport-honda-indy-200-2026-07-05-16-00",
             "startTimestamp": 1783256400000,
             "duration": 120
-        },
-        {
-            "matchText": "09:40 [AFL] Australian Football: North Melbourne Kangaroos vs Port Adelaide Power [Fox Sports 2 US]",
-            "matchstr": "North Melbourne Kangaroos vs Port Adelaide Power",
-            "time": "09:40",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "North Melbourne Kangaroos",
-            "team2": "Port Adelaide Power",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-north-melbourne-kangaroos-port-adelaide-power-2026-07-05-09-40",
-            "startTimestamp": 1783233600000,
-            "duration": 180
         },
         {
             "matchText": "20:00 [Canada Canadian Premier League] Supra du Quebec vs Forge [Fox Sports 2 US]",
@@ -1000,41 +1141,13 @@
                     "number": 82,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=82"
+                        "https://s2.kora.st/channel.php?id=82"
                     ]
                 }
             ],
             "slug": "canada-canadian-premier-league-football-supra-du-quebec-forge-2026-07-05-20-00",
             "startTimestamp": 1783270800000,
             "duration": 120
-        },
-        {
-            "matchText": "08:15 [AFL] Australian Football: St. Kilda Saints vs Essendon Bombers [Fox Soccer Plus US]",
-            "matchstr": "St. Kilda Saints vs Essendon Bombers",
-            "time": "08:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "St. Kilda Saints",
-            "team2": "Essendon Bombers",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-st-kilda-saints-essendon-bombers-2026-07-05-08-15",
-            "startTimestamp": 1783228500000,
-            "duration": 180
         },
         {
             "matchText": "14:30 [Super League] Rugby: Castleford Tigers vs Wakefield Trinity [Fox Soccer Plus US]",
@@ -1056,7 +1169,7 @@
                     "number": 83,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=83"
+                        "https://s2.kora.st/channel.php?id=83"
                     ]
                 }
             ],
@@ -1084,7 +1197,7 @@
                     "number": 83,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=83"
+                        "https://s2.kora.st/channel.php?id=83"
                     ]
                 }
             ],
@@ -1112,7 +1225,7 @@
                     "number": 83,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=83"
+                        "https://s2.kora.st/channel.php?id=83"
                     ]
                 }
             ],
@@ -1140,7 +1253,7 @@
                     "number": 85,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=85"
+                        "https://s2.kora.st/channel.php?id=85"
                     ]
                 }
             ],
@@ -1168,7 +1281,7 @@
                     "number": 85,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=85"
+                        "https://s2.kora.st/channel.php?id=85"
                     ]
                 }
             ],
@@ -1196,7 +1309,7 @@
                     "number": 1,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=1"
+                        "https://s2.kora.st/channel.php?id=1"
                     ]
                 },
                 {
@@ -1207,7 +1320,7 @@
                     "number": 10,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=10"
+                        "https://s2.kora.st/channel.php?id=10"
                     ]
                 },
                 {
@@ -1218,7 +1331,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=11"
+                        "https://s2.kora.st/channel.php?id=11"
                     ]
                 },
                 {
@@ -1229,7 +1342,7 @@
                     "number": 31,
                     "language": "CA",
                     "links": [
-                        "https://s2.kora.st/channel?id=31"
+                        "https://s2.kora.st/channel.php?id=31"
                     ]
                 },
                 {
@@ -1240,7 +1353,7 @@
                     "number": 51,
                     "language": "FR",
                     "links": [
-                        "https://s2.kora.st/channel?id=51"
+                        "https://s2.kora.st/channel.php?id=51"
                     ]
                 },
                 {
@@ -1251,7 +1364,7 @@
                     "number": 62,
                     "language": "PL",
                     "links": [
-                        "https://s2.kora.st/channel?id=62"
+                        "https://s2.kora.st/channel.php?id=62"
                     ]
                 },
                 {
@@ -1262,7 +1375,7 @@
                     "number": 70,
                     "language": "HR",
                     "links": [
-                        "https://s2.kora.st/channel?id=70"
+                        "https://s2.kora.st/channel.php?id=70"
                     ]
                 },
                 {
@@ -1273,7 +1386,7 @@
                     "number": 71,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=71"
+                        "https://s2.kora.st/channel.php?id=71"
                     ]
                 },
                 {
@@ -1284,7 +1397,7 @@
                     "number": 72,
                     "language": "FI",
                     "links": [
-                        "https://s2.kora.st/channel?id=72"
+                        "https://s2.kora.st/channel.php?id=72"
                     ]
                 },
                 {
@@ -1295,7 +1408,7 @@
                     "number": 88,
                     "language": "NL",
                     "links": [
-                        "https://s2.kora.st/channel?id=88"
+                        "https://s2.kora.st/channel.php?id=88"
                     ]
                 },
                 {
@@ -1306,7 +1419,7 @@
                     "number": 100,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=100"
+                        "https://s2.kora.st/channel.php?id=100"
                     ]
                 }
             ],
@@ -1334,7 +1447,7 @@
                     "number": 1,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=1"
+                        "https://s2.kora.st/channel.php?id=1"
                     ]
                 },
                 {
@@ -1345,7 +1458,7 @@
                     "number": 10,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=10"
+                        "https://s2.kora.st/channel.php?id=10"
                     ]
                 },
                 {
@@ -1356,7 +1469,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=11"
+                        "https://s2.kora.st/channel.php?id=11"
                     ]
                 },
                 {
@@ -1367,7 +1480,7 @@
                     "number": 21,
                     "language": "PT",
                     "links": [
-                        "https://s2.kora.st/channel?id=21"
+                        "https://s2.kora.st/channel.php?id=21"
                     ]
                 },
                 {
@@ -1378,7 +1491,7 @@
                     "number": 31,
                     "language": "CA",
                     "links": [
-                        "https://s2.kora.st/channel?id=31"
+                        "https://s2.kora.st/channel.php?id=31"
                     ]
                 },
                 {
@@ -1389,7 +1502,7 @@
                     "number": 56,
                     "language": "FR",
                     "links": [
-                        "https://s2.kora.st/channel?id=56"
+                        "https://s2.kora.st/channel.php?id=56"
                     ]
                 },
                 {
@@ -1400,7 +1513,7 @@
                     "number": 61,
                     "language": "PL",
                     "links": [
-                        "https://s2.kora.st/channel?id=61"
+                        "https://s2.kora.st/channel.php?id=61"
                     ]
                 },
                 {
@@ -1411,7 +1524,7 @@
                     "number": 70,
                     "language": "HR",
                     "links": [
-                        "https://s2.kora.st/channel?id=70"
+                        "https://s2.kora.st/channel.php?id=70"
                     ]
                 },
                 {
@@ -1422,7 +1535,7 @@
                     "number": 71,
                     "language": "FI",
                     "links": [
-                        "https://s2.kora.st/channel?id=71"
+                        "https://s2.kora.st/channel.php?id=71"
                     ]
                 },
                 {
@@ -1433,7 +1546,7 @@
                     "number": 74,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=74"
+                        "https://s2.kora.st/channel.php?id=74"
                     ]
                 },
                 {
@@ -1444,7 +1557,7 @@
                     "number": 88,
                     "language": "NL",
                     "links": [
-                        "https://s2.kora.st/channel?id=88"
+                        "https://s2.kora.st/channel.php?id=88"
                     ]
                 },
                 {
@@ -1455,7 +1568,7 @@
                     "number": 100,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=100"
+                        "https://s2.kora.st/channel.php?id=100"
                     ]
                 }
             ],
@@ -1483,7 +1596,7 @@
                     "number": 4,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=4"
+                        "https://s2.kora.st/channel.php?id=4"
                     ]
                 }
             ],
@@ -1511,7 +1624,7 @@
                     "number": 4,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=4"
+                        "https://s2.kora.st/channel.php?id=4"
                     ]
                 }
             ],
@@ -1539,7 +1652,7 @@
                     "number": 5,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=5"
+                        "https://s2.kora.st/channel.php?id=5"
                     ]
                 }
             ],
@@ -1567,7 +1680,7 @@
                     "number": 6,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=6"
+                        "https://s2.kora.st/channel.php?id=6"
                     ]
                 }
             ],
@@ -1595,7 +1708,7 @@
                     "number": 7,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=7"
+                        "https://s2.kora.st/channel.php?id=7"
                     ]
                 },
                 {
@@ -1606,7 +1719,7 @@
                     "number": 35,
                     "language": "CA",
                     "links": [
-                        "https://s2.kora.st/channel?id=35"
+                        "https://s2.kora.st/channel.php?id=35"
                     ]
                 }
             ],
@@ -1634,7 +1747,7 @@
                     "number": 8,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=8"
+                        "https://s2.kora.st/channel.php?id=8"
                     ]
                 }
             ],
@@ -1662,7 +1775,7 @@
                     "number": 8,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=8"
+                        "https://s2.kora.st/channel.php?id=8"
                     ]
                 }
             ],
@@ -1690,7 +1803,7 @@
                     "number": 12,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=12"
+                        "https://s2.kora.st/channel.php?id=12"
                     ]
                 }
             ],
@@ -1718,7 +1831,7 @@
                     "number": 13,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=13"
+                        "https://s2.kora.st/channel.php?id=13"
                     ]
                 }
             ],
@@ -1746,7 +1859,7 @@
                     "number": 27,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=27"
+                        "https://s2.kora.st/channel.php?id=27"
                     ]
                 }
             ],
@@ -1774,13 +1887,125 @@
                     "number": 27,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=27"
+                        "https://s2.kora.st/channel.php?id=27"
                     ]
                 }
             ],
             "slug": "chile-copa-chile-football-deportes-limache-san-marcos-2026-07-06-03-00",
             "startTimestamp": 1783296000000,
             "duration": 120
+        },
+        {
+            "matchText": "00:00 [MLB] Baseball: Toronto Blue Jays vs Seattle Mariners [MLB Pass US]",
+            "matchstr": "Toronto Blue Jays vs Seattle Mariners",
+            "time": "00:00",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Toronto Blue Jays",
+            "team2": "Seattle Mariners",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-06",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=36"
+                    ],
+                    "number": 36,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=36"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-toronto-blue-jays-seattle-mariners-2026-07-06-00-00",
+            "startTimestamp": 1783285200000,
+            "duration": 180
+        },
+        {
+            "matchText": "02:20 [MLB] Baseball: San Diego Padres vs Los Angeles Dodgers [MLB Pass US]",
+            "matchstr": "San Diego Padres vs Los Angeles Dodgers",
+            "time": "02:20",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "San Diego Padres",
+            "team2": "Los Angeles Dodgers",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-06",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=37"
+                    ],
+                    "number": 37,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=37"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-san-diego-padres-los-angeles-dodgers-2026-07-06-02-20",
+            "startTimestamp": 1783293600000,
+            "duration": 180
+        },
+        {
+            "matchText": "04:30 [MLB] Baseball: Boston Red Sox vs Los Angeles Angels [MLB Pass US]",
+            "matchstr": "Boston Red Sox vs Los Angeles Angels",
+            "time": "04:30",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Boston Red Sox",
+            "team2": "Los Angeles Angels",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-06",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=38"
+                    ],
+                    "number": 38,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=38"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-boston-red-sox-los-angeles-angels-2026-07-06-04-30",
+            "startTimestamp": 1783301400000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:30 [MLB] Baseball: Philadelphia Phillies vs Kansas City Royals [MLB Pass US]",
+            "matchstr": "Philadelphia Phillies vs Kansas City Royals",
+            "time": "21:30",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Philadelphia Phillies",
+            "team2": "Kansas City Royals",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-06",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=39"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-philadelphia-phillies-kansas-city-royals-2026-07-06-21-30",
+            "startTimestamp": 1783362600000,
+            "duration": 180
         },
         {
             "matchText": "18:00 [FIBA World Cup] Basketball: Czech Republic vs Estonia [CT Sport CZ]",
@@ -1802,7 +2027,7 @@
                     "number": 40,
                     "language": "CZ",
                     "links": [
-                        "https://s2.kora.st/channel?id=40"
+                        "https://s2.kora.st/channel.php?id=40"
                     ]
                 }
             ],
@@ -1830,7 +2055,7 @@
                     "number": 46,
                     "language": "IT",
                     "links": [
-                        "https://s2.kora.st/channel?id=46"
+                        "https://s2.kora.st/channel.php?id=46"
                     ]
                 }
             ],
@@ -1858,7 +2083,7 @@
                     "number": 53,
                     "language": "FR",
                     "links": [
-                        "https://s2.kora.st/channel?id=53"
+                        "https://s2.kora.st/channel.php?id=53"
                     ]
                 }
             ],
@@ -1886,7 +2111,7 @@
                     "number": 63,
                     "language": "RS",
                     "links": [
-                        "https://s2.kora.st/channel?id=63"
+                        "https://s2.kora.st/channel.php?id=63"
                     ]
                 }
             ],
@@ -1914,7 +2139,7 @@
                     "number": 75,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=75"
+                        "https://s2.kora.st/channel.php?id=75"
                     ]
                 }
             ],
@@ -1942,7 +2167,7 @@
                     "number": 76,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=76"
+                        "https://s2.kora.st/channel.php?id=76"
                     ]
                 }
             ],
@@ -1970,7 +2195,7 @@
                     "number": 82,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=82"
+                        "https://s2.kora.st/channel.php?id=82"
                     ]
                 }
             ],
@@ -1998,7 +2223,7 @@
                     "number": 85,
                     "language": "MX",
                     "links": [
-                        "https://s2.kora.st/channel?id=85"
+                        "https://s2.kora.st/channel.php?id=85"
                     ]
                 }
             ],
@@ -2026,7 +2251,7 @@
                     "number": 85,
                     "language": "MX",
                     "links": [
-                        "https://s2.kora.st/channel?id=85"
+                        "https://s2.kora.st/channel.php?id=85"
                     ]
                 }
             ],
@@ -2054,7 +2279,7 @@
                     "number": 1,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=1"
+                        "https://s2.kora.st/channel.php?id=1"
                     ]
                 },
                 {
@@ -2065,7 +2290,7 @@
                     "number": 10,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=10"
+                        "https://s2.kora.st/channel.php?id=10"
                     ]
                 },
                 {
@@ -2076,7 +2301,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=11"
+                        "https://s2.kora.st/channel.php?id=11"
                     ]
                 },
                 {
@@ -2087,7 +2312,7 @@
                     "number": 31,
                     "language": "CA",
                     "links": [
-                        "https://s2.kora.st/channel?id=31"
+                        "https://s2.kora.st/channel.php?id=31"
                     ]
                 },
                 {
@@ -2098,7 +2323,7 @@
                     "number": 51,
                     "language": "FR",
                     "links": [
-                        "https://s2.kora.st/channel?id=51"
+                        "https://s2.kora.st/channel.php?id=51"
                     ]
                 },
                 {
@@ -2109,7 +2334,7 @@
                     "number": 62,
                     "language": "PL",
                     "links": [
-                        "https://s2.kora.st/channel?id=62"
+                        "https://s2.kora.st/channel.php?id=62"
                     ]
                 },
                 {
@@ -2120,7 +2345,7 @@
                     "number": 70,
                     "language": "HR",
                     "links": [
-                        "https://s2.kora.st/channel?id=70"
+                        "https://s2.kora.st/channel.php?id=70"
                     ]
                 },
                 {
@@ -2131,7 +2356,7 @@
                     "number": 71,
                     "language": "FI",
                     "links": [
-                        "https://s2.kora.st/channel?id=71"
+                        "https://s2.kora.st/channel.php?id=71"
                     ]
                 },
                 {
@@ -2142,7 +2367,7 @@
                     "number": 74,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=74"
+                        "https://s2.kora.st/channel.php?id=74"
                     ]
                 },
                 {
@@ -2153,7 +2378,7 @@
                     "number": 88,
                     "language": "NL",
                     "links": [
-                        "https://s2.kora.st/channel?id=88"
+                        "https://s2.kora.st/channel.php?id=88"
                     ]
                 },
                 {
@@ -2164,7 +2389,7 @@
                     "number": 100,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=100"
+                        "https://s2.kora.st/channel.php?id=100"
                     ]
                 }
             ],
@@ -2192,7 +2417,7 @@
                     "number": 1,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=1"
+                        "https://s2.kora.st/channel.php?id=1"
                     ]
                 },
                 {
@@ -2203,7 +2428,7 @@
                     "number": 10,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=10"
+                        "https://s2.kora.st/channel.php?id=10"
                     ]
                 },
                 {
@@ -2214,7 +2439,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=11"
+                        "https://s2.kora.st/channel.php?id=11"
                     ]
                 },
                 {
@@ -2225,7 +2450,7 @@
                     "number": 31,
                     "language": "CA",
                     "links": [
-                        "https://s2.kora.st/channel?id=31"
+                        "https://s2.kora.st/channel.php?id=31"
                     ]
                 },
                 {
@@ -2236,7 +2461,7 @@
                     "number": 47,
                     "language": "IT",
                     "links": [
-                        "https://s2.kora.st/channel?id=47"
+                        "https://s2.kora.st/channel.php?id=47"
                     ]
                 },
                 {
@@ -2247,7 +2472,7 @@
                     "number": 51,
                     "language": "FR",
                     "links": [
-                        "https://s2.kora.st/channel?id=51"
+                        "https://s2.kora.st/channel.php?id=51"
                     ]
                 },
                 {
@@ -2258,7 +2483,7 @@
                     "number": 62,
                     "language": "PL",
                     "links": [
-                        "https://s2.kora.st/channel?id=62"
+                        "https://s2.kora.st/channel.php?id=62"
                     ]
                 },
                 {
@@ -2269,7 +2494,7 @@
                     "number": 70,
                     "language": "HR",
                     "links": [
-                        "https://s2.kora.st/channel?id=70"
+                        "https://s2.kora.st/channel.php?id=70"
                     ]
                 },
                 {
@@ -2280,7 +2505,7 @@
                     "number": 72,
                     "language": "FI",
                     "links": [
-                        "https://s2.kora.st/channel?id=72"
+                        "https://s2.kora.st/channel.php?id=72"
                     ]
                 },
                 {
@@ -2291,7 +2516,7 @@
                     "number": 74,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=74"
+                        "https://s2.kora.st/channel.php?id=74"
                     ]
                 },
                 {
@@ -2302,7 +2527,7 @@
                     "number": 88,
                     "language": "NL",
                     "links": [
-                        "https://s2.kora.st/channel?id=88"
+                        "https://s2.kora.st/channel.php?id=88"
                     ]
                 },
                 {
@@ -2313,7 +2538,7 @@
                     "number": 100,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=100"
+                        "https://s2.kora.st/channel.php?id=100"
                     ]
                 }
             ],
@@ -2341,7 +2566,7 @@
                     "number": 1,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=1"
+                        "https://s2.kora.st/channel.php?id=1"
                     ]
                 },
                 {
@@ -2352,7 +2577,7 @@
                     "number": 10,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=10"
+                        "https://s2.kora.st/channel.php?id=10"
                     ]
                 },
                 {
@@ -2363,7 +2588,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://s2.kora.st/channel?id=11"
+                        "https://s2.kora.st/channel.php?id=11"
                     ]
                 },
                 {
@@ -2374,7 +2599,7 @@
                     "number": 31,
                     "language": "CA",
                     "links": [
-                        "https://s2.kora.st/channel?id=31"
+                        "https://s2.kora.st/channel.php?id=31"
                     ]
                 },
                 {
@@ -2385,7 +2610,7 @@
                     "number": 47,
                     "language": "IT",
                     "links": [
-                        "https://s2.kora.st/channel?id=47"
+                        "https://s2.kora.st/channel.php?id=47"
                     ]
                 },
                 {
@@ -2396,7 +2621,7 @@
                     "number": 51,
                     "language": "FR",
                     "links": [
-                        "https://s2.kora.st/channel?id=51"
+                        "https://s2.kora.st/channel.php?id=51"
                     ]
                 },
                 {
@@ -2407,7 +2632,7 @@
                     "number": 61,
                     "language": "PL",
                     "links": [
-                        "https://s2.kora.st/channel?id=61"
+                        "https://s2.kora.st/channel.php?id=61"
                     ]
                 },
                 {
@@ -2418,7 +2643,7 @@
                     "number": 70,
                     "language": "HR",
                     "links": [
-                        "https://s2.kora.st/channel?id=70"
+                        "https://s2.kora.st/channel.php?id=70"
                     ]
                 },
                 {
@@ -2429,7 +2654,7 @@
                     "number": 71,
                     "language": "SE",
                     "links": [
-                        "https://s2.kora.st/channel?id=71"
+                        "https://s2.kora.st/channel.php?id=71"
                     ]
                 },
                 {
@@ -2440,7 +2665,7 @@
                     "number": 72,
                     "language": "FI",
                     "links": [
-                        "https://s2.kora.st/channel?id=72"
+                        "https://s2.kora.st/channel.php?id=72"
                     ]
                 },
                 {
@@ -2451,7 +2676,7 @@
                     "number": 88,
                     "language": "NL",
                     "links": [
-                        "https://s2.kora.st/channel?id=88"
+                        "https://s2.kora.st/channel.php?id=88"
                     ]
                 },
                 {
@@ -2462,7 +2687,7 @@
                     "number": 100,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=100"
+                        "https://s2.kora.st/channel.php?id=100"
                     ]
                 }
             ],
@@ -2490,7 +2715,7 @@
                     "number": 2,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=2"
+                        "https://s2.kora.st/channel.php?id=2"
                     ]
                 },
                 {
@@ -2501,7 +2726,7 @@
                     "number": 32,
                     "language": "NZ",
                     "links": [
-                        "https://s2.kora.st/channel?id=32"
+                        "https://s2.kora.st/channel.php?id=32"
                     ]
                 }
             ],
@@ -2529,7 +2754,7 @@
                     "number": 2,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=2"
+                        "https://s2.kora.st/channel.php?id=2"
                     ]
                 },
                 {
@@ -2540,7 +2765,7 @@
                     "number": 32,
                     "language": "NZ",
                     "links": [
-                        "https://s2.kora.st/channel?id=32"
+                        "https://s2.kora.st/channel.php?id=32"
                     ]
                 }
             ],
@@ -2568,7 +2793,7 @@
                     "number": 2,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=2"
+                        "https://s2.kora.st/channel.php?id=2"
                     ]
                 },
                 {
@@ -2579,7 +2804,7 @@
                     "number": 32,
                     "language": "NZ",
                     "links": [
-                        "https://s2.kora.st/channel?id=32"
+                        "https://s2.kora.st/channel.php?id=32"
                     ]
                 }
             ],
@@ -2607,7 +2832,7 @@
                     "number": 2,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=2"
+                        "https://s2.kora.st/channel.php?id=2"
                     ]
                 }
             ],
@@ -2635,7 +2860,7 @@
                     "number": 3,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=3"
+                        "https://s2.kora.st/channel.php?id=3"
                     ]
                 },
                 {
@@ -2646,7 +2871,7 @@
                     "number": 33,
                     "language": "NZ",
                     "links": [
-                        "https://s2.kora.st/channel?id=33"
+                        "https://s2.kora.st/channel.php?id=33"
                     ]
                 }
             ],
@@ -2674,7 +2899,7 @@
                     "number": 3,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=3"
+                        "https://s2.kora.st/channel.php?id=3"
                     ]
                 },
                 {
@@ -2685,7 +2910,7 @@
                     "number": 33,
                     "language": "NZ",
                     "links": [
-                        "https://s2.kora.st/channel?id=33"
+                        "https://s2.kora.st/channel.php?id=33"
                     ]
                 }
             ],
@@ -2713,7 +2938,7 @@
                     "number": 3,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=3"
+                        "https://s2.kora.st/channel.php?id=3"
                     ]
                 },
                 {
@@ -2724,7 +2949,7 @@
                     "number": 8,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=8"
+                        "https://s2.kora.st/channel.php?id=8"
                     ]
                 },
                 {
@@ -2735,7 +2960,7 @@
                     "number": 33,
                     "language": "NZ",
                     "links": [
-                        "https://s2.kora.st/channel?id=33"
+                        "https://s2.kora.st/channel.php?id=33"
                     ]
                 }
             ],
@@ -2763,7 +2988,7 @@
                     "number": 3,
                     "language": "GB",
                     "links": [
-                        "https://s2.kora.st/channel?id=3"
+                        "https://s2.kora.st/channel.php?id=3"
                     ]
                 },
                 {
@@ -2774,7 +2999,7 @@
                     "number": 32,
                     "language": "NZ",
                     "links": [
-                        "https://s2.kora.st/channel?id=32"
+                        "https://s2.kora.st/channel.php?id=32"
                     ]
                 }
             ],
@@ -2802,7 +3027,7 @@
                     "number": 4,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=4"
+                        "https://s2.kora.st/channel.php?id=4"
                     ]
                 }
             ],
@@ -2830,7 +3055,7 @@
                     "number": 4,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=4"
+                        "https://s2.kora.st/channel.php?id=4"
                     ]
                 }
             ],
@@ -2858,7 +3083,7 @@
                     "number": 5,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=5"
+                        "https://s2.kora.st/channel.php?id=5"
                     ]
                 }
             ],
@@ -2886,7 +3111,7 @@
                     "number": 5,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=5"
+                        "https://s2.kora.st/channel.php?id=5"
                     ]
                 }
             ],
@@ -2914,7 +3139,7 @@
                     "number": 6,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=6"
+                        "https://s2.kora.st/channel.php?id=6"
                     ]
                 }
             ],
@@ -2942,7 +3167,7 @@
                     "number": 6,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=6"
+                        "https://s2.kora.st/channel.php?id=6"
                     ]
                 }
             ],
@@ -2970,7 +3195,7 @@
                     "number": 7,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=7"
+                        "https://s2.kora.st/channel.php?id=7"
                     ]
                 }
             ],
@@ -2998,7 +3223,7 @@
                     "number": 9,
                     "language": "US",
                     "links": [
-                        "https://s2.kora.st/channel?id=9"
+                        "https://s2.kora.st/channel.php?id=9"
                     ]
                 }
             ],
@@ -3026,7 +3251,7 @@
                     "number": 27,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=27"
+                        "https://s2.kora.st/channel.php?id=27"
                     ]
                 }
             ],
@@ -3054,7 +3279,7 @@
                     "number": 32,
                     "language": "CA",
                     "links": [
-                        "https://s2.kora.st/channel?id=32"
+                        "https://s2.kora.st/channel.php?id=32"
                     ]
                 }
             ],
@@ -3082,13 +3307,237 @@
                     "number": 33,
                     "language": "NZ",
                     "links": [
-                        "https://s2.kora.st/channel?id=33"
+                        "https://s2.kora.st/channel.php?id=33"
                     ]
                 }
             ],
             "slug": "world-rugby-u20-championship-rugby-spain-u20-fiji-u20-2026-07-07-19-30",
             "startTimestamp": 1783441800000,
             "duration": 120
+        },
+        {
+            "matchText": "01:40 [MLB] Baseball: New York Yankees vs Tampa Bay Rays [MLB Pass US]",
+            "matchstr": "New York Yankees vs Tampa Bay Rays",
+            "time": "01:40",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "New York Yankees",
+            "team2": "Tampa Bay Rays",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=34"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-new-york-yankees-tampa-bay-rays-2026-07-07-01-40",
+            "startTimestamp": 1783377600000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:15 [MLB] Baseball: Milwaukee Brewers vs St. Louis Cardinals [MLB Pass US]",
+            "matchstr": "Milwaukee Brewers vs St. Louis Cardinals",
+            "time": "21:15",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Milwaukee Brewers",
+            "team2": "St. Louis Cardinals",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=34"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-milwaukee-brewers-st-louis-cardinals-2026-07-07-21-15",
+            "startTimestamp": 1783448100000,
+            "duration": 180
+        },
+        {
+            "matchText": "01:45 [MLB] Baseball: Houston Astros vs Washington Nationals [MLB Pass US]",
+            "matchstr": "Houston Astros vs Washington Nationals",
+            "time": "01:45",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Houston Astros",
+            "team2": "Washington Nationals",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=35"
+                    ],
+                    "number": 35,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=35"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-houston-astros-washington-nationals-2026-07-07-01-45",
+            "startTimestamp": 1783377900000,
+            "duration": 180
+        },
+        {
+            "matchText": "02:15 [MLB] Baseball: New York Mets vs Atlanta Braves [MLB Pass US]",
+            "matchstr": "New York Mets vs Atlanta Braves",
+            "time": "02:15",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "New York Mets",
+            "team2": "Atlanta Braves",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=36"
+                    ],
+                    "number": 36,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=36"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-new-york-mets-atlanta-braves-2026-07-07-02-15",
+            "startTimestamp": 1783379700000,
+            "duration": 180
+        },
+        {
+            "matchText": "02:45 [MLB] Baseball: Milwaukee Brewers vs St. Louis Cardinals [MLB Pass US]",
+            "matchstr": "Milwaukee Brewers vs St. Louis Cardinals",
+            "time": "02:45",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Milwaukee Brewers",
+            "team2": "St. Louis Cardinals",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=37"
+                    ],
+                    "number": 37,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=37"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-milwaukee-brewers-st-louis-cardinals-2026-07-07-02-45",
+            "startTimestamp": 1783381500000,
+            "duration": 180
+        },
+        {
+            "matchText": "04:40 [MLB] Baseball: Arizona Diamondbacks vs San Diego Padres [MLB Pass US]",
+            "matchstr": "Arizona Diamondbacks vs San Diego Padres",
+            "time": "04:40",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Arizona Diamondbacks",
+            "team2": "San Diego Padres",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=38"
+                    ],
+                    "number": 38,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=38"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-arizona-diamondbacks-san-diego-padres-2026-07-07-04-40",
+            "startTimestamp": 1783388400000,
+            "duration": 180
+        },
+        {
+            "matchText": "04:45 [MLB] Baseball: Toronto Blue Jays vs San Francisco Giants [MLB Pass US]",
+            "matchstr": "Toronto Blue Jays vs San Francisco Giants",
+            "time": "04:45",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Toronto Blue Jays",
+            "team2": "San Francisco Giants",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=39"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-toronto-blue-jays-san-francisco-giants-2026-07-07-04-45",
+            "startTimestamp": 1783388700000,
+            "duration": 180
+        },
+        {
+            "matchText": "05:10 [MLB] Baseball: Colorado Rockies vs Los Angeles Dodgers [MLB Pass US]",
+            "matchstr": "Colorado Rockies vs Los Angeles Dodgers",
+            "time": "05:10",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Colorado Rockies",
+            "team2": "Los Angeles Dodgers",
+            "channel": "MLB Pass US",
+            "important": false,
+            "matchDate": "2026-07-07",
+            "channels": [
+                {
+                    "name": "MLB Pass",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=40"
+                    ],
+                    "number": 40,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=40"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-colorado-rockies-los-angeles-dodgers-2026-07-07-05-10",
+            "startTimestamp": 1783390200000,
+            "duration": 180
         },
         {
             "matchText": "20:30 [Europe UEFA Champions League] Floriana vs Shamrock Rovers [TVMSport+ MT]",
@@ -3110,7 +3559,7 @@
                     "number": 63,
                     "language": "MT",
                     "links": [
-                        "https://s2.kora.st/channel?id=63"
+                        "https://s2.kora.st/channel.php?id=63"
                     ]
                 }
             ],
@@ -3138,7 +3587,7 @@
                     "number": 64,
                     "language": "BH",
                     "links": [
-                        "https://s2.kora.st/channel?id=64"
+                        "https://s2.kora.st/channel.php?id=64"
                     ]
                 }
             ],
@@ -3166,7 +3615,7 @@
                     "number": 64,
                     "language": "HU",
                     "links": [
-                        "https://s2.kora.st/channel?id=64"
+                        "https://s2.kora.st/channel.php?id=64"
                     ]
                 }
             ],
@@ -3194,7 +3643,7 @@
                     "number": 85,
                     "language": "MX",
                     "links": [
-                        "https://s2.kora.st/channel?id=85"
+                        "https://s2.kora.st/channel.php?id=85"
                     ]
                 }
             ],
@@ -3222,7 +3671,7 @@
                     "number": 85,
                     "language": "MX",
                     "links": [
-                        "https://s2.kora.st/channel?id=85"
+                        "https://s2.kora.st/channel.php?id=85"
                     ]
                 }
             ],
