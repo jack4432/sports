@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:45 [United States NWSL] San Diego Wave vs Gotham FC [TNT Sports 2 GB]",
-            "matchstr": "San Diego Wave vs Gotham FC",
-            "time": "03:45",
-            "league": "United States NWSL",
-            "sport": "Football",
-            "team1": "San Diego Wave",
-            "team2": "Gotham FC",
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=2"
-                    ]
-                }
-            ],
-            "slug": "united-states-nwsl-football-san-diego-wave-gotham-fc-2026-07-05-03-45",
-            "startTimestamp": 1783212300000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [United States NWSL] Boston Legacy vs Bay FC [ESPN US]",
             "matchstr": "Boston Legacy vs Bay FC",
             "time": "19:00",
@@ -57,34 +29,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:00 [NBA] Basketball: Utah Jazz vs Atlanta Hawks [NBA League Pass US]",
-            "matchstr": "Utah Jazz vs Atlanta Hawks",
-            "time": "00:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Utah Jazz",
-            "team2": "Atlanta Hawks",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=5"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-utah-jazz-atlanta-hawks-2026-07-05-00-00",
-            "startTimestamp": 1783198800000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [NBA] Basketball: Milwaukee Bucks vs Brooklyn Nets [NBA League Pass US]",
             "matchstr": "Milwaukee Bucks vs Brooklyn Nets",
             "time": "22:00",
@@ -110,34 +54,6 @@
             ],
             "slug": "nba-basketball-milwaukee-bucks-brooklyn-nets-2026-07-05-22-00",
             "startTimestamp": 1783278000000,
-            "duration": 180
-        },
-        {
-            "matchText": "00:00 [NBA] Basketball: Sacramento Kings vs Brooklyn Nets [NBA League Pass US]",
-            "matchstr": "Sacramento Kings vs Brooklyn Nets",
-            "time": "00:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Sacramento Kings",
-            "team2": "Brooklyn Nets",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=6"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-sacramento-kings-brooklyn-nets-2026-07-05-00-00",
-            "startTimestamp": 1783198800000,
             "duration": 180
         },
         {
@@ -556,34 +472,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [Fighting] Boxing: Abdullah Mason vs Albert Bell [DAZN US]",
-            "matchstr": "Abdullah Mason vs Albert Bell",
-            "time": "02:00",
-            "league": "Fighting",
-            "sport": "Boxing",
-            "team1": "Abdullah Mason",
-            "team2": "Albert Bell",
-            "channel": "DAZN US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=12"
-                    ]
-                }
-            ],
-            "slug": "fighting-boxing-abdullah-mason-albert-bell-2026-07-05-02-00",
-            "startTimestamp": 1783206000000,
-            "duration": 180
-        },
-        {
             "matchText": "18:00 [Europe UEFA U19 European Championship] Serbia U19 vs Croatia U19 [Sportdigital FUSSBALL2 DE]",
             "matchstr": "Serbia U19 vs Croatia U19",
             "time": "18:00",
@@ -830,34 +718,6 @@
             "duration": 120
         },
         {
-            "matchText": "01:30 [FIBA World Cup] Basketball: Venezuela vs Brazil [FOX Sports 2 MX]",
-            "matchstr": "Venezuela vs Brazil",
-            "time": "01:30",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Venezuela",
-            "team2": "Brazil",
-            "channel": "FOX Sports 2 MX",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "FOX Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "MX",
-                    "links": [
-                        "https://s2.kora.st/channel?id=27"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-venezuela-brazil-2026-07-05-01-30",
-            "startTimestamp": 1783204200000,
-            "duration": 120
-        },
-        {
             "matchText": "18:30 [FIBA World Cup] Basketball: Georgia vs Spain [Vamos ES]",
             "matchstr": "Georgia vs Spain",
             "time": "18:30",
@@ -883,157 +743,6 @@
             ],
             "slug": "fiba-world-cup-basketball-georgia-spain-2026-07-05-18-30",
             "startTimestamp": 1783265400000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:00 [WR Nations Cup] Rugby: Canada vs Spain [TSN1 CA]",
-            "matchstr": "Canada vs Spain",
-            "time": "04:00",
-            "league": "WR Nations Cup",
-            "sport": "Rugby",
-            "team1": "Canada",
-            "team2": "Spain",
-            "channel": "TSN1 CA",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=31"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 6",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=36"
-                    ]
-                }
-            ],
-            "slug": "wr-nations-cup-rugby-canada-spain-2026-07-05-04-00",
-            "startTimestamp": 1783213200000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:15 [WR Nations Cup] Rugby: Tonga vs Zimbabwe [Sky Sport 2 NZ]",
-            "matchstr": "Tonga vs Zimbabwe",
-            "time": "01:15",
-            "league": "WR Nations Cup",
-            "sport": "Rugby",
-            "team1": "Tonga",
-            "team2": "Zimbabwe",
-            "channel": "Sky Sport 2 NZ",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Sky Sport 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "wr-nations-cup-rugby-tonga-zimbabwe-2026-07-05-01-15",
-            "startTimestamp": 1783203300000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [WR Nations Cup] Rugby: Chile vs Romania [Sky Sport 3 NZ]",
-            "matchstr": "Chile vs Romania",
-            "time": "01:00",
-            "league": "WR Nations Cup",
-            "sport": "Rugby",
-            "team1": "Chile",
-            "team2": "Romania",
-            "channel": "Sky Sport 3 NZ",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Sky Sport 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=33"
-                    ]
-                }
-            ],
-            "slug": "wr-nations-cup-rugby-chile-romania-2026-07-05-01-00",
-            "startTimestamp": 1783202400000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [CFL] Canadian Football: Edmonton Elks vs BC Lions [TSN5 CA]",
-            "matchstr": "Edmonton Elks vs BC Lions",
-            "time": "01:00",
-            "league": "CFL",
-            "sport": "Canadian Football",
-            "team1": "Edmonton Elks",
-            "team2": "BC Lions",
-            "channel": "TSN5 CA",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TSN5",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=35"
-                    ]
-                }
-            ],
-            "slug": "cfl-canadian-football-edmonton-elks-bc-lions-2026-07-05-01-00",
-            "startTimestamp": 1783202400000,
-            "duration": 180
-        },
-        {
-            "matchText": "04:00 [WR Nations Cup] Rugby: United States vs Portugal [Sky Sport 7 NZ]",
-            "matchstr": "United States vs Portugal",
-            "time": "04:00",
-            "league": "WR Nations Cup",
-            "sport": "Rugby",
-            "team1": "United States",
-            "team2": "Portugal",
-            "channel": "Sky Sport 7 NZ",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Sky Sport 7",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=37"
-                    ],
-                    "number": 37,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=37"
-                    ]
-                }
-            ],
-            "slug": "wr-nations-cup-rugby-united-states-portugal-2026-07-05-04-00",
-            "startTimestamp": 1783213200000,
             "duration": 120
         },
         {
@@ -1261,34 +970,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [Canada Canadian Premier League] Vancouver FC vs Inter Toronto [Fox Sports 2 US]",
-            "matchstr": "Vancouver FC vs Inter Toronto",
-            "time": "02:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Vancouver FC",
-            "team2": "Inter Toronto",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-vancouver-fc-inter-toronto-2026-07-05-02-00",
-            "startTimestamp": 1783206000000,
-            "duration": 120
-        },
-        {
             "matchText": "07:00 [NRL] Rugby: Manly Sea Eagles vs Parramatta Eels [Fox Sports 2 US]",
             "matchstr": "Manly Sea Eagles vs Parramatta Eels",
             "time": "07:00",
@@ -1482,62 +1163,6 @@
             ],
             "slug": "super-league-rugby-st-helens-wigan-2026-07-05-19-30",
             "startTimestamp": 1783269000000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [Chile Copa Chile] Deportes Iquique vs Coquimbo Unido [TNT SPORTS Premium ES]",
-            "matchstr": "Deportes Iquique vs Coquimbo Unido",
-            "time": "01:00",
-            "league": "Chile Copa Chile",
-            "sport": "Football",
-            "team1": "Deportes Iquique",
-            "team2": "Coquimbo Unido",
-            "channel": "TNT SPORTS Premium ES",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TNT SPORTS Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "chile-copa-chile-football-deportes-iquique-coquimbo-unido-2026-07-05-01-00",
-            "startTimestamp": 1783202400000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [Chile Copa Chile] Universidad Cat\u00f3lica vs Copiap\u00f3 [TNT SPORTS Premium ES]",
-            "matchstr": "Universidad Cat\u00f3lica vs Copiap\u00f3",
-            "time": "03:30",
-            "league": "Chile Copa Chile",
-            "sport": "Football",
-            "team1": "Universidad Cat\u00f3lica",
-            "team2": "Copiap\u00f3",
-            "channel": "TNT SPORTS Premium ES",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "TNT SPORTS Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "chile-copa-chile-football-universidad-catolica-copiapo-2026-07-05-03-30",
-            "startTimestamp": 1783211400000,
             "duration": 120
         },
         {
