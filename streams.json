@@ -150,62 +150,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [FIBA World Cup] Basketball: Cyprus vs Germany [Magenta DE]",
-            "matchstr": "Cyprus vs Germany",
-            "time": "20:00",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Cyprus",
-            "team2": "Germany",
-            "channel": "Magenta DE",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "Magenta",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=12"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-cyprus-germany-2026-07-06-20-00",
-            "startTimestamp": 1783357200000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [FIBA World Cup] Basketball: Bosnia & Herzegovina vs Serbia [Magenta DE]",
-            "matchstr": "Bosnia & Herzegovina vs Serbia",
-            "time": "21:00",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Bosnia & Herzegovina",
-            "team2": "Serbia",
-            "channel": "Magenta DE",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "Magenta",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=13"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-bosnia-herzegovina-serbia-2026-07-06-21-00",
-            "startTimestamp": 1783360800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [MLB] Baseball: Philadelphia Phillies vs Kansas City Royals [MLB Pass US]",
             "matchstr": "Philadelphia Phillies vs Kansas City Royals",
             "time": "21:30",
@@ -234,34 +178,6 @@
             "duration": 180
         },
         {
-            "matchText": "19:00 [FIBA World Cup] Basketball: Turkey vs Switzerland [RSI La2 IT]",
-            "matchstr": "Turkey vs Switzerland",
-            "time": "19:00",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Turkey",
-            "team2": "Switzerland",
-            "channel": "RSI La2 IT",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "RSI La2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=46"
-                    ],
-                    "number": 46,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=46"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-turkey-switzerland-2026-07-06-19-00",
-            "startTimestamp": 1783353600000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [FIBA World Cup] Basketball: France vs Finland [beIN Sports 3 FR]",
             "matchstr": "France vs Finland",
             "time": "21:30",
@@ -287,90 +203,6 @@
             ],
             "slug": "fiba-world-cup-basketball-france-finland-2026-07-06-21-30",
             "startTimestamp": 1783362600000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [FIBA World Cup] Basketball: Slovenia vs Sweden [Arena Premium 3 RS]",
-            "matchstr": "Slovenia vs Sweden",
-            "time": "21:00",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Slovenia",
-            "team2": "Sweden",
-            "channel": "Arena Premium 3 RS",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "Arena Premium 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=63"
-                    ],
-                    "number": 63,
-                    "language": "RS",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=63"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-slovenia-sweden-2026-07-06-21-00",
-            "startTimestamp": 1783360800000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden Allsvenskan] H\u00e4cken vs Djurg\u00e5rden [TV4 Fotball SE]",
-            "matchstr": "H\u00e4cken vs Djurg\u00e5rden",
-            "time": "20:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "H\u00e4cken",
-            "team2": "Djurg\u00e5rden",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-hacken-djurgarden-2026-07-06-20-00",
-            "startTimestamp": 1783357200000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden Allsvenskan] Brommapojkarna vs GAIS [TV4 Sportkanalen SE]",
-            "matchstr": "Brommapojkarna vs GAIS",
-            "time": "20:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Brommapojkarna",
-            "team2": "GAIS",
-            "channel": "TV4 Sportkanalen SE",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=76"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-brommapojkarna-gais-2026-07-06-20-00",
-            "startTimestamp": 1783357200000,
             "duration": 120
         },
         {
