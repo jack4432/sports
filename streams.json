@@ -1,174 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:30 [NBA] Basketball: Los Angeles Lakers vs Miami Heat [NBA League Pass US]",
-            "matchstr": "Los Angeles Lakers vs Miami Heat",
-            "time": "23:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Los Angeles Lakers",
-            "team2": "Miami Heat",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=6"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-los-angeles-lakers-miami-heat-2026-07-05-23-30",
-            "startTimestamp": 1783283400000,
-            "duration": 180
-        },
-        {
-            "matchText": "23:00 [MLB] Baseball: San Francisco Giants vs Colorado Rockies [MLB Pass US]",
-            "matchstr": "San Francisco Giants vs Colorado Rockies",
-            "time": "23:00",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "San Francisco Giants",
-            "team2": "Colorado Rockies",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=32"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-san-francisco-giants-colorado-rockies-2026-07-05-23-00",
-            "startTimestamp": 1783281600000,
-            "duration": 180
-        },
-        {
-            "matchText": "23:00 [MLB] Baseball: Milwaukee Brewers vs Arizona Diamondbacks [MLB Pass US]",
-            "matchstr": "Milwaukee Brewers vs Arizona Diamondbacks",
-            "time": "23:00",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Milwaukee Brewers",
-            "team2": "Arizona Diamondbacks",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=33"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-milwaukee-brewers-arizona-diamondbacks-2026-07-05-23-00",
-            "startTimestamp": 1783281600000,
-            "duration": 180
-        },
-        {
-            "matchText": "23:30 [MLB] Baseball: Miami Marlins vs Athletics [MLB Pass US]",
-            "matchstr": "Miami Marlins vs Athletics",
-            "time": "23:30",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Miami Marlins",
-            "team2": "Athletics",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=34"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-miami-marlins-athletics-2026-07-05-23-30",
-            "startTimestamp": 1783283400000,
-            "duration": 180
-        },
-        {
-            "matchText": "22:30 [MLB] Baseball: Tampa Bay Rays vs Houston Astros [MLB Pass US]",
-            "matchstr": "Tampa Bay Rays vs Houston Astros",
-            "time": "22:30",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Tampa Bay Rays",
-            "team2": "Houston Astros",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=39"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-tampa-bay-rays-houston-astros-2026-07-05-22-30",
-            "startTimestamp": 1783279800000,
-            "duration": 180
-        },
-        {
-            "matchText": "22:30 [MLB] Baseball: Detroit Tigers vs Texas Rangers [MLB Pass US]",
-            "matchstr": "Detroit Tigers vs Texas Rangers",
-            "time": "22:30",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Detroit Tigers",
-            "team2": "Texas Rangers",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-05",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=40"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-detroit-tigers-texas-rangers-2026-07-05-22-30",
-            "startTimestamp": 1783279800000,
-            "duration": 180
-        },
-        {
             "matchText": "03:00 [FIFA World Cup] Mexico vs England [BBC One GB]",
             "matchstr": "Mexico vs England",
             "time": "03:00",
@@ -456,34 +288,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:00 [NBA] Basketball: Golden State Warriors vs Sacramento Kings [ESPN US]",
-            "matchstr": "Golden State Warriors vs Sacramento Kings",
-            "time": "00:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Golden State Warriors",
-            "team2": "Sacramento Kings",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=4"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-golden-state-warriors-sacramento-kings-2026-07-06-00-00",
-            "startTimestamp": 1783285200000,
-            "duration": 180
-        },
-        {
             "matchText": "02:00 [NBA] Basketball: San Antonio Spurs vs Golden State Warriors [ESPN US]",
             "matchstr": "San Antonio Spurs vs Golden State Warriors",
             "time": "02:00",
@@ -566,73 +370,6 @@
             "slug": "nba-basketball-utah-jazz-vs-memphis-grizzlies-2026-07-06-04-00",
             "startTimestamp": 1783299600000,
             "duration": 180
-        },
-        {
-            "matchText": "01:00 [NASCAR Cup Series] Motorsport: eero 400 [TNT US]",
-            "matchstr": "eero 400",
-            "time": "01:00",
-            "league": "NASCAR Cup Series",
-            "sport": "Motorsport",
-            "team1": "eero 400",
-            "team2": null,
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=7"
-                    ]
-                },
-                {
-                    "name": "TSN5",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=35"
-                    ]
-                }
-            ],
-            "slug": "nascar-cup-series-motorsport-eero-400-2026-07-06-01-00",
-            "startTimestamp": 1783288800000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:00 [NWSL] Chicago Stars VS Utah Royals [CBS Sports Network US]",
-            "matchstr": "Chicago Stars VS Utah Royals",
-            "time": "00:00",
-            "league": "NWSL",
-            "sport": "Football",
-            "team1": "Chicago Stars VS Utah Royals",
-            "team2": null,
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=8"
-                    ]
-                }
-            ],
-            "slug": "nwsl-football-chicago-stars-vs-utah-royals-2026-07-06-00-00",
-            "startTimestamp": 1783285200000,
-            "duration": 120
         },
         {
             "matchText": "02:00 [CFL] Canadian Football: Winnipeg Blue Bombers vs Hamilton Tiger vs Cats [CBS Sports Network US]",
@@ -719,34 +456,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:30 [Chile Copa Chile] Uni\u00f3n Espa\u00f1ola vs O'Higgins [TNT SPORTS Premium ES]",
-            "matchstr": "Uni\u00f3n Espa\u00f1ola vs O'Higgins",
-            "time": "00:30",
-            "league": "Chile Copa Chile",
-            "sport": "Football",
-            "team1": "Uni\u00f3n Espa\u00f1ola",
-            "team2": "O'Higgins",
-            "channel": "TNT SPORTS Premium ES",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "TNT SPORTS Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=27"
-                    ]
-                }
-            ],
-            "slug": "chile-copa-chile-football-union-espanola-o-higgins-2026-07-06-00-30",
-            "startTimestamp": 1783287000000,
-            "duration": 120
-        },
-        {
             "matchText": "03:00 [Chile Copa Chile] Deportes Limache vs San Marcos [TNT SPORTS Premium ES]",
             "matchstr": "Deportes Limache vs San Marcos",
             "time": "03:00",
@@ -773,34 +482,6 @@
             "slug": "chile-copa-chile-football-deportes-limache-san-marcos-2026-07-06-03-00",
             "startTimestamp": 1783296000000,
             "duration": 120
-        },
-        {
-            "matchText": "00:00 [MLB] Baseball: Toronto Blue Jays vs Seattle Mariners [MLB Pass US]",
-            "matchstr": "Toronto Blue Jays vs Seattle Mariners",
-            "time": "00:00",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Toronto Blue Jays",
-            "team2": "Seattle Mariners",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=36"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-toronto-blue-jays-seattle-mariners-2026-07-06-00-00",
-            "startTimestamp": 1783285200000,
-            "duration": 180
         },
         {
             "matchText": "02:20 [MLB] Baseball: San Diego Padres vs Los Angeles Dodgers [MLB Pass US]",
@@ -1052,62 +733,6 @@
             ],
             "slug": "sweden-allsvenskan-football-brommapojkarna-gais-2026-07-06-20-00",
             "startTimestamp": 1783357200000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [Canada Canadian Premier League] Pacific FC vs HFX Wanderers [Fox Sports 2 US]",
-            "matchstr": "Pacific FC vs HFX Wanderers",
-            "time": "01:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Pacific FC",
-            "team2": "HFX Wanderers",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-pacific-fc-hfx-wanderers-2026-07-06-01-00",
-            "startTimestamp": 1783288800000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [FIBA World Cup] Basketball: Uruguay vs Cuba [FOX Sports 2 MX]",
-            "matchstr": "Uruguay vs Cuba",
-            "time": "00:30",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Uruguay",
-            "team2": "Cuba",
-            "channel": "FOX Sports 2 MX",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "FOX Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "MX",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=85"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-uruguay-cuba-2026-07-06-00-30",
-            "startTimestamp": 1783287000000,
             "duration": 120
         },
         {
