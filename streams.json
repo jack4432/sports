@@ -1,211 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "22:00 [FIFA World Cup] Portugal vs Spain [BBC One GB]",
-            "matchstr": "Portugal vs Spain",
-            "time": "22:00",
-            "league": "FIFA World Cup",
-            "sport": "Football",
-            "team1": "Portugal",
-            "team2": "Spain",
-            "channel": "BBC One GB",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "BBC One",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=1"
-                    ]
-                },
-                {
-                    "name": "FOX",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=10"
-                    ]
-                },
-                {
-                    "name": "MagentaTV",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=11"
-                    ]
-                },
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=21"
-                    ]
-                },
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=31"
-                    ]
-                },
-                {
-                    "name": "M6",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=56"
-                    ],
-                    "number": 56,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=56"
-                    ]
-                },
-                {
-                    "name": "TVP1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=61"
-                    ],
-                    "number": 61,
-                    "language": "PL",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=61"
-                    ]
-                },
-                {
-                    "name": "HRT 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "HR",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=70"
-                    ]
-                },
-                {
-                    "name": "MTV Urheilu 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=71"
-                    ]
-                },
-                {
-                    "name": "TV4 Sweden",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=74"
-                    ]
-                },
-                {
-                    "name": "NPO 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=88"
-                    ]
-                },
-                {
-                    "name": "DAZN Mundial",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=100"
-                    ]
-                }
-            ],
-            "slug": "fifa-world-cup-football-portugal-spain-2026-07-06-22-00",
-            "startTimestamp": 1783364400000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:30 [MLB] Baseball: Philadelphia Phillies vs Kansas City Royals [MLB Pass US]",
-            "matchstr": "Philadelphia Phillies vs Kansas City Royals",
-            "time": "21:30",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Philadelphia Phillies",
-            "team2": "Kansas City Royals",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=39"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-philadelphia-phillies-kansas-city-royals-2026-07-06-21-30",
-            "startTimestamp": 1783362600000,
-            "duration": 180
-        },
-        {
-            "matchText": "21:30 [FIBA World Cup] Basketball: France vs Finland [beIN Sports 3 FR]",
-            "matchstr": "France vs Finland",
-            "time": "21:30",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "France",
-            "team2": "Finland",
-            "channel": "beIN Sports 3 FR",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "beIN Sports 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=53"
-                    ],
-                    "number": 53,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=53"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-france-finland-2026-07-06-21-30",
-            "startTimestamp": 1783362600000,
-            "duration": 120
-        },
-        {
             "matchText": "03:00 [FIFA World Cup] USA vs Belgium [BBC One GB]",
             "matchstr": "USA vs Belgium",
             "time": "03:00",
@@ -1654,9 +1449,9 @@
             "duration": 120
         },
         {
-            "matchText": "19:30 [Friendly Club Match] Buducnost vs Radnicki 1923 [Arena Premium 2 BH]",
+            "matchText": "15:00 [Friendly Club Match] Buducnost vs Radnicki 1923 [Arena Premium 2 BH]",
             "matchstr": "Buducnost vs Radnicki 1923",
-            "time": "19:30",
+            "time": "15:00",
             "league": "Friendly Club Match",
             "sport": "Football",
             "team1": "Buducnost",
@@ -1677,8 +1472,8 @@
                     ]
                 }
             ],
-            "slug": "friendly-club-match-football-buducnost-radnicki-1923-2026-07-07-19-30",
-            "startTimestamp": 1783441800000,
+            "slug": "friendly-club-match-football-buducnost-radnicki-1923-2026-07-07-15-00",
+            "startTimestamp": 1783425600000,
             "duration": 120
         },
         {

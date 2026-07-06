@@ -1,32 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (BBC One)
-https://s2.kora.st/channel.php?id=1
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (FOX)
-https://s2.kora.st/channel.php?id=10
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (MagentaTV)
-https://s2.kora.st/channel.php?id=11
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (Sport TV1)
-https://s2.kora.st/channel.php?id=21
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (TSN1)
-https://s2.kora.st/channel.php?id=31
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (M6)
-https://s2.kora.st/channel.php?id=56
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (TVP1)
-https://s2.kora.st/channel.php?id=61
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (HRT 2)
-https://s2.kora.st/channel.php?id=70
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (MTV Urheilu 1)
-https://s2.kora.st/channel.php?id=71
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (TV4 Sweden)
-https://s2.kora.st/channel.php?id=74
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (NPO 1)
-https://s2.kora.st/channel.php?id=88
-#EXTINF:-1 tvg-id="fifa-world-cup-football-portugal-spain-2026-07-06-22-00" group-title="FIFA World Cup",Portugal vs Spain (DAZN Mundial)
-https://s2.kora.st/channel.php?id=100
-#EXTINF:-1 tvg-id="mlb-baseball-philadelphia-phillies-kansas-city-royals-2026-07-06-21-30" group-title="MLB",Philadelphia Phillies vs Kansas City Royals (MLB Pass)
-https://s2.kora.st/channel.php?id=39
-#EXTINF:-1 tvg-id="fiba-world-cup-basketball-france-finland-2026-07-06-21-30" group-title="FIBA World Cup",France vs Finland (beIN Sports 3)
-https://s2.kora.st/channel.php?id=53
 #EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (BBC One)
 https://s2.kora.st/channel.php?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-usa-belgium-2026-07-07-03-00" group-title="FIFA World Cup",USA vs Belgium (FOX)
@@ -179,7 +151,7 @@ https://s2.kora.st/channel.php?id=66
 https://s2.kora.st/channel.php?id=67
 #EXTINF:-1 tvg-id="friendly-club-match-football-cska-1948-sofia-zeleznicar-2026-07-07-18-30" group-title="Friendly Club Match",CSKA 1948 Sofia vs Zeleznicar (Arena 2 Premium)
 https://s2.kora.st/channel.php?id=68
-#EXTINF:-1 tvg-id="friendly-club-match-football-buducnost-radnicki-1923-2026-07-07-19-30" group-title="Friendly Club Match",Buducnost vs Radnicki 1923 (Arena Premium 2)
+#EXTINF:-1 tvg-id="friendly-club-match-football-buducnost-radnicki-1923-2026-07-07-15-00" group-title="Friendly Club Match",Buducnost vs Radnicki 1923 (Arena Premium 2)
 https://s2.kora.st/channel.php?id=69
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-jamaica-canada-2026-07-07-02-10" group-title="FIBA World Cup",Jamaica vs Canada (Fox Sports 2)
 https://s2.kora.st/channel.php?id=85
