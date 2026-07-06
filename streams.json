@@ -234,34 +234,6 @@
             "duration": 180
         },
         {
-            "matchText": "18:00 [FIBA World Cup] Basketball: Czech Republic vs Estonia [CT Sport CZ]",
-            "matchstr": "Czech Republic vs Estonia",
-            "time": "18:00",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Czech Republic",
-            "team2": "Estonia",
-            "channel": "CT Sport CZ",
-            "important": false,
-            "matchDate": "2026-07-06",
-            "channels": [
-                {
-                    "name": "CT Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "CZ",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=40"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-czech-republic-estonia-2026-07-06-18-00",
-            "startTimestamp": 1783350000000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [FIBA World Cup] Basketball: Turkey vs Switzerland [RSI La2 IT]",
             "matchstr": "Turkey vs Switzerland",
             "time": "19:00",
@@ -1931,6 +1903,465 @@
             ],
             "slug": "fiba-world-cup-basketball-mexico-usa-2026-07-07-05-00",
             "startTimestamp": 1783389600000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [WNBA] Basketball: Dallas Wings vs New York Liberty [ESPN US]",
+            "matchstr": "Dallas Wings vs New York Liberty",
+            "time": "03:00",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "Dallas Wings",
+            "team2": "New York Liberty",
+            "channel": "ESPN US",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=3"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=86"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-dallas-wings-new-york-liberty-2026-07-08-03-00",
+            "startTimestamp": 1783468800000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [NBA] Basketball: Atlanta Hawks vs Memphis Grizzlies [ESPN U US]",
+            "matchstr": "Atlanta Hawks vs Memphis Grizzlies",
+            "time": "02:00",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "Atlanta Hawks",
+            "team2": "Memphis Grizzlies",
+            "channel": "ESPN U US",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "ESPN U",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=4"
+                    ],
+                    "number": 4,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=4"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-atlanta-hawks-memphis-grizzlies-2026-07-08-02-00",
+            "startTimestamp": 1783465200000,
+            "duration": 180
+        },
+        {
+            "matchText": "04:00 [NBA] Basketball: Oklahoma City Thunder vs Utah Jazz [ESPN U US]",
+            "matchstr": "Oklahoma City Thunder vs Utah Jazz",
+            "time": "04:00",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "Oklahoma City Thunder",
+            "team2": "Utah Jazz",
+            "channel": "ESPN U US",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "ESPN U",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=4"
+                    ],
+                    "number": 4,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=4"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-oklahoma-city-thunder-utah-jazz-2026-07-08-04-00",
+            "startTimestamp": 1783472400000,
+            "duration": 180
+        },
+        {
+            "matchText": "19:00 [World Club Friendly] Austria Wien vs DAC [Krone TV AT]",
+            "matchstr": "Austria Wien vs DAC",
+            "time": "19:00",
+            "league": "World Club Friendly",
+            "sport": "Football",
+            "team1": "Austria Wien",
+            "team2": "DAC",
+            "channel": "Krone TV AT",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Krone TV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=16"
+                    ],
+                    "number": 16,
+                    "language": "AT",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=16"
+                    ]
+                }
+            ],
+            "slug": "world-club-friendly-football-austria-wien-dac-2026-07-08-19-00",
+            "startTimestamp": 1783526400000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:30 [Europe UEFA U19 European Championship] Spain U19 vs Croatia U19 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Spain U19 vs Croatia U19",
+            "time": "18:30",
+            "league": "Europe UEFA U19 European Championship",
+            "sport": "Football",
+            "team1": "Spain U19",
+            "team2": "Croatia U19",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u19-european-championship-football-spain-u19-croatia-u19-2026-07-08-18-30",
+            "startTimestamp": 1783524600000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [Europe UEFA U19 European Championship] Ukraine U19 vs Germany U19 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Ukraine U19 vs Germany U19",
+            "time": "21:00",
+            "league": "Europe UEFA U19 European Championship",
+            "sport": "Football",
+            "team1": "Ukraine U19",
+            "team2": "Germany U19",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u19-european-championship-football-ukraine-u19-germany-u19-2026-07-08-21-00",
+            "startTimestamp": 1783533600000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:45 [MLB] Baseball: San Francisco Giants VS Toronto Blue Jays [Sportdigital1+ DE]",
+            "matchstr": "San Francisco Giants VS Toronto Blue Jays",
+            "time": "22:45",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "San Francisco Giants VS Toronto Blue Jays",
+            "team2": null,
+            "channel": "Sportdigital1+ DE",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Sportdigital1+",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=20"
+                    ],
+                    "number": 20,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=20"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-san-francisco-giants-vs-toronto-blue-jays-2026-07-08-22-45",
+            "startTimestamp": 1783539900000,
+            "duration": 180
+        },
+        {
+            "matchText": "22:30 [World Club Friendly] Lausanne Sport vs Flamengo [Canal 11 PT]",
+            "matchstr": "Lausanne Sport vs Flamengo",
+            "time": "22:30",
+            "league": "World Club Friendly",
+            "sport": "Football",
+            "team1": "Lausanne Sport",
+            "team2": "Flamengo",
+            "channel": "Canal 11 PT",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Canal 11",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=22"
+                    ],
+                    "number": 22,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=22"
+                    ]
+                }
+            ],
+            "slug": "world-club-friendly-football-lausanne-sport-flamengo-2026-07-08-22-30",
+            "startTimestamp": 1783539000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [World Club Friendly] Rak\u00f3w Cz\u0119stochowa vs Olympiakos Piraeus [Cosmote Sport 1 GR]",
+            "matchstr": "Rak\u00f3w Cz\u0119stochowa vs Olympiakos Piraeus",
+            "time": "19:00",
+            "league": "World Club Friendly",
+            "sport": "Football",
+            "team1": "Rak\u00f3w Cz\u0119stochowa",
+            "team2": "Olympiakos Piraeus",
+            "channel": "Cosmote Sport 1 GR",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Cosmote Sport 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=23"
+                    ],
+                    "number": 23,
+                    "language": "GR",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=23"
+                    ]
+                }
+            ],
+            "slug": "world-club-friendly-football-rakow-czestochowa-olympiakos-piraeus-2026-07-08-19-00",
+            "startTimestamp": 1783526400000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [World Club Friendly] Maccabi Haifa vs Paksi SE [Sport 4 IL]",
+            "matchstr": "Maccabi Haifa vs Paksi SE",
+            "time": "18:00",
+            "league": "World Club Friendly",
+            "sport": "Football",
+            "team1": "Maccabi Haifa",
+            "team2": "Paksi SE",
+            "channel": "Sport 4 IL",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Sport 4",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=63"
+                    ],
+                    "number": 63,
+                    "language": "IL",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=63"
+                    ]
+                }
+            ],
+            "slug": "world-club-friendly-football-maccabi-haifa-paksi-se-2026-07-08-18-00",
+            "startTimestamp": 1783522800000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Europe UEFA Champions League] Petrocub vs Egnatia Rrogozhin\u00eb [We Sport MD]",
+            "matchstr": "Petrocub vs Egnatia Rrogozhin\u00eb",
+            "time": "20:00",
+            "league": "Europe UEFA Champions League",
+            "sport": "Football",
+            "team1": "Petrocub",
+            "team2": "Egnatia Rrogozhin\u00eb",
+            "channel": "We Sport MD",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "We Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=64"
+                    ],
+                    "number": 64,
+                    "language": "MD",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=64"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-champions-league-football-petrocub-egnatia-rrogozhine-2026-07-08-20-00",
+            "startTimestamp": 1783530000000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Europe UEFA Champions League] ML Rogachev vs CSU Craiova [Digi Sport 1 RO]",
+            "matchstr": "ML Rogachev vs CSU Craiova",
+            "time": "20:00",
+            "league": "Europe UEFA Champions League",
+            "sport": "Football",
+            "team1": "ML Rogachev",
+            "team2": "CSU Craiova",
+            "channel": "Digi Sport 1 RO",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Digi Sport 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=65"
+                    ],
+                    "number": 65,
+                    "language": "RO",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=65"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-champions-league-football-ml-rogachev-csu-craiova-2026-07-08-20-00",
+            "startTimestamp": 1783530000000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Europe UEFA Champions League] Kairat vs Sutjeska [Qazsport KZ]",
+            "matchstr": "Kairat vs Sutjeska",
+            "time": "18:00",
+            "league": "Europe UEFA Champions League",
+            "sport": "Football",
+            "team1": "Kairat",
+            "team2": "Sutjeska",
+            "channel": "Qazsport KZ",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Qazsport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "KZ",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=66"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-champions-league-football-kairat-sutjeska-2026-07-08-18-00",
+            "startTimestamp": 1783522800000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Europe UEFA Conference League] Zira vs Torpedo Kutaisi [Idman TV AZ]",
+            "matchstr": "Zira vs Torpedo Kutaisi",
+            "time": "19:00",
+            "league": "Europe UEFA Conference League",
+            "sport": "Football",
+            "team1": "Zira",
+            "team2": "Torpedo Kutaisi",
+            "channel": "Idman TV AZ",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Idman TV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=67"
+                    ],
+                    "number": 67,
+                    "language": "AZ",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=67"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-conference-league-football-zira-torpedo-kutaisi-2026-07-08-19-00",
+            "startTimestamp": 1783526400000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Canada Canadian Championship] Saint-Laurent vs Forge [Fox Soccer Plus US]",
+            "matchstr": "Saint-Laurent vs Forge",
+            "time": "22:00",
+            "league": "Canada Canadian Championship",
+            "sport": "Football",
+            "team1": "Saint-Laurent",
+            "team2": "Forge",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=83"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-championship-football-saint-laurent-forge-2026-07-08-22-00",
+            "startTimestamp": 1783537200000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:30 [World Club Friendly] Admira vs Fenerbah\u00e7e [FB TV TR]",
+            "matchstr": "Admira vs Fenerbah\u00e7e",
+            "time": "20:30",
+            "league": "World Club Friendly",
+            "sport": "Football",
+            "team1": "Admira",
+            "team2": "Fenerbah\u00e7e",
+            "channel": "FB TV TR",
+            "important": false,
+            "matchDate": "2026-07-08",
+            "channels": [
+                {
+                    "name": "FB TV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "TR",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=91"
+                    ]
+                }
+            ],
+            "slug": "world-club-friendly-football-admira-fenerbahce-2026-07-08-20-30",
+            "startTimestamp": 1783531800000,
             "duration": 120
         }
     ]

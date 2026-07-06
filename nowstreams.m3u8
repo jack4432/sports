@@ -29,8 +29,6 @@ https://s2.kora.st/channel.php?id=12
 https://s2.kora.st/channel.php?id=13
 #EXTINF:-1 tvg-id="mlb-baseball-philadelphia-phillies-kansas-city-royals-2026-07-06-21-30" group-title="MLB",Philadelphia Phillies vs Kansas City Royals (MLB Pass)
 https://s2.kora.st/channel.php?id=39
-#EXTINF:-1 tvg-id="fiba-world-cup-basketball-czech-republic-estonia-2026-07-06-18-00" group-title="FIBA World Cup",Czech Republic vs Estonia (CT Sport)
-https://s2.kora.st/channel.php?id=40
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-turkey-switzerland-2026-07-06-19-00" group-title="FIBA World Cup",Turkey vs Switzerland (RSI La2)
 https://s2.kora.st/channel.php?id=46
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-france-finland-2026-07-06-21-30" group-title="FIBA World Cup",France vs Finland (beIN Sports 3)
@@ -199,3 +197,37 @@ https://s2.kora.st/channel.php?id=69
 https://s2.kora.st/channel.php?id=85
 #EXTINF:-1 tvg-id="fiba-world-cup-basketball-mexico-usa-2026-07-07-05-00" group-title="FIBA World Cup",Mexico vs USA (Fox Sports 2)
 https://s2.kora.st/channel.php?id=85
+#EXTINF:-1 tvg-id="wnba-basketball-dallas-wings-new-york-liberty-2026-07-08-03-00" group-title="WNBA",Dallas Wings vs New York Liberty (ESPN)
+https://s2.kora.st/channel.php?id=3
+#EXTINF:-1 tvg-id="wnba-basketball-dallas-wings-new-york-liberty-2026-07-08-03-00" group-title="WNBA",Dallas Wings vs New York Liberty (ESPN Deportes)
+https://s2.kora.st/channel.php?id=86
+#EXTINF:-1 tvg-id="nba-basketball-atlanta-hawks-memphis-grizzlies-2026-07-08-02-00" group-title="NBA",Atlanta Hawks vs Memphis Grizzlies (ESPN U)
+https://s2.kora.st/channel.php?id=4
+#EXTINF:-1 tvg-id="nba-basketball-oklahoma-city-thunder-utah-jazz-2026-07-08-04-00" group-title="NBA",Oklahoma City Thunder vs Utah Jazz (ESPN U)
+https://s2.kora.st/channel.php?id=4
+#EXTINF:-1 tvg-id="world-club-friendly-football-austria-wien-dac-2026-07-08-19-00" group-title="World Club Friendly",Austria Wien vs DAC (Krone TV)
+https://s2.kora.st/channel.php?id=16
+#EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-spain-u19-croatia-u19-2026-07-08-18-30" group-title="Europe UEFA U19 European Championship",Spain U19 vs Croatia U19 (Sportdigital FUSSBALL)
+https://s2.kora.st/channel.php?id=19
+#EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-ukraine-u19-germany-u19-2026-07-08-21-00" group-title="Europe UEFA U19 European Championship",Ukraine U19 vs Germany U19 (Sportdigital FUSSBALL)
+https://s2.kora.st/channel.php?id=19
+#EXTINF:-1 tvg-id="mlb-baseball-san-francisco-giants-vs-toronto-blue-jays-2026-07-08-22-45" group-title="MLB",San Francisco Giants VS Toronto Blue Jays (Sportdigital1+)
+https://s2.kora.st/channel.php?id=20
+#EXTINF:-1 tvg-id="world-club-friendly-football-lausanne-sport-flamengo-2026-07-08-22-30" group-title="World Club Friendly",Lausanne Sport vs Flamengo (Canal 11)
+https://s2.kora.st/channel.php?id=22
+#EXTINF:-1 tvg-id="world-club-friendly-football-rakow-czestochowa-olympiakos-piraeus-2026-07-08-19-00" group-title="World Club Friendly",Raków Częstochowa vs Olympiakos Piraeus (Cosmote Sport 1)
+https://s2.kora.st/channel.php?id=23
+#EXTINF:-1 tvg-id="world-club-friendly-football-maccabi-haifa-paksi-se-2026-07-08-18-00" group-title="World Club Friendly",Maccabi Haifa vs Paksi SE (Sport 4)
+https://s2.kora.st/channel.php?id=63
+#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-petrocub-egnatia-rrogozhine-2026-07-08-20-00" group-title="Europe UEFA Champions League",Petrocub vs Egnatia Rrogozhinë (We Sport)
+https://s2.kora.st/channel.php?id=64
+#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-ml-rogachev-csu-craiova-2026-07-08-20-00" group-title="Europe UEFA Champions League",ML Rogachev vs CSU Craiova (Digi Sport 1)
+https://s2.kora.st/channel.php?id=65
+#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-kairat-sutjeska-2026-07-08-18-00" group-title="Europe UEFA Champions League",Kairat vs Sutjeska (Qazsport)
+https://s2.kora.st/channel.php?id=66
+#EXTINF:-1 tvg-id="europe-uefa-conference-league-football-zira-torpedo-kutaisi-2026-07-08-19-00" group-title="Europe UEFA Conference League",Zira vs Torpedo Kutaisi (Idman TV)
+https://s2.kora.st/channel.php?id=67
+#EXTINF:-1 tvg-id="canada-canadian-championship-football-saint-laurent-forge-2026-07-08-22-00" group-title="Canada Canadian Championship",Saint-Laurent vs Forge (Fox Soccer Plus)
+https://s2.kora.st/channel.php?id=83
+#EXTINF:-1 tvg-id="world-club-friendly-football-admira-fenerbahce-2026-07-08-20-30" group-title="World Club Friendly",Admira vs Fenerbahçe (FB TV)
+https://s2.kora.st/channel.php?id=91
