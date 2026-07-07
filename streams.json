@@ -611,62 +611,6 @@
             "duration": 120
         },
         {
-            "matchText": "05:00 [NBA] Basketball: Milwaukee Bucks vs Sacramento Kings [ESPN U US]",
-            "matchstr": "Milwaukee Bucks vs Sacramento Kings",
-            "time": "05:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Milwaukee Bucks",
-            "team2": "Sacramento Kings",
-            "channel": "ESPN U US",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "ESPN U",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=5"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-milwaukee-bucks-sacramento-kings-2026-07-07-05-00",
-            "startTimestamp": 1783389600000,
-            "duration": 180
-        },
-        {
-            "matchText": "05:00 [NBA] Basketball: Miami Heat vs Golden State Warriors [NBA TV US]",
-            "matchstr": "Miami Heat vs Golden State Warriors",
-            "time": "05:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Miami Heat",
-            "team2": "Golden State Warriors",
-            "channel": "NBA TV US",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "NBA TV",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=6"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-miami-heat-golden-state-warriors-2026-07-07-05-00",
-            "startTimestamp": 1783389600000,
-            "duration": 180
-        },
-        {
             "matchText": "19:30 [World Rugby U20 Championship] Rugby: Spain U20 vs Fiji U20 [Sky Sport 3 NZ]",
             "matchstr": "Spain U20 vs Fiji U20",
             "time": "19:30",
@@ -720,34 +664,6 @@
             ],
             "slug": "mlb-baseball-milwaukee-brewers-st-louis-cardinals-2026-07-07-21-15",
             "startTimestamp": 1783448100000,
-            "duration": 180
-        },
-        {
-            "matchText": "05:10 [MLB] Baseball: Colorado Rockies vs Los Angeles Dodgers [MLB Pass US]",
-            "matchstr": "Colorado Rockies vs Los Angeles Dodgers",
-            "time": "05:10",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Colorado Rockies",
-            "team2": "Los Angeles Dodgers",
-            "channel": "MLB Pass US",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "MLB Pass",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=40"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-colorado-rockies-los-angeles-dodgers-2026-07-07-05-10",
-            "startTimestamp": 1783390200000,
             "duration": 180
         },
         {
