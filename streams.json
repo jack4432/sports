@@ -299,45 +299,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:00 [World Rugby U20 Championship] Rugby: Ireland U20 vs United States U20 [Premier Sports 2 GB]",
-            "matchstr": "Ireland U20 vs United States U20",
-            "time": "12:00",
-            "league": "World Rugby U20 Championship",
-            "sport": "Rugby",
-            "team1": "Ireland U20",
-            "team2": "United States U20",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=2"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=32"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u20-championship-rugby-ireland-u20-united-states-u20-2026-07-07-12-00",
-            "startTimestamp": 1783414800000,
-            "duration": 120
-        },
-        {
             "matchText": "14:30 [World Rugby U20 Championship] Rugby: Argentina U20 vs England U20 [Premier Sports 2 GB]",
             "matchstr": "Argentina U20 vs England U20",
             "time": "14:30",
@@ -441,45 +402,6 @@
             ],
             "slug": "world-club-friendly-football-shelbourne-celtic-2026-07-07-20-00",
             "startTimestamp": 1783443600000,
-            "duration": 120
-        },
-        {
-            "matchText": "12:00 [World Rugby U20 Championship] Rugby: New Zealand U20 vs Italy U20 [Premier Sports 1 GB]",
-            "matchstr": "New Zealand U20 vs Italy U20",
-            "time": "12:00",
-            "league": "World Rugby U20 Championship",
-            "sport": "Rugby",
-            "team1": "New Zealand U20",
-            "team2": "Italy U20",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=3"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=33"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u20-championship-rugby-new-zealand-u20-italy-u20-2026-07-07-12-00",
-            "startTimestamp": 1783414800000,
             "duration": 120
         },
         {
