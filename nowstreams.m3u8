@@ -47,18 +47,8 @@ https://s2.kora.st/channel.php?id=72
 https://s2.kora.st/channel.php?id=88
 #EXTINF:-1 tvg-id="fifa-world-cup-football-switzerland-colombia-2026-07-07-23-00" group-title="FIFA World Cup",Switzerland vs Colombia (DAZN Mundial)
 https://s2.kora.st/channel.php?id=100
-#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-france-u20-australia-u20-2026-07-07-17-00" group-title="World Rugby U20 Championship",France U20 vs Australia U20 (Premier Sports 2)
-https://s2.kora.st/channel.php?id=2
-#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-france-u20-australia-u20-2026-07-07-17-00" group-title="World Rugby U20 Championship",France U20 vs Australia U20 (Sky Sport 2)
-https://s2.kora.st/channel.php?id=32
 #EXTINF:-1 tvg-id="world-club-friendly-football-shelbourne-celtic-2026-07-07-20-00" group-title="World Club Friendly",Shelbourne vs Celtic (Premier Sports 2)
 https://s2.kora.st/channel.php?id=2
-#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-south-africa-u20-wales-u20-2026-07-07-17-00" group-title="World Rugby U20 Championship",South Africa U20 vs Wales U20 (Premier Sports 1)
-https://s2.kora.st/channel.php?id=3
-#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-south-africa-u20-wales-u20-2026-07-07-17-00" group-title="World Rugby U20 Championship",South Africa U20 vs Wales U20 (CBS Sports Network)
-https://s2.kora.st/channel.php?id=8
-#EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-south-africa-u20-wales-u20-2026-07-07-17-00" group-title="World Rugby U20 Championship",South Africa U20 vs Wales U20 (Sky Sport 3)
-https://s2.kora.st/channel.php?id=33
 #EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-georgia-u20-uruguay-u20-2026-07-07-19-30" group-title="World Rugby U20 Championship",Georgia U20 vs Uruguay U20 (Premier Sports 1)
 https://s2.kora.st/channel.php?id=3
 #EXTINF:-1 tvg-id="world-rugby-u20-championship-rugby-georgia-u20-uruguay-u20-2026-07-07-19-30" group-title="World Rugby U20 Championship",Georgia U20 vs Uruguay U20 (Sky Sport 2)
@@ -113,3 +103,71 @@ https://s2.kora.st/channel.php?id=67
 https://s2.kora.st/channel.php?id=83
 #EXTINF:-1 tvg-id="world-club-friendly-football-admira-fenerbahce-2026-07-08-20-30" group-title="World Club Friendly",Admira vs Fenerbahçe (FB TV)
 https://s2.kora.st/channel.php?id=91
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (ITV1)
+https://s2.kora.st/channel.php?id=1
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (Fox)
+https://s2.kora.st/channel.php?id=10
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (MagentaTV)
+https://s2.kora.st/channel.php?id=11
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (TSN1)
+https://s2.kora.st/channel.php?id=31
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (DAZN)
+https://s2.kora.st/channel.php?id=47
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (M6)
+https://s2.kora.st/channel.php?id=56
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (TVP1)
+https://s2.kora.st/channel.php?id=61
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (HRT 2)
+https://s2.kora.st/channel.php?id=70
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (YLE TV2)
+https://s2.kora.st/channel.php?id=72
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (TV4 Sweden)
+https://s2.kora.st/channel.php?id=74
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (NPO 1)
+https://s2.kora.st/channel.php?id=88
+#EXTINF:-1 tvg-id="fifa-world-cup-football-france-morocco-2026-07-09-23-00" group-title="FIFA World Cup",France vs Morocco (DAZN Mundial)
+https://s2.kora.st/channel.php?id=100
+#EXTINF:-1 tvg-id="nba-basketball-san-antonio-spurs-atlanta-hawks-2026-07-09-23-30" group-title="NBA",San Antonio Spurs vs Atlanta Hawks (ESPN2)
+https://s2.kora.st/channel.php?id=2
+#EXTINF:-1 tvg-id="nba-basketball-minnesota-timberwolves-new-orleans-pelicans-2026-07-09-22-30" group-title="NBA",Minnesota Timberwolves vs New Orleans Pelicans (Prime Video)
+https://s2.kora.st/channel.php?id=3
+#EXTINF:-1 tvg-id="chile-copa-de-la-liga-football-union-la-calera-coquimbo-unido-2026-07-09-02-00" group-title="Chile Copa De La Liga",Unión La Calera vs Coquimbo Unido (TNT SPORTS Premium)
+https://s2.kora.st/channel.php?id=27
+#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-cska-sofia-derry-city-2026-07-09-21-00" group-title="Europe UEFA Europa League",CSKA Sofia vs Derry City (Diema Sport)
+https://s2.kora.st/channel.php?id=48
+#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-vojvodina-ferencvaros-2026-07-09-21-00" group-title="Europe UEFA Europa League",Vojvodina vs Ferencváros (Duna World)
+https://s2.kora.st/channel.php?id=57
+#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-vojvodina-ferencvaros-2026-07-09-21-00" group-title="Europe UEFA Europa League",Vojvodina vs Ferencváros (Arena Sport 1x2)
+https://s2.kora.st/channel.php?id=67
+#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-hajduk-split-msk-zilina-2026-07-09-21-00" group-title="Europe UEFA Europa League",Hajduk Split vs MSK Zilina (Hajduk TV)
+https://s2.kora.st/channel.php?id=58
+#EXTINF:-1 tvg-id="europe-uefa-conference-league-football-stjarnan-vikingur-2026-07-09-22-00" group-title="Europe UEFA Conference League",Stjarnan vs Víkingur (SÝN Sport Ísland)
+https://s2.kora.st/channel.php?id=59
+#EXTINF:-1 tvg-id="world-club-friendly-football-debrecen-zeleznicar-pancevo-2026-07-09-15-00" group-title="World Club Friendly",Debrecen vs Železničar Pančevo (Moja TV)
+https://s2.kora.st/channel.php?id=62
+#EXTINF:-1 tvg-id="europe-uefa-conference-league-football-velez-milsami-2026-07-09-20-00" group-title="Europe UEFA Conference League",Velež vs Milsami (Moja TV)
+https://s2.kora.st/channel.php?id=62
+#EXTINF:-1 tvg-id="europe-uefa-conference-league-football-sarajevo-inter-turku-2026-07-09-22-00" group-title="Europe UEFA Conference League",Sarajevo vs Inter Turku (Moja TV)
+https://s2.kora.st/channel.php?id=62
+#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-qarabag-vestri-2026-07-09-19-00" group-title="Europe UEFA Europa League",Qarabağ vs Vestri (CBC Sport Azerbaijan)
+https://s2.kora.st/channel.php?id=63
+#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-sheriff-aluminij-2026-07-09-20-00" group-title="Europe UEFA Europa League",Sheriff vs Aluminij (We Sport)
+https://s2.kora.st/channel.php?id=64
+#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-dynamo-kyiv-universitatea-cluj-2026-07-09-20-00" group-title="Europe UEFA Europa League",Dynamo Kyiv vs Universitatea Cluj (Digi Sport 1)
+https://s2.kora.st/channel.php?id=65
+#EXTINF:-1 tvg-id="europe-uefa-conference-league-football-alashkert-yelimay-semey-2026-07-09-19-00" group-title="Europe UEFA Conference League",Alashkert vs Yelimay Semey (Qazsport)
+https://s2.kora.st/channel.php?id=66
+#EXTINF:-1 tvg-id="europe-uefa-europa-league-football-hajduk-split-zilina-2026-07-09-21-00" group-title="Europe UEFA Europa League",Hajduk Split vs Žilina (Dvojka)
+https://s2.kora.st/channel.php?id=68
+#EXTINF:-1 tvg-id="europe-uefa-conference-league-football-dinamo-city-astana-2026-07-09-22-00" group-title="Europe UEFA Conference League",Dinamo City vs Astana (Kazach TV)
+https://s2.kora.st/channel.php?id=69
+#EXTINF:-1 tvg-id="canada-canadian-championship-football-vancouver-whitecaps-cavalry-2026-07-09-05-30" group-title="Canada Canadian Championship",Vancouver Whitecaps vs Cavalry (Fox Sports 2)
+https://s2.kora.st/channel.php?id=82
+#EXTINF:-1 tvg-id="afl-australian-football-sydney-swans-fremantle-dockers-2026-07-09-13-10" group-title="AFL",Sydney Swans vs Fremantle Dockers (Fox Sports 2)
+https://s2.kora.st/channel.php?id=82
+#EXTINF:-1 tvg-id="canada-canadian-championship-football-vancouver-fc-cf-montreal-2026-07-09-05-00" group-title="Canada Canadian Championship",Vancouver FC vs CF Montréal (Fox Soccer Plus)
+https://s2.kora.st/channel.php?id=83
+#EXTINF:-1 tvg-id="nrlw-rugby-brisbane-broncos-w-cronulla-sharks-w-2026-07-09-12-45" group-title="NRLW",Brisbane Broncos W vs Cronulla Sharks W (Fox Soccer Plus)
+https://s2.kora.st/channel.php?id=83
+#EXTINF:-1 tvg-id="super-league-rugby-hull-fc-york-rlfc-2026-07-09-22-00" group-title="Super League",Hull FC vs York RLFC (Fox Soccer Plus)
+https://s2.kora.st/channel.php?id=83

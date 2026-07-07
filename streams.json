@@ -299,45 +299,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [World Rugby U20 Championship] Rugby: France U20 vs Australia U20 [Premier Sports 2 GB]",
-            "matchstr": "France U20 vs Australia U20",
-            "time": "17:00",
-            "league": "World Rugby U20 Championship",
-            "sport": "Rugby",
-            "team1": "France U20",
-            "team2": "Australia U20",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=2"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=32"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u20-championship-rugby-france-u20-australia-u20-2026-07-07-17-00",
-            "startTimestamp": 1783432800000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [World Club Friendly] Shelbourne vs Celtic [Premier Sports 2 GB]",
             "matchstr": "Shelbourne vs Celtic",
             "time": "20:00",
@@ -363,56 +324,6 @@
             ],
             "slug": "world-club-friendly-football-shelbourne-celtic-2026-07-07-20-00",
             "startTimestamp": 1783443600000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [World Rugby U20 Championship] Rugby: South Africa U20 vs Wales U20 [Premier Sports 1 GB]",
-            "matchstr": "South Africa U20 vs Wales U20",
-            "time": "17:00",
-            "league": "World Rugby U20 Championship",
-            "sport": "Rugby",
-            "team1": "South Africa U20",
-            "team2": "Wales U20",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=3"
-                    ]
-                },
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=8"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=33"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u20-championship-rugby-south-africa-u20-wales-u20-2026-07-07-17-00",
-            "startTimestamp": 1783432800000,
             "duration": 120
         },
         {
@@ -1135,6 +1046,754 @@
             ],
             "slug": "world-club-friendly-football-admira-fenerbahce-2026-07-08-20-30",
             "startTimestamp": 1783531800000,
+            "duration": 120
+        },
+        {
+            "matchText": "23:00 [FIFA World Cup] France vs Morocco [ITV1 GB]",
+            "matchstr": "France vs Morocco",
+            "time": "23:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "France",
+            "team2": "Morocco",
+            "channel": "ITV1 GB",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "ITV1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=1"
+                    ]
+                },
+                {
+                    "name": "Fox",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=10"
+                    ],
+                    "number": 10,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=10"
+                    ]
+                },
+                {
+                    "name": "MagentaTV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=11"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=31"
+                    ]
+                },
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=47"
+                    ]
+                },
+                {
+                    "name": "M6",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=56"
+                    ],
+                    "number": 56,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=56"
+                    ]
+                },
+                {
+                    "name": "TVP1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=61"
+                    ],
+                    "number": 61,
+                    "language": "PL",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=61"
+                    ]
+                },
+                {
+                    "name": "HRT 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "HR",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=70"
+                    ]
+                },
+                {
+                    "name": "YLE TV2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=72"
+                    ]
+                },
+                {
+                    "name": "TV4 Sweden",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=74"
+                    ]
+                },
+                {
+                    "name": "NPO 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=88"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=100"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-france-morocco-2026-07-09-23-00",
+            "startTimestamp": 1783627200000,
+            "duration": 120
+        },
+        {
+            "matchText": "23:30 [NBA] Basketball: San Antonio Spurs vs Atlanta Hawks [ESPN2 US]",
+            "matchstr": "San Antonio Spurs vs Atlanta Hawks",
+            "time": "23:30",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "San Antonio Spurs",
+            "team2": "Atlanta Hawks",
+            "channel": "ESPN2 US",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "ESPN2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=2"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-san-antonio-spurs-atlanta-hawks-2026-07-09-23-30",
+            "startTimestamp": 1783629000000,
+            "duration": 180
+        },
+        {
+            "matchText": "22:30 [NBA] Basketball: Minnesota Timberwolves vs New Orleans Pelicans [Prime Video US]",
+            "matchstr": "Minnesota Timberwolves vs New Orleans Pelicans",
+            "time": "22:30",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "Minnesota Timberwolves",
+            "team2": "New Orleans Pelicans",
+            "channel": "Prime Video US",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Prime Video",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=3"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-minnesota-timberwolves-new-orleans-pelicans-2026-07-09-22-30",
+            "startTimestamp": 1783625400000,
+            "duration": 180
+        },
+        {
+            "matchText": "02:00 [Chile Copa De La Liga] Uni\u00f3n La Calera vs Coquimbo Unido [TNT SPORTS Premium ES]",
+            "matchstr": "Uni\u00f3n La Calera vs Coquimbo Unido",
+            "time": "02:00",
+            "league": "Chile Copa De La Liga",
+            "sport": "Football",
+            "team1": "Uni\u00f3n La Calera",
+            "team2": "Coquimbo Unido",
+            "channel": "TNT SPORTS Premium ES",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "TNT SPORTS Premium",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=27"
+                    ]
+                }
+            ],
+            "slug": "chile-copa-de-la-liga-football-union-la-calera-coquimbo-unido-2026-07-09-02-00",
+            "startTimestamp": 1783551600000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [Europe UEFA Europa League] CSKA Sofia vs Derry City [Diema Sport BG]",
+            "matchstr": "CSKA Sofia vs Derry City",
+            "time": "21:00",
+            "league": "Europe UEFA Europa League",
+            "sport": "Football",
+            "team1": "CSKA Sofia",
+            "team2": "Derry City",
+            "channel": "Diema Sport BG",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Diema Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=48"
+                    ],
+                    "number": 48,
+                    "language": "BG",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=48"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-europa-league-football-cska-sofia-derry-city-2026-07-09-21-00",
+            "startTimestamp": 1783620000000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [Europe UEFA Europa League] Vojvodina vs Ferencv\u00e1ros [Duna World HU]",
+            "matchstr": "Vojvodina vs Ferencv\u00e1ros",
+            "time": "21:00",
+            "league": "Europe UEFA Europa League",
+            "sport": "Football",
+            "team1": "Vojvodina",
+            "team2": "Ferencv\u00e1ros",
+            "channel": "Duna World HU",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Duna World",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=57"
+                    ],
+                    "number": 57,
+                    "language": "HU",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=57"
+                    ]
+                },
+                {
+                    "name": "Arena Sport 1x2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=67"
+                    ],
+                    "number": 67,
+                    "language": "SR",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=67"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-europa-league-football-vojvodina-ferencvaros-2026-07-09-21-00",
+            "startTimestamp": 1783620000000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [Europe UEFA Europa League] Hajduk Split vs MSK Zilina [Hajduk TV HR]",
+            "matchstr": "Hajduk Split vs MSK Zilina",
+            "time": "21:00",
+            "league": "Europe UEFA Europa League",
+            "sport": "Football",
+            "team1": "Hajduk Split",
+            "team2": "MSK Zilina",
+            "channel": "Hajduk TV HR",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Hajduk TV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=58"
+                    ],
+                    "number": 58,
+                    "language": "HR",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=58"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-europa-league-football-hajduk-split-msk-zilina-2026-07-09-21-00",
+            "startTimestamp": 1783620000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Europe UEFA Conference League] Stjarnan vs V\u00edkingur [S\u00ddN Sport \u00cdsland IS]",
+            "matchstr": "Stjarnan vs V\u00edkingur",
+            "time": "22:00",
+            "league": "Europe UEFA Conference League",
+            "sport": "Football",
+            "team1": "Stjarnan",
+            "team2": "V\u00edkingur",
+            "channel": "S\u00ddN Sport \u00cdsland IS",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "S\u00ddN Sport \u00cdsland",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=59"
+                    ],
+                    "number": 59,
+                    "language": "IS",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=59"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-conference-league-football-stjarnan-vikingur-2026-07-09-22-00",
+            "startTimestamp": 1783623600000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [World Club Friendly] Debrecen vs \u017delezni\u010dar Pan\u010devo [Moja TV BH]",
+            "matchstr": "Debrecen vs \u017delezni\u010dar Pan\u010devo",
+            "time": "15:00",
+            "league": "World Club Friendly",
+            "sport": "Football",
+            "team1": "Debrecen",
+            "team2": "\u017delezni\u010dar Pan\u010devo",
+            "channel": "Moja TV BH",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Moja TV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=62"
+                    ],
+                    "number": 62,
+                    "language": "BH",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=62"
+                    ]
+                }
+            ],
+            "slug": "world-club-friendly-football-debrecen-zeleznicar-pancevo-2026-07-09-15-00",
+            "startTimestamp": 1783598400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Europe UEFA Conference League] Vele\u017e vs Milsami [Moja TV BH]",
+            "matchstr": "Vele\u017e vs Milsami",
+            "time": "20:00",
+            "league": "Europe UEFA Conference League",
+            "sport": "Football",
+            "team1": "Vele\u017e",
+            "team2": "Milsami",
+            "channel": "Moja TV BH",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Moja TV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=62"
+                    ],
+                    "number": 62,
+                    "language": "BH",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=62"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-conference-league-football-velez-milsami-2026-07-09-20-00",
+            "startTimestamp": 1783616400000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Europe UEFA Conference League] Sarajevo vs Inter Turku [Moja TV BH]",
+            "matchstr": "Sarajevo vs Inter Turku",
+            "time": "22:00",
+            "league": "Europe UEFA Conference League",
+            "sport": "Football",
+            "team1": "Sarajevo",
+            "team2": "Inter Turku",
+            "channel": "Moja TV BH",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Moja TV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=62"
+                    ],
+                    "number": 62,
+                    "language": "BH",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=62"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-conference-league-football-sarajevo-inter-turku-2026-07-09-22-00",
+            "startTimestamp": 1783623600000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Europe UEFA Europa League] Qaraba\u011f vs Vestri [CBC Sport Azerbaijan AZ]",
+            "matchstr": "Qaraba\u011f vs Vestri",
+            "time": "19:00",
+            "league": "Europe UEFA Europa League",
+            "sport": "Football",
+            "team1": "Qaraba\u011f",
+            "team2": "Vestri",
+            "channel": "CBC Sport Azerbaijan AZ",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "CBC Sport Azerbaijan",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=63"
+                    ],
+                    "number": 63,
+                    "language": "AZ",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=63"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-europa-league-football-qarabag-vestri-2026-07-09-19-00",
+            "startTimestamp": 1783612800000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Europe UEFA Europa League] Sheriff vs Aluminij [We Sport MD]",
+            "matchstr": "Sheriff vs Aluminij",
+            "time": "20:00",
+            "league": "Europe UEFA Europa League",
+            "sport": "Football",
+            "team1": "Sheriff",
+            "team2": "Aluminij",
+            "channel": "We Sport MD",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "We Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=64"
+                    ],
+                    "number": 64,
+                    "language": "MD",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=64"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-europa-league-football-sheriff-aluminij-2026-07-09-20-00",
+            "startTimestamp": 1783616400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Europe UEFA Europa League] Dynamo Kyiv vs Universitatea Cluj [Digi Sport 1 RO]",
+            "matchstr": "Dynamo Kyiv vs Universitatea Cluj",
+            "time": "20:00",
+            "league": "Europe UEFA Europa League",
+            "sport": "Football",
+            "team1": "Dynamo Kyiv",
+            "team2": "Universitatea Cluj",
+            "channel": "Digi Sport 1 RO",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Digi Sport 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=65"
+                    ],
+                    "number": 65,
+                    "language": "RO",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=65"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-europa-league-football-dynamo-kyiv-universitatea-cluj-2026-07-09-20-00",
+            "startTimestamp": 1783616400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Europe UEFA Conference League] Alashkert vs Yelimay Semey [Qazsport KZ]",
+            "matchstr": "Alashkert vs Yelimay Semey",
+            "time": "19:00",
+            "league": "Europe UEFA Conference League",
+            "sport": "Football",
+            "team1": "Alashkert",
+            "team2": "Yelimay Semey",
+            "channel": "Qazsport KZ",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Qazsport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "KZ",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=66"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-conference-league-football-alashkert-yelimay-semey-2026-07-09-19-00",
+            "startTimestamp": 1783612800000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [Europe UEFA Europa League] Hajduk Split vs \u017dilina [Dvojka SK]",
+            "matchstr": "Hajduk Split vs \u017dilina",
+            "time": "21:00",
+            "league": "Europe UEFA Europa League",
+            "sport": "Football",
+            "team1": "Hajduk Split",
+            "team2": "\u017dilina",
+            "channel": "Dvojka SK",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Dvojka",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "SK",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=68"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-europa-league-football-hajduk-split-zilina-2026-07-09-21-00",
+            "startTimestamp": 1783620000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Europe UEFA Conference League] Dinamo City vs Astana [Kazach TV KA]",
+            "matchstr": "Dinamo City vs Astana",
+            "time": "22:00",
+            "league": "Europe UEFA Conference League",
+            "sport": "Football",
+            "team1": "Dinamo City",
+            "team2": "Astana",
+            "channel": "Kazach TV KA",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Kazach TV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "KA",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=69"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-conference-league-football-dinamo-city-astana-2026-07-09-22-00",
+            "startTimestamp": 1783623600000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:30 [Canada Canadian Championship] Vancouver Whitecaps vs Cavalry [Fox Sports 2 US]",
+            "matchstr": "Vancouver Whitecaps vs Cavalry",
+            "time": "05:30",
+            "league": "Canada Canadian Championship",
+            "sport": "Football",
+            "team1": "Vancouver Whitecaps",
+            "team2": "Cavalry",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=82"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-championship-football-vancouver-whitecaps-cavalry-2026-07-09-05-30",
+            "startTimestamp": 1783564200000,
+            "duration": 120
+        },
+        {
+            "matchText": "13:10 [AFL] Australian Football: Sydney Swans vs Fremantle Dockers [Fox Sports 2 US]",
+            "matchstr": "Sydney Swans vs Fremantle Dockers",
+            "time": "13:10",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Sydney Swans",
+            "team2": "Fremantle Dockers",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=82"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-sydney-swans-fremantle-dockers-2026-07-09-13-10",
+            "startTimestamp": 1783591800000,
+            "duration": 180
+        },
+        {
+            "matchText": "05:00 [Canada Canadian Championship] Vancouver FC vs CF Montr\u00e9al [Fox Soccer Plus US]",
+            "matchstr": "Vancouver FC vs CF Montr\u00e9al",
+            "time": "05:00",
+            "league": "Canada Canadian Championship",
+            "sport": "Football",
+            "team1": "Vancouver FC",
+            "team2": "CF Montr\u00e9al",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=83"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-championship-football-vancouver-fc-cf-montreal-2026-07-09-05-00",
+            "startTimestamp": 1783562400000,
+            "duration": 120
+        },
+        {
+            "matchText": "12:45 [NRLW] Rugby: Brisbane Broncos W vs Cronulla Sharks W [Fox Soccer Plus US]",
+            "matchstr": "Brisbane Broncos W vs Cronulla Sharks W",
+            "time": "12:45",
+            "league": "NRLW",
+            "sport": "Rugby",
+            "team1": "Brisbane Broncos W",
+            "team2": "Cronulla Sharks W",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=83"
+                    ]
+                }
+            ],
+            "slug": "nrlw-rugby-brisbane-broncos-w-cronulla-sharks-w-2026-07-09-12-45",
+            "startTimestamp": 1783590300000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Super League] Rugby: Hull FC vs York RLFC [Fox Soccer Plus US]",
+            "matchstr": "Hull FC vs York RLFC",
+            "time": "22:00",
+            "league": "Super League",
+            "sport": "Rugby",
+            "team1": "Hull FC",
+            "team2": "York RLFC",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-07-09",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=83"
+                    ]
+                }
+            ],
+            "slug": "super-league-rugby-hull-fc-york-rlfc-2026-07-09-22-00",
+            "startTimestamp": 1783623600000,
             "duration": 120
         }
     ]
