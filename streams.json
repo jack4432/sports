@@ -299,45 +299,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [World Rugby U20 Championship] Rugby: Argentina U20 vs England U20 [Premier Sports 2 GB]",
-            "matchstr": "Argentina U20 vs England U20",
-            "time": "14:30",
-            "league": "World Rugby U20 Championship",
-            "sport": "Rugby",
-            "team1": "Argentina U20",
-            "team2": "England U20",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=2"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=32"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u20-championship-rugby-argentina-u20-england-u20-2026-07-07-14-30",
-            "startTimestamp": 1783423800000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [World Rugby U20 Championship] Rugby: France U20 vs Australia U20 [Premier Sports 2 GB]",
             "matchstr": "France U20 vs Australia U20",
             "time": "17:00",
@@ -402,45 +363,6 @@
             ],
             "slug": "world-club-friendly-football-shelbourne-celtic-2026-07-07-20-00",
             "startTimestamp": 1783443600000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [World Rugby U20 Championship] Rugby: Scotland U20 vs Japan U20 [Premier Sports 1 GB]",
-            "matchstr": "Scotland U20 vs Japan U20",
-            "time": "14:30",
-            "league": "World Rugby U20 Championship",
-            "sport": "Rugby",
-            "team1": "Scotland U20",
-            "team2": "Japan U20",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=3"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=33"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u20-championship-rugby-scotland-u20-japan-u20-2026-07-07-14-30",
-            "startTimestamp": 1783423800000,
             "duration": 120
         },
         {
@@ -754,34 +676,6 @@
             ],
             "slug": "friendly-club-match-football-cska-1948-sofia-zeleznicar-2026-07-07-18-30",
             "startTimestamp": 1783438200000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Friendly Club Match] Buducnost vs Radnicki 1923 [Arena Premium 2 BH]",
-            "matchstr": "Buducnost vs Radnicki 1923",
-            "time": "15:00",
-            "league": "Friendly Club Match",
-            "sport": "Football",
-            "team1": "Buducnost",
-            "team2": "Radnicki 1923",
-            "channel": "Arena Premium 2 BH",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Arena Premium 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "BH",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=69"
-                    ]
-                }
-            ],
-            "slug": "friendly-club-match-football-buducnost-radnicki-1923-2026-07-07-15-00",
-            "startTimestamp": 1783425600000,
             "duration": 120
         },
         {
