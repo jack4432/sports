@@ -1,155 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "19:00 [FIFA World Cup] Argentina vs Egypt [ITV 1 GB]",
-            "matchstr": "Argentina vs Egypt",
-            "time": "19:00",
-            "league": "FIFA World Cup",
-            "sport": "Football",
-            "team1": "Argentina",
-            "team2": "Egypt",
-            "channel": "ITV 1 GB",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "ITV 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=1"
-                    ]
-                },
-                {
-                    "name": "FOX",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=10"
-                    ]
-                },
-                {
-                    "name": "MagentaTV",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=11"
-                    ]
-                },
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=31"
-                    ]
-                },
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=47"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=51"
-                    ]
-                },
-                {
-                    "name": "TVP2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=62"
-                    ],
-                    "number": 62,
-                    "language": "PL",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=62"
-                    ]
-                },
-                {
-                    "name": "HRT 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "HR",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=70"
-                    ]
-                },
-                {
-                    "name": "YLE TV2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=72"
-                    ]
-                },
-                {
-                    "name": "TV4 Sweden",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=74"
-                    ]
-                },
-                {
-                    "name": "NPO 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=88"
-                    ]
-                },
-                {
-                    "name": "DAZN Mundial",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=100"
-                    ]
-                }
-            ],
-            "slug": "fifa-world-cup-football-argentina-egypt-2026-07-07-19-00",
-            "startTimestamp": 1783440000000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [FIFA World Cup] Switzerland vs Colombia [ITV 1 GB]",
             "matchstr": "Switzerland vs Colombia",
             "time": "23:00",
@@ -299,101 +150,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [World Club Friendly] Shelbourne vs Celtic [Premier Sports 2 GB]",
-            "matchstr": "Shelbourne vs Celtic",
-            "time": "20:00",
-            "league": "World Club Friendly",
-            "sport": "Football",
-            "team1": "Shelbourne",
-            "team2": "Celtic",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=2"
-                    ]
-                }
-            ],
-            "slug": "world-club-friendly-football-shelbourne-celtic-2026-07-07-20-00",
-            "startTimestamp": 1783443600000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [World Rugby U20 Championship] Rugby: Georgia U20 vs Uruguay U20 [Premier Sports 1 GB]",
-            "matchstr": "Georgia U20 vs Uruguay U20",
-            "time": "19:30",
-            "league": "World Rugby U20 Championship",
-            "sport": "Rugby",
-            "team1": "Georgia U20",
-            "team2": "Uruguay U20",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=3"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=32"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u20-championship-rugby-georgia-u20-uruguay-u20-2026-07-07-19-30",
-            "startTimestamp": 1783441800000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [World Rugby U20 Championship] Rugby: Spain U20 vs Fiji U20 [Sky Sport 3 NZ]",
-            "matchstr": "Spain U20 vs Fiji U20",
-            "time": "19:30",
-            "league": "World Rugby U20 Championship",
-            "sport": "Rugby",
-            "team1": "Spain U20",
-            "team2": "Fiji U20",
-            "channel": "Sky Sport 3 NZ",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Sky Sport 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=33"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u20-championship-rugby-spain-u20-fiji-u20-2026-07-07-19-30",
-            "startTimestamp": 1783441800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:15 [MLB] Baseball: Milwaukee Brewers vs St. Louis Cardinals [MLB Pass US]",
             "matchstr": "Milwaukee Brewers vs St. Louis Cardinals",
             "time": "21:15",
@@ -420,34 +176,6 @@
             "slug": "mlb-baseball-milwaukee-brewers-st-louis-cardinals-2026-07-07-21-15",
             "startTimestamp": 1783448100000,
             "duration": 180
-        },
-        {
-            "matchText": "20:30 [Europe UEFA Champions League] Floriana vs Shamrock Rovers [TVMSport+ MT]",
-            "matchstr": "Floriana vs Shamrock Rovers",
-            "time": "20:30",
-            "league": "Europe UEFA Champions League",
-            "sport": "Football",
-            "team1": "Floriana",
-            "team2": "Shamrock Rovers",
-            "channel": "TVMSport+ MT",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "TVMSport+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=63"
-                    ],
-                    "number": 63,
-                    "language": "MT",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=63"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-champions-league-football-floriana-shamrock-rovers-2026-07-07-20-30",
-            "startTimestamp": 1783445400000,
-            "duration": 120
         },
         {
             "matchText": "21:30 [Europe UEFA Champions League] Borac Banja Luka vs Levski Sofia [Arena Sport 1 Premium BH]",
@@ -506,34 +234,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [Europe UEFA Champions League] Vardar vs KuPS [Arena Sport 1 SR]",
-            "matchstr": "Vardar vs KuPS",
-            "time": "20:00",
-            "league": "Europe UEFA Champions League",
-            "sport": "Football",
-            "team1": "Vardar",
-            "team2": "KuPS",
-            "channel": "Arena Sport 1 SR",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Arena Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "SR",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=66"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-champions-league-football-vardar-kups-2026-07-07-20-00",
-            "startTimestamp": 1783443600000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [Europe UEFA Champions League] Tre Fiori vs Larne [Arena 4 Premium SR]",
             "matchstr": "Tre Fiori vs Larne",
             "time": "21:30",
@@ -559,34 +259,6 @@
             ],
             "slug": "europe-uefa-champions-league-football-tre-fiori-larne-2026-07-07-21-30",
             "startTimestamp": 1783449000000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:30 [Friendly Club Match] CSKA 1948 Sofia vs Zeleznicar [Arena 2 Premium SR]",
-            "matchstr": "CSKA 1948 Sofia vs Zeleznicar",
-            "time": "18:30",
-            "league": "Friendly Club Match",
-            "sport": "Football",
-            "team1": "CSKA 1948 Sofia",
-            "team2": "Zeleznicar",
-            "channel": "Arena 2 Premium SR",
-            "important": false,
-            "matchDate": "2026-07-07",
-            "channels": [
-                {
-                    "name": "Arena 2 Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "SR",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=68"
-                    ]
-                }
-            ],
-            "slug": "friendly-club-match-football-cska-1948-sofia-zeleznicar-2026-07-07-18-30",
-            "startTimestamp": 1783438200000,
             "duration": 120
         },
         {
@@ -1370,6 +1042,17 @@
                     "links": [
                         "https://s2.kora.st/channel.php?id=58"
                     ]
+                },
+                {
+                    "name": "Dvojka",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "SK",
+                    "links": [
+                        "https://s2.kora.st/channel.php?id=68"
+                    ]
                 }
             ],
             "slug": "europe-uefa-europa-league-football-hajduk-split-msk-zilina-2026-07-09-21-00",
@@ -1598,34 +1281,6 @@
             ],
             "slug": "europe-uefa-conference-league-football-alashkert-yelimay-semey-2026-07-09-19-00",
             "startTimestamp": 1783612800000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [Europe UEFA Europa League] Hajduk Split vs \u017dilina [Dvojka SK]",
-            "matchstr": "Hajduk Split vs \u017dilina",
-            "time": "21:00",
-            "league": "Europe UEFA Europa League",
-            "sport": "Football",
-            "team1": "Hajduk Split",
-            "team2": "\u017dilina",
-            "channel": "Dvojka SK",
-            "important": false,
-            "matchDate": "2026-07-09",
-            "channels": [
-                {
-                    "name": "Dvojka",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "SK",
-                    "links": [
-                        "https://s2.kora.st/channel.php?id=68"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-europa-league-football-hajduk-split-zilina-2026-07-09-21-00",
-            "startTimestamp": 1783620000000,
             "duration": 120
         },
         {
