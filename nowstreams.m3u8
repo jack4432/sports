@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="wnba-basketball-dallas-wings-new-york-liberty-2026-07-08-03-00" group-title="WNBA",Dallas Wings vs New York Liberty (ESPN)
-https://s2.kora.st/channel.php?id=3
-#EXTINF:-1 tvg-id="wnba-basketball-dallas-wings-new-york-liberty-2026-07-08-03-00" group-title="WNBA",Dallas Wings vs New York Liberty (ESPN Deportes)
-https://s2.kora.st/channel.php?id=86
-#EXTINF:-1 tvg-id="nba-basketball-atlanta-hawks-memphis-grizzlies-2026-07-08-02-00" group-title="NBA",Atlanta Hawks vs Memphis Grizzlies (ESPN U)
-https://s2.kora.st/channel.php?id=4
-#EXTINF:-1 tvg-id="nba-basketball-oklahoma-city-thunder-utah-jazz-2026-07-08-04-00" group-title="NBA",Oklahoma City Thunder vs Utah Jazz (ESPN U)
-https://s2.kora.st/channel.php?id=4
 #EXTINF:-1 tvg-id="world-club-friendly-football-austria-wien-dac-2026-07-08-19-00" group-title="World Club Friendly",Austria Wien vs DAC (Krone TV)
 https://s2.kora.st/channel.php?id=16
 #EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-spain-u19-croatia-u19-2026-07-08-18-30" group-title="Europe UEFA U19 European Championship",Spain U19 vs Croatia U19 (Sportdigital FUSSBALL)
