@@ -1,52 +1,157 @@
 [
     {
-        "id": "10458",
-        "name": "Sacramento Kings at LA Clippers (English)",
-        "url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8?st=Bx5adImYobjZMY_mapZDpD8DDLS0Df-Njd3FuuMPsMc&e=1783664431"
+        "id": "10485",
+        "name": "Portland Trail Blazers at Phoenix Suns (English)",
+        "url": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?st=6F_uQcvUVjn1zy74J0kISv0b8JhotfzqHHC-hGwqZDY&e=1783679716"
     },
     {
-        "id": "10460",
-        "name": "Indiana Fever at Phoenix Mercury (English)",
-        "url": "https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?st=uFJ674mEA099q974TdXXC_ZwG-ee7kjGVVdWLY2g3xw&e=1783664431"
-    },
-    {
-        "id": "10461",
-        "name": "Las Vegas Aces at Portland Fire (English)",
-        "url": "https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?st=GbSwxWtaR-v4r5Hz4obi1xEGGqK_GfmYfaFrN388zCo&e=1783664431"
-    },
-    {
-        "id": "10451",
+        "id": "10477",
         "name": "Colorado Rockies at San Francisco Giants (English)",
-        "url": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8?st=tfqxcsBOKujufsBl_qrzC-dS2y3Nj-zFBjsbZWhLeUg&e=1783664432"
+        "url": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?st=m8rM8whGZLdLNjyBMZI8kaU8w-XKnVTM-Cd080rWrQg&e=1783679716"
     },
     {
-        "id": "10450",
-        "name": "Arizona Diamondbacks at San Diego Padres (English)",
-        "url": "https://edgestream1.pro/hls/dzjhkfazbka26.m3u8?st=rH8C_mAJilE8KrlRTagA-TQh9_WUzdh5e95LsWNje_c&e=1783664432"
+        "id": "10476",
+        "name": "Arizona Diamondbacks at Los Angeles Dodgers (English)",
+        "url": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?st=aiv4zlV7nVVLKMjoDgEXH8rU_1KraHq4jqblH0XRgsE&e=1783679716"
     },
     {
-        "id": "10457",
-        "name": "Utah Jazz at Washington Wizards (English)",
-        "url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?st=tbLjCOzDxHDfXjE3N_ibxu1lelb6whl6D5-vgWpwdyU&e=1783664432"
+        "id": "10484",
+        "name": "Oklahoma City Thunder at Los Angeles Lakers (English)",
+        "url": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8?st=F5wOkt3NpGw61InCisDfkxtDKuSeJqDx5eJe5Fn7lC8&e=1783679717"
     },
     {
-        "id": "10449",
-        "name": "Los Angeles Angels at Texas Rangers (English)",
-        "url": "https://edgestream3.pro/hls/kjhfzua25.m3u8?st=jkuPgLlPtHyMZBVBTrFvxmcgRBnWBogC5UeWu2LD1UE&e=1783664432"
+        "id": "10488",
+        "name": "Chicago Sky at Los Angeles Sparks (English)",
+        "url": "https://edgestream2.pro/hls/sqhdghzavbxu75.m3u8?st=KoO4q9UCTqf0uyGdFG5BRhpPIF1ZTe0sIZ-3KnMa4Dw&e=1783679717"
     },
     {
-        "id": "10459",
-        "name": "Seattle Storm at Atlanta Dream (English)",
-        "url": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?st=ELnIII52wS9C2ODAQqMUZ7Cf6gG6ew0zOCU_AWzgTvY&e=1783664432"
+        "id": "10475",
+        "name": "Toronto Blue Jays at San Diego Padres (English)",
+        "url": "https://edgestream3.pro/hls/jzabfazkbf27.m3u8?st=v-NvELrZFOCPlAB-9rt_OcXq4r_j6YdRXlez0EpTFNw&e=1783679717"
     },
     {
-        "id": "10448",
-        "name": "Milwaukee Brewers at St. Louis Cardinals (English)",
-        "url": "https://edgestream2.pro/hls/fskjanach24.m3u8?st=52wbEVbIQGb7diKKFPWV5rxVIbOZK_GclXOevjZjDoU&e=1783664432"
+        "id": "10483",
+        "name": "Boston Celtics at Toronto Raptors (English)",
+        "url": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?st=8UiQsN4WyAiK7NQI7LWfEZvdX9X3fTNAmfWFgmlAscc&e=1783679717"
     },
     {
-        "id": "10456",
-        "name": "Charlotte Hornets at Orlando Magic (English)",
-        "url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?st=j86lRMnlRHGe49tf_3tJ1wRGDCn_P3AZjX0kydWJDXA&e=1783664432"
+        "id": "10474",
+        "name": "Atlanta Braves at St. Louis Cardinals (English)",
+        "url": "https://edgestream1.pro/hls/dzjhkfazbka26.m3u8?st=HyRCCC3YB1k_4ITtvrPKT358qAW_4YR31fdA779GDOE&e=1783679717"
+    },
+    {
+        "id": "10473",
+        "name": "Los Angeles Angels at Minnesota Twins (English)",
+        "url": "https://edgestream1.pro/hls/kjhfzua25.m3u8?st=8AA16069vwWCqvcpGdUnYUK79AZFdlpFMGNU0QpdGF8&e=1783679717"
+    },
+    {
+        "id": "10472",
+        "name": "Houston Astros at Texas Rangers (English)",
+        "url": "https://edgestream3.pro/hls/fskjanach24.m3u8?st=lYmQCj00UgsxlkYmaphVY_jCN274oEhS15g0wgW-q4I&e=1783679718"
+    },
+    {
+        "id": "10482",
+        "name": "Chicago Bulls at Memphis Grizzlies (English)",
+        "url": "https://edgestream1.pro/hls/zeafwqvhfe69.m3u8?st=Sb_UyXfRkVG28GhXHcpAD6TfkyFcd6GmiKbu45DaVI0&e=1783679718"
+    },
+    {
+        "id": "10471",
+        "name": "Athletics Athletics at Chicago White Sox (English)",
+        "url": "https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8?st=tussfz_Jt0fW6nh5ofqgXCNxDVvQHronXfYCx5HNL-E&e=1783679718"
+    },
+    {
+        "id": "10486",
+        "name": "Golden State Valkyries at Connecticut Sun (English)",
+        "url": "https://edgestream3.pro/hls/fdgsqdfawa73.m3u8?st=Tp8MlDN1l7vswfdL9MnvZnBUWrKHagHPdCCHv0Z4Wtg&e=1783679718"
+    },
+    {
+        "id": "10487",
+        "name": "Dallas Wings at Toronto Tempo (English)",
+        "url": "https://edgestream2.pro/hls/yjtzafghvjza74.m3u8?st=7ueqrIFTPWRU4K5k_8UvVWBugHpzsvk_UdGHYaZ-gnA&e=1783679718"
+    },
+    {
+        "id": "10470",
+        "name": "Boston Red Sox at New York Mets (English)",
+        "url": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8?st=TCD0L3p8zOYwR6ipLiqaSUbr9KCId7qUTfnusgqsNFE&e=1783679718"
+    },
+    {
+        "id": "10467",
+        "name": "Chicago Cubs at Cincinnati Reds (English)",
+        "url": "https://edgestream3.pro/hls/bzagLHzach19.m3u8?st=8vaDmui2VIPEqIXmwNfH9A6Wv2OZQAtvx84gVY4YTDc&e=1783679718"
+    },
+    {
+        "id": "10468",
+        "name": "Cleveland Guardians at Miami Marlins (English)",
+        "url": "https://edgestream3.pro/hls/jkzahzadach20.m3u8?st=aVfWtl2y_ZQgG1HJGMJ0QgDPIOg1tCNGG106jD_J_jY&e=1783679718"
+    },
+    {
+        "id": "10469",
+        "name": "Seattle Mariners at Tampa Bay Rays (English)",
+        "url": "https://edgestream3.pro/hls/ojzkajnach21.m3u8?st=MZIu7Tz0be8HSHxHsbRj7oN_TqVuAd25ap4BkjESbRo&e=1783679719"
+    },
+    {
+        "id": "10466",
+        "name": "Kansas City Royals at Baltimore Orioles (English)",
+        "url": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8?st=GsZxfEYFmC7xcKje7vVjF3D0kH2mp2bx01x3Ih0xg8o&e=1783679719"
+    },
+    {
+        "id": "10465",
+        "name": "New York Yankees at Washington Nationals (English)",
+        "url": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8?st=bwEyVK_yE-VnfWIqUJyK4YcjkR2LEeva4Q_q5WhgV0M&e=1783679719"
+    },
+    {
+        "id": "10463",
+        "name": "Milwaukee Brewers at Pittsburgh Pirates (English)",
+        "url": "https://edgestream3.pro/hls/dazhfiach15.m3u8?st=fIUO8K1zOqSnQkg3hC863KFinCsTG50KhVxe7DmgnRk&e=1783679719"
+    },
+    {
+        "id": "10464",
+        "name": "Philadelphia Phillies at Detroit Tigers (English)",
+        "url": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?st=CslFUYLqCZtIoVlTct2OxoZW622sJQpHDNqF0HdDEio&e=1783679719"
+    },
+    {
+        "id": "10481",
+        "name": "Houston Rockets at Denver Nuggets (English)",
+        "url": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?st=ak-SxySSqbDafSLG18RwIcmq14xpAHqovjnPug-1y9Y&e=1783679719"
+    },
+    {
+        "id": "10480",
+        "name": "Brooklyn Nets at New York Knicks (English)",
+        "url": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?st=5dZuNPaXrmIgOGCg9f9YeF3I0l7HmMG39j4fm9kZxX0&e=1783679719"
+    },
+    {
+        "id": "10479",
+        "name": "Cleveland Cavaliers at Indiana Pacers (English)",
+        "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=ATwA---Ihc_-WIO4Kj2SKm3pwoK59R_3bYCsys78lU0&e=1783679719"
+    },
+    {
+        "id": "10478",
+        "name": "Milwaukee Bucks at Miami Heat (English)",
+        "url": "https://edgestream1.pro/hls/mlkijfezag65.m3u8?st=i_Pg3vVEMR0MaWkAzwRIqdLHTvKwNf7-q5x9x2-BBxQ&e=1783679719"
+    },
+    {
+        "id": "10462",
+        "name": "Belgium at Spain (English)",
+        "url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8?st=0z8Eacp3cZIQfoGv7yJ72-Z36wz55XZWkf9h4LNE1dA&e=1783679720"
+    },
+    {
+        "id": "10462",
+        "name": "Belgium at Spain (Arabic)",
+        "url": "https://edgestream3.pro/hls/eJmauBDCIf.m3u8?st=D7BT5Mj8P2NNXpDQ3yEvYMdlaGjcyU06MHT8OG4d20M&e=1783679720"
+    },
+    {
+        "id": "10462",
+        "name": "Belgium at Spain (Spanish)",
+        "url": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8?st=GzUYSyk82i-vEG4iC2a_XXrsUTGtUnziPlBB2-2A_T4&e=1783679720"
+    },
+    {
+        "id": "10462",
+        "name": "Belgium at Spain (French)",
+        "url": "https://edgestream1.pro/hls/sqdahach1ax.m3u8?st=Y12CF52mCuN_A0NLAtULx9gnBJwrHUUCSJEeyrg5FDA&e=1783679720"
+    },
+    {
+        "id": "10489",
+        "name": "None (English)",
+        "url": "https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?st=6XZ5zUsjdZfSBBugbXKoqPqertMZOZlmJ59Yc1-jq9I&e=1783679720"
     }
 ]
