@@ -1,118 +1,266 @@
 {
+  "Football": [
+    {
+      "id": "10462",
+      "name": "Belgium at Spain (English)",
+      "url": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?st=8M6sgx76D9J7wp3XsI2-CHUpDE0xjEW9pDQrZU18GN0&e=1783676381",
+      "start": "2026-07-10T20:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+    },
+    {
+      "id": "10462",
+      "name": "Belgium at Spain (Arabic)",
+      "url": "https://edgestream1.pro/hls/eJmauBDCIf.m3u8?st=-jJ2_Xr_fNcKxb5veEknkSjT1ZaMCQNjtCkfZsLrjj0&e=1783676381",
+      "start": "2026-07-10T20:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+    },
+    {
+      "id": "10462",
+      "name": "Belgium at Spain (Spanish)",
+      "url": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8?st=fd8A5GR8WcnkK8TpxSa0q35V5ucWaUqO7kD_XVZKhAY&e=1783676381",
+      "start": "2026-07-10T20:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+    },
+    {
+      "id": "10462",
+      "name": "Belgium at Spain (French)",
+      "url": "https://edgestream2.pro/hls/sqdahach1ax.m3u8?st=2qVi0nuVVQ6lwgB941RU1NpzWVK-DCIULHIuAhYNiGk&e=1783676381",
+      "start": "2026-07-10T20:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+    }
+  ],
   "Basketball": [
-    {
-      "id": "10455",
-      "name": "Golden State Warriors at Dallas Mavericks (English)",
-      "url": "https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?st=E9bnioaYF3vBQRraSWvQ2b-alx6mRWUbiMW27LWy_P0&e=1783661433",
-      "start": "2026-07-10T00:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png"
-    },
-    {
-      "id": "10456",
-      "name": "Charlotte Hornets at Orlando Magic (English)",
-      "url": "https://edgestream3.pro/hls/zeafwqvhfe69.m3u8?st=7WNm5xkjNKcTO4eQgB4h8F5fO5pYptbt9W9svqhOm5o&e=1783661433",
-      "start": "2026-07-10T00:30:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
-    },
-    {
-      "id": "10459",
-      "name": "Seattle Storm at Atlanta Dream (English)",
-      "url": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?st=J84Snitygwd-oTGzOfjTPzUM24V3LbGWW-14YBMjxCc&e=1783661433",
-      "start": "2026-07-10T01:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png"
-    },
-    {
-      "id": "10457",
-      "name": "Utah Jazz at Washington Wizards (English)",
-      "url": "https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8?st=prJAarapBfw9H-3uE5pEj_r0U1SyBn9XhtD7pzm-FBY&e=1783661433",
-      "start": "2026-07-10T02:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
-    },
-    {
-      "id": "10460",
-      "name": "Indiana Fever at Phoenix Mercury (English)",
-      "url": "https://edgestream2.pro/hls/fdgsqdfawa73.m3u8?st=DaceYOJzAdXRLz4_UL7kA66Onfvpdvr75QM_1oHS_xM&e=1783661432",
-      "start": "2026-07-10T03:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"
-    },
-    {
-      "id": "10461",
-      "name": "Las Vegas Aces at Portland Fire (English)",
-      "url": "https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?st=HJaw9tnRSVN8d4bo-n5aDUKXaJgAhe2hE8l2ijhn0x8&e=1783661432",
-      "start": "2026-07-10T03:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"
-    },
     {
       "id": "10458",
       "name": "Sacramento Kings at LA Clippers (English)",
-      "url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8?st=ZEKDv2DoaUQv0q2Xb3LefTxHcAfjCJ_QvxAgKi31c2k&e=1783661432",
+      "url": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8?st=lDpBzJfoEXMPfovstJpL8MghpgHsFZmp9YrHJ7M8U9s&e=1783676381",
       "start": "2026-07-10T04:00:00",
       "categoryId": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"
+    },
+    {
+      "id": "10478",
+      "name": "Milwaukee Bucks at Miami Heat (English)",
+      "url": "https://edgestream3.pro/hls/mlkijfezag65.m3u8?st=fM3SDVxFH1MAUa0jYTMXNJSCt5hmWtANE8xhvlEHf6U&e=1783676380",
+      "start": "2026-07-10T21:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png"
+    },
+    {
+      "id": "10479",
+      "name": "Cleveland Cavaliers at Indiana Pacers (English)",
+      "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?st=BJYp0dgiguh2t4BjoheUzSW2KoX7OFes6XvEXfX76Vs&e=1783676380",
+      "start": "2026-07-10T21:30:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
+    },
+    {
+      "id": "10480",
+      "name": "Brooklyn Nets at New York Knicks (English)",
+      "url": "https://edgestream3.pro/hls/hfsdqtaxvb67.m3u8?st=Co_At8TdyBTNW0PH1rSUJGW64PYGVM0dj4w4f5pIEC4&e=1783676380",
+      "start": "2026-07-10T23:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+    },
+    {
+      "id": "10481",
+      "name": "Houston Rockets at Denver Nuggets (English)",
+      "url": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8?st=8dcqR_-pxHhgCXclprXNiFtlRh0sKl8lwoUuNdG_-qw&e=1783676380",
+      "start": "2026-07-10T23:30:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
+    },
+    {
+      "id": "10486",
+      "name": "Golden State Valkyries at Connecticut Sun (English)",
+      "url": "https://edgestream3.pro/hls/fdgsqdfawa73.m3u8?st=lK7Ruv6JjiYyq-0vRHu-uIcA9vFFbEMD8ET8G8Pm7KM&e=1783676379",
+      "start": "2026-07-11T00:30:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png"
+    },
+    {
+      "id": "10487",
+      "name": "Dallas Wings at Toronto Tempo (English)",
+      "url": "https://edgestream3.pro/hls/yjtzafghvjza74.m3u8?st=rpvQQ0Z7bqFTUpV1MlVuxk4Wp1ZPTnQy3iwGOWSajPw&e=1783676379",
+      "start": "2026-07-11T00:30:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
+    },
+    {
+      "id": "10482",
+      "name": "Chicago Bulls at Memphis Grizzlies (English)",
+      "url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?st=52L-lruv3b2h89VyVzTGRzIWKSBArduYcyBVfXx9r80&e=1783676378",
+      "start": "2026-07-11T01:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png"
+    },
+    {
+      "id": "10483",
+      "name": "Boston Celtics at Toronto Raptors (English)",
+      "url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?st=ltS-lrSjGfQQf37yzPBtzHP88tvmM4qLTgsOXa6N8tE&e=1783676378",
+      "start": "2026-07-11T02:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+    },
+    {
+      "id": "10488",
+      "name": "Chicago Sky at Los Angeles Sparks (English)",
+      "url": "https://edgestream3.pro/hls/sqhdghzavbxu75.m3u8?st=FPy4rNUhyKjKuJ_he2FJSMeDFmeYhm6lvoIsVYqUjPY&e=1783676377",
+      "start": "2026-07-11T03:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
+    },
+    {
+      "id": "10484",
+      "name": "Oklahoma City Thunder at Los Angeles Lakers (English)",
+      "url": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8?st=p2-g47Kdj0K4fnkxDNf1IR7RlG6uTagdvMsf4oQA7YQ&e=1783676378",
+      "start": "2026-07-11T03:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+    },
+    {
+      "id": "10485",
+      "name": "Portland Trail Blazers at Phoenix Suns (English)",
+      "url": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?st=x70OIblf2THWSYboW1FjApqCJiGaYPJL1bvR0f5W_MQ&e=1783676377",
+      "start": "2026-07-11T04:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
     }
   ],
   "Baseball": [
     {
-      "id": "10445",
-      "name": "Athletics Athletics at Detroit Tigers (English)",
-      "url": "https://edgestream1.pro/hls/ojzkajnach21.m3u8?st=cCa2vh_1dEvwGmkH3jd_ojEzn7Yf-ftkZP41w_H_V7s&e=1783661434",
-      "start": "2026-07-09T23:40:00",
+      "id": "10463",
+      "name": "Milwaukee Brewers at Pittsburgh Pirates (English)",
+      "url": "https://edgestream1.pro/hls/dazhfiach15.m3u8?st=tXeHUgnlvzzW3uAZ7rXbO2so8neOKwpWlO9k7xCBsSQ&e=1783676380",
+      "start": "2026-07-10T23:40:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
+    },
+    {
+      "id": "10464",
+      "name": "Philadelphia Phillies at Detroit Tigers (English)",
+      "url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?st=kYbnFGbyVhQ7S-Q3KdL6oXaMbC0LkantsJecs4jgoCk&e=1783676380",
+      "start": "2026-07-10T23:40:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
     },
     {
-      "id": "10446",
-      "name": "Seattle Mariners at Miami Marlins (English)",
-      "url": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8?st=ftxf81kZwlbUV12jWsY5_14qWIoMMcOKBh6i8IO50oU&e=1783661434",
-      "start": "2026-07-09T23:40:00",
+      "id": "10465",
+      "name": "New York Yankees at Washington Nationals (English)",
+      "url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?st=-zvKmy6jQZl_fAeyKJkxP_tlx03zdYVWHGSd_YNgFGg&e=1783676380",
+      "start": "2026-07-10T23:45:00",
       "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
     },
     {
-      "id": "10447",
-      "name": "Philadelphia Phillies at Cincinnati Reds (English)",
-      "url": "https://edgestream3.pro/hls/jnzkdzjfanch23.m3u8?st=2l8eL_5eQVitPfEK-xrRpQwdkwDCRLuDTz1XIqEGDpw&e=1783661433",
-      "start": "2026-07-10T00:10:00",
+      "id": "10466",
+      "name": "Kansas City Royals at Baltimore Orioles (English)",
+      "url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8?st=BsxLTygRt_MXAjNu9DeOBIOBoOe0DHuenhPbLCnrorM&e=1783676379",
+      "start": "2026-07-11T00:05:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+    },
+    {
+      "id": "10467",
+      "name": "Chicago Cubs at Cincinnati Reds (English)",
+      "url": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?st=WN20nn8bmxZoynve_dWkQywIsB3ngtiWJgmITkmlFgc&e=1783676379",
+      "start": "2026-07-11T00:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
     },
     {
-      "id": "10448",
-      "name": "Milwaukee Brewers at St. Louis Cardinals (English)",
-      "url": "https://edgestream2.pro/hls/fskjanach24.m3u8?st=r3wEOuhZuNR6jtiwZo4QH4u3_0wgZED1i_si2a59QbU&e=1783661433",
-      "start": "2026-07-10T00:45:00",
+      "id": "10468",
+      "name": "Cleveland Guardians at Miami Marlins (English)",
+      "url": "https://edgestream1.pro/hls/jkzahzadach20.m3u8?st=3HJvur0NSZ3f1NC3G8pRv-0ndlVGq9wBExjZJg-RI-I&e=1783676379",
+      "start": "2026-07-11T00:10:00",
       "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
     },
     {
-      "id": "10449",
-      "name": "Los Angeles Angels at Texas Rangers (English)",
-      "url": "https://edgestream3.pro/hls/kjhfzua25.m3u8?st=45tPqWuL61VZwaoPOSTUR-PCdAkfBgn9k-yNZKrBr1Y&e=1783661433",
-      "start": "2026-07-10T01:05:00",
+      "id": "10469",
+      "name": "Seattle Mariners at Tampa Bay Rays (English)",
+      "url": "https://edgestream2.pro/hls/ojzkajnach21.m3u8?st=7cNwU9BQvwkPh2LoPB7e7lFGr80niQUAbPwC78_n5hg&e=1783676379",
+      "start": "2026-07-11T00:10:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+    },
+    {
+      "id": "10470",
+      "name": "Boston Red Sox at New York Mets (English)",
+      "url": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8?st=kEKInyg_ArZv_v3c2FVHA6G_Jokb8wT_NT6s8kKYRAs&e=1783676379",
+      "start": "2026-07-11T00:15:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+    },
+    {
+      "id": "10471",
+      "name": "Athletics Athletics at Chicago White Sox (English)",
+      "url": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?st=3ZEZ9_7ikfnUJo3CxnLRYPge5uzODE1GgEFkWzDUg1o&e=1783676379",
+      "start": "2026-07-11T00:40:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
+    },
+    {
+      "id": "10472",
+      "name": "Houston Astros at Texas Rangers (English)",
+      "url": "https://edgestream3.pro/hls/fskjanach24.m3u8?st=qTIYpajuZ9dmZD4vLw4eJAf2AnuYfGzuMDmBF7eY1Vc&e=1783676378",
+      "start": "2026-07-11T01:05:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
     },
     {
-      "id": "10450",
-      "name": "Arizona Diamondbacks at San Diego Padres (English)",
-      "url": "https://edgestream1.pro/hls/dzjhkfazbka26.m3u8?st=OEiYYNiEoO1eKSzwDfb_LkKNB-X2k7MRq6_4IPRE5v4&e=1783661433",
-      "start": "2026-07-10T02:40:00",
+      "id": "10473",
+      "name": "Los Angeles Angels at Minnesota Twins (English)",
+      "url": "https://edgestream2.pro/hls/kjhfzua25.m3u8?st=smsUZQVlVDg9s-2QkmpGkepwheOrR7ESFyR87SSg0SM&e=1783676378",
+      "start": "2026-07-11T01:10:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+    },
+    {
+      "id": "10474",
+      "name": "Atlanta Braves at St. Louis Cardinals (English)",
+      "url": "https://edgestream1.pro/hls/dzjhkfazbka26.m3u8?st=OHnDEgovksnYlObfOqWK9YgJiH91X8SG3_CUMaVFF0I&e=1783676378",
+      "start": "2026-07-11T01:15:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    {
+      "id": "10475",
+      "name": "Toronto Blue Jays at San Diego Padres (English)",
+      "url": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8?st=HLHWVBx0O2Yz3oKQ6R_xFzUGX8Rw-27A9WZW71CVwbU&e=1783676378",
+      "start": "2026-07-11T02:40:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
     },
     {
-      "id": "10451",
+      "id": "10476",
+      "name": "Arizona Diamondbacks at Los Angeles Dodgers (English)",
+      "url": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?st=FL1aDAGEvrXyIls9OMgoMN42a4ShBvNHSzSyawk9JK8&e=1783676377",
+      "start": "2026-07-11T03:10:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+    },
+    {
+      "id": "10477",
       "name": "Colorado Rockies at San Francisco Giants (English)",
-      "url": "https://edgestream3.pro/hls/jzabfazkbf27.m3u8?st=pY13OP0A-colyn_4RlSe1938B1Wrp31lziluoFzIyEs&e=1783661432",
-      "start": "2026-07-10T02:45:00",
+      "url": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?st=cWY3A2eHKsCtihK_Hau-zOroCeE2otH66Wt7KU_0SWc&e=1783676377",
+      "start": "2026-07-11T03:15:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+    }
+  ],
+  "… Other": [
+    {
+      "id": "10489",
+      "name": "MotoGP 24/24 (English)",
+      "url": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?st=NPUsxSFAHzkfP27_s4xG-K2komusXXmmLiEHQKkplbU&e=1783676381",
+      "start": "2026-07-10T08:00:00",
+      "categoryId": 15,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oNUYcRENB6JW4rpLrNXZEE2nDtJ1yRPwLWWxDkb9ww&s=10"
     }
   ]
 }
