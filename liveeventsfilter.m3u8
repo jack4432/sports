@@ -4,6 +4,11 @@
 #EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://hoofoot.ru/stream/NzU4
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[AFL] Richmond Tigers vs Hawthorn Hawks | Sky Sport 9 NZ (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[AFL] Richmond Tigers vs Hawthorn Hawks | Sky Sport 9 NZ (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTk2
 #EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[AFL] Richmond Tigers vs Hawthorn Hawks | TNT Sports 2 UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[AFL] Richmond Tigers vs Hawthorn Hawks | TNT Sports 2 UK (HOOFUT)
 #EXTVLCOPT:http-referrer=https://hoofoot.ru
 #EXTVLCOPT:http-origin=https://hoofoot.ru
@@ -79,8 +84,3 @@ http://193.47.62.41/hls/PPPPQQQQ.m3u8
 #EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://hoofoot.ru/stream/MzI=
-#EXTINF:-1 tvg-chno="124" tvg-id="Live.Event.us" tvg-name="[WNBA Basketball] Phoenix Mercury W vs Connecticut Sun W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[WNBA Basketball] Phoenix Mercury W vs Connecticut Sun W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.41/hls/PPPPQ.m3u8
