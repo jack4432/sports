@@ -499,6 +499,11 @@ https://hoofoot.ru/stream/OQ==
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream1.pro/hls/dzjhkfazbka26.m3u8
+#EXTINF:-1 tvg-chno="182" tvg-id="Live.Event.us" tvg-name="[MXGP] FIM Motocross World Championship | CBS Sports Network (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[MXGP] FIM Motocross World Championship | CBS Sports Network (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzA4
 #EXTINF:-1 tvg-chno="198" tvg-id="Live.Event.us" tvg-name="[PDC Darts First Round] Raymond Smith vs Kevin Doets | Arena Sport 5 Serbia (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[PDC Darts First Round] Raymond Smith vs Kevin Doets | Arena Sport 5 Serbia (HOOFUT)
 #EXTVLCOPT:http-referrer=https://hoofoot.ru
 #EXTVLCOPT:http-origin=https://hoofoot.ru
@@ -639,6 +644,11 @@ https://hoofoot.ru/stream/Nzc4
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/53619?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/53619/load-playlist
+#EXTINF:-1 tvg-chno="249" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Seattle Storm vs Minnesota Lynx | USA Network (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] Seattle Storm vs Minnesota Lynx | USA Network (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzQz
 #EXTINF:-1 tvg-chno="254" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Toronto Tempo vs Las Vegas Aces | Sky Sports Action UK (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] Toronto Tempo vs Las Vegas Aces | Sky Sports Action UK (HOOFUT)
 #EXTVLCOPT:http-referrer=https://hoofoot.ru
 #EXTVLCOPT:http-origin=https://hoofoot.ru
