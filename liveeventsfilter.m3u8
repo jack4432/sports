@@ -139,21 +139,6 @@ https://cdn7.zohanayaan.com:1686/hls/do56.m3u8?md5=3lmaB2fzrFwgXrZ-6L6Y1A&expire
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn6.zohanayaan.com:1686/hls/do57.m3u8?md5=S8k0nl0_g3D2IkvFqN4TaQ&expires=1787689850
-#EXTINF:-1 tvg-chno="113" tvg-id="Soccer.Dummy.us" tvg-name="[England League Cup] Cardiff City vs Norwich City | FR (PLYFST)" tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="Live Events",[England League Cup] Cardiff City vs Norwich City | FR (PLYFST)
-#EXTVLCOPT:http-referrer=https://exposestrat.com
-#EXTVLCOPT:http-origin=https://exposestrat.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn10.zohanayaan.com:1686/hls/do54.m3u8?md5=_x98odwZVJgpMA8J4Yv4ow&expires=1787691620
-#EXTINF:-1 tvg-chno="114" tvg-id="Soccer.Dummy.us" tvg-name="[England League Cup] Doncaster Rovers vs Middlesbrough | FR (PLYFST)" tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="Live Events",[England League Cup] Doncaster Rovers vs Middlesbrough | FR (PLYFST)
-#EXTVLCOPT:http-referrer=https://exposestrat.com
-#EXTVLCOPT:http-origin=https://exposestrat.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn1.zohanayaan.com:1686/hls/do55.m3u8?md5=aSpGpIQlhUNK2Y_76YtdZw&expires=1787693411
-#EXTINF:-1 tvg-chno="115" tvg-id="Soccer.Dummy.us" tvg-name="[England League Cup] Ipswich Town vs Leicester City | NO (PLYFST)" tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="Live Events",[England League Cup] Ipswich Town vs Leicester City | NO (PLYFST)
-#EXTVLCOPT:http-referrer=https://exposestrat.com
-#EXTVLCOPT:http-origin=https://exposestrat.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn2.zohanayaan.com:1686/hls/do69.m3u8?md5=jLVmfoVFbfsF4GcCBfda0g&expires=1787689859
 #EXTINF:-1 tvg-chno="116" tvg-id="Soccer.Dummy.us" tvg-name="[England League Cup] Nottingham Forest vs Leeds United | EN (PLYFST)" tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="Live Events",[England League Cup] Nottingham Forest vs Leeds United | EN (PLYFST)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
@@ -224,21 +209,6 @@ http://193.47.62.54/hls/IEEEEQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live5.ftlcbx.com/live/73667700_6cfe257e7e52ae2a99421dd3ade428a6.m3u8?auth_key=1787698068-0-0-1c45b74422f3542657444460fc469f25
-#EXTINF:-1 tvg-chno="147" tvg-id="Soccer.Dummy.us" tvg-name="[English EFL Cup] Cardiff City vs Norwich City (FAWA)" tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="Live Events",[English EFL Cup] Cardiff City vs Norwich City (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.58/hls/GAGAGA.m3u8
-#EXTINF:-1 tvg-chno="149" tvg-id="Soccer.Dummy.us" tvg-name="[English EFL Cup] Doncaster vs Middlesbrough (FAWA)" tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="Live Events",[English EFL Cup] Doncaster vs Middlesbrough (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.50/hls/GTGTGT.m3u8
-#EXTINF:-1 tvg-chno="150" tvg-id="Soccer.Dummy.us" tvg-name="[English EFL Cup] Doncaster vs Middlesbrough 2 (FAWA)" tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="Live Events",[English EFL Cup] Doncaster vs Middlesbrough 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live.ftlcbx.com/live/73667694_29548d83c99fcff1acac28526fb54fa1.m3u8?auth_key=1787696746-0-0-22eadf3c377fb6d3b87400f3914a7a2f
 #EXTINF:-1 tvg-chno="151" tvg-id="Soccer.Dummy.us" tvg-name="[English EFL Cup] Fleetwood vs Shrewsbury (FAWA)" tvg-logo="https://i.gyazo.com/c8842fbcb2eeb6a53bc69fa6055b8b5d.png" group-title="Live Events",[English EFL Cup] Fleetwood vs Shrewsbury (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -464,16 +434,6 @@ http://193.47.62.41/hls/FUUUZAAA.m3u8
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55190?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/55190/load-playlist
-#EXTINF:-1 tvg-chno="335" tvg-id="Soccer.Dummy.us" tvg-name="[Spain La Liga] Valencia vs Real Betis | EN (PLYFST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spain La Liga] Valencia vs Real Betis | EN (PLYFST)
-#EXTVLCOPT:http-referrer=https://exposestrat.com
-#EXTVLCOPT:http-origin=https://exposestrat.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn4.zohanayaan.com:1686/hls/do31.m3u8?md5=ZFKW2MNyzNYl9snlg0OhHg&expires=1787689842
-#EXTINF:-1 tvg-chno="336" tvg-id="Soccer.Dummy.us" tvg-name="[Spain La Liga] Valencia vs Real Betis | ES (PLYFST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spain La Liga] Valencia vs Real Betis | ES (PLYFST)
-#EXTVLCOPT:http-referrer=https://exposestrat.com
-#EXTVLCOPT:http-origin=https://exposestrat.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn4.zohanayaan.com:1686/hls/do86.m3u8?md5=aXGhgA7sdP-tVf5Hz8ASZw&expires=1787689844
 #EXTINF:-1 tvg-chno="338" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Valencia vs Real Betis (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish La Liga] Valencia vs Real Betis (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
