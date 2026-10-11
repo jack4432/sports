@@ -1,29 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/football.png?raw=true" group-title="Soccer",Monaco vs Toulouse
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Nashville Predators vs Ottawa Senators
-https://admin2.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Dallas Stars vs Pittsburgh Penguins
-https://admin2.formaturamaxi.com.br/nhl8.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Carolina Hurricanes vs Chicago Blackhawks
-https://admin2.formaturamaxi.com.br/nhl9.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Toronto Maple Leafs vs Colorado Avalanche
-https://tedesco.formaturamaxi.com.br/nhl11.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Anaheim Ducks vs Calgary Flames
-https://admin2.formaturamaxi.com.br/nhl13.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Utah Mammoth vs Buffalo Sabres
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Carolina Hurricanes vs Chicago Blackhawks
+https://admin2.formaturamaxi.com.br/nhl9.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Columbus Blue Jackets vs St. Louis Blues
 https://admin2.formaturamaxi.com.br/nhl10.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Detroit Red Wings vs Montreal Canadiens
-https://admin2.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",High Limit Racing - Night 2
-https://admin2.formaturamaxi.com.br/flo4.m3u8
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",WoO Sprint Cars - Race
-https://admin2.formaturamaxi.com.br/flo3.m3u8
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR O'Reilly Auto Parts Series - Race
-https://admin2.formaturamaxi.com.br/ncaa6.m3u8
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",Lucas Oil Late Model Series - Night 2
-https://admin2.formaturamaxi.com.br/flo2.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Dallas Stars vs Pittsburgh Penguins
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Nashville Predators vs Ottawa Senators
+https://admin2.formaturamaxi.com.br/nhl7.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Toronto Maple Leafs vs Colorado Avalanche
+https://tedesco.formaturamaxi.com.br/nhl11.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Los Angeles Kings vs Vegas Golden Knights
+https://admin2.formaturamaxi.com.br/nhl13.m3u8
 #EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",Super DIRTweek - Oswego
 https://admin2.formaturamaxi.com.br/flo.m3u8
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",Lucas Oil Late Model Series - Night 2
+https://admin2.formaturamaxi.com.br/flo2.m3u8
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",WoO Sprint Cars - Race
+https://admin2.formaturamaxi.com.br/flo3.m3u8
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",High Limit Racing - Night 2
+https://admin2.formaturamaxi.com.br/flo4.m3u8
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR O'Reilly Auto Parts Series - Race
+https://admin2.formaturamaxi.com.br/ncaa6.m3u8
